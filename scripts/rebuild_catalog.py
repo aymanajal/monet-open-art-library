@@ -39,7 +39,7 @@ for e in rows:
 save('catalog/artworks.json',rows)
 fields=['id','title','date','museum','rights','status','notes','file','sha256','width','height','bytes','source_url','groups','wikidata_ids','source_metadata']
 with (ROOT/'catalog/artworks.csv').open('w',encoding='utf-8-sig',newline='') as f:
-    writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore');writer.writeheader()
+    writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore',lineterminator='\n');writer.writeheader()
     for e in rows:writer.writerow({k:json.dumps(e[k],ensure_ascii=False) if isinstance(e.get(k),(dict,list)) else e.get(k,'') for k in fields})
 previews=sorted(p for p in (ROOT/'previews').rglob('*') if p.is_file())
 files=[ROOT/e['file'] for e in rows]+previews
