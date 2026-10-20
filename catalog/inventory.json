@@ -1,0 +1,22 @@
+{
+  "export_date": "2026-10-20",
+  "asset_records": 149,
+  "unique_artwork_image_files": 149,
+  "previews": 4,
+  "total_unique_image_files": 153,
+  "bytes": 192699191,
+  "status_counts": {
+    "approved": 125,
+    "review_metadata": 5,
+    "review_duplicate": 5,
+    "review_near_duplicate": 14
+  },
+  "scheduled_groups": 22,
+  "prepared_groups": 2,
+  "invalid_downloads_not_published": [
+    "新增资源_20261020/MIA_1234.jpg",
+    "新增资源_20261020/MIA_10436.jpg",
+    "新增资源_20261020/MIA_3267.jpg",
+    "新增资源_20261020/MIA_1413.jpg"
+  ]
+}

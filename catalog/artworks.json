@@ -1,0 +1,4165 @@
+[
+  {
+    "id": "AIC_64818",
+    "title": "Stacks of Wheat (End of Summer)",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/64818",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_64818.jpg",
+    "sha256": "2658e64b32d4c2074b5ac3734aa397119cca3bd2a03fa0b8f97e859d11595d74",
+    "width": 2000,
+    "height": 1182,
+    "bytes": 785818,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "a38e2828-ec6f-ece1-a30f-70243449197b",
+      "reference_image_url": "https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      2
+    ]
+  },
+  {
+    "id": "AIC_16568",
+    "title": "Water Lilies",
+    "date": "1906",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16568",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16568.jpg",
+    "sha256": "58a4b6c871062127218746e3956f8f7a15349378a4717f327e3448f6649a14a2",
+    "width": 2000,
+    "height": 1921,
+    "bytes": 1514535,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "3c27b499-af56-f0d5-93b5-a7f2f1ad5813",
+      "reference_image_url": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      1
+    ]
+  },
+  {
+    "id": "AIC_16571",
+    "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+    "date": "1877",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16571",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16571.jpg",
+    "sha256": "bbd5f1ae5c5a7d39489d3a2e106877c282f3f7ed5d082017abe6ee0450db94c9",
+    "width": 2000,
+    "height": 1501,
+    "bytes": 1045252,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "0f1cc0e0-e42e-be16-3f71-2022da38cb93",
+      "reference_image_url": "https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      19
+    ]
+  },
+  {
+    "id": "AIC_14598",
+    "title": "The Beach at Sainte-Adresse",
+    "date": "1867",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/14598",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_14598.jpg",
+    "sha256": "2d2a707e3a86912f84385bb6f07735e67545cbf4fb63b2e55b720e8c791bab0d",
+    "width": 2000,
+    "height": 1478,
+    "bytes": 906997,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "95be2572-b53d-8e7b-abc9-10eb48d4fa5d",
+      "reference_image_url": "https://www.artic.edu/iiif/2/95be2572-b53d-8e7b-abc9-10eb48d4fa5d/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      6
+    ]
+  },
+  {
+    "id": "AIC_14620",
+    "title": "Cliff Walk at Pourville",
+    "date": "1882",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/14620",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_14620.jpg",
+    "sha256": "03af2be85ebebaf687efa98aa1659ac1e059a6ebe597e615e79b2eea3a2b0538",
+    "width": 2000,
+    "height": 1602,
+    "bytes": 1184871,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "b0effb1c-ff23-bbaa-f809-9fd94e31c1a0",
+      "reference_image_url": "https://www.artic.edu/iiif/2/b0effb1c-ff23-bbaa-f809-9fd94e31c1a0/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      6
+    ]
+  },
+  {
+    "id": "AIC_87088",
+    "title": "Water Lily Pond",
+    "date": "1900",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/87088",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_87088.jpg",
+    "sha256": "bd0bc5ae8cf28bccfef08b0c0eb1f20b09d3f82da9c5aaaa27d9ef8870b26e16",
+    "width": 2000,
+    "height": 1778,
+    "bytes": 1482469,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "8534685d-1102-e1e3-e194-94f6e925e8b0",
+      "reference_image_url": "https://www.artic.edu/iiif/2/8534685d-1102-e1e3-e194-94f6e925e8b0/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      1
+    ]
+  },
+  {
+    "id": "AIC_81537",
+    "title": "Bordighera",
+    "date": "1884",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/81537",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_81537.jpg",
+    "sha256": "b69fa595b02ec042768cfb31a4fba9b67a76cd83eddace019c72ebbb2a6cf8b0",
+    "width": 2000,
+    "height": 1609,
+    "bytes": 1455170,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "4d1b3ad0-14db-0d21-ad9f-17abb8bdfbb5",
+      "reference_image_url": "https://www.artic.edu/iiif/2/4d1b3ad0-14db-0d21-ad9f-17abb8bdfbb5/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      6
+    ]
+  },
+  {
+    "id": "AIC_14624",
+    "title": "Stacks of Wheat (End of Day, Autumn)",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/14624",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_14624.jpg",
+    "sha256": "f28413c15ec3e3abcd0171e26ff05f01604420d987bf5b030c5de50c3e272fc7",
+    "width": 2000,
+    "height": 1302,
+    "bytes": 845889,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "4c364c64-2108-4e19-5fc5-1ab26ba924a7",
+      "reference_image_url": "https://www.artic.edu/iiif/2/4c364c64-2108-4e19-5fc5-1ab26ba924a7/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      2
+    ]
+  },
+  {
+    "id": "AIC_16564",
+    "title": "Branch of the Seine near Giverny (Mist)",
+    "date": "1897",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16564",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16564.jpg",
+    "sha256": "9bdbaf42a3a31a38b3d227f50dee76a6dcc2fb3d7eba31b2ed7effe193b4bc9b",
+    "width": 2000,
+    "height": 1941,
+    "bytes": 1162477,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "838d8c33-a3b4-68ea-587b-87ceec2011af",
+      "reference_image_url": "https://www.artic.edu/iiif/2/838d8c33-a3b4-68ea-587b-87ceec2011af/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      3
+    ]
+  },
+  {
+    "id": "AIC_81539",
+    "title": "On the Bank of the Seine, Bennecourt",
+    "date": "1868",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/81539",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_81539.jpg",
+    "sha256": "666d01fef1fe945937394f895b6577f7692da34fbeea984aefe53c8e8d7b34b6",
+    "width": 2000,
+    "height": 1616,
+    "bytes": 1153528,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "66f95ea3-a11a-1cf4-6599-d0a49bb25744",
+      "reference_image_url": "https://www.artic.edu/iiif/2/66f95ea3-a11a-1cf4-6599-d0a49bb25744/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      5
+    ]
+  },
+  {
+    "id": "AIC_16549",
+    "title": "Apples and Grapes",
+    "date": "1880",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16549",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16549.jpg",
+    "sha256": "05945957c7a04449994d230e8079032eba91bed1ac0caa981032cd6ad904ee20",
+    "width": 2000,
+    "height": 1599,
+    "bytes": 1200466,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "c12058f4-188f-c6ed-f0fe-52b32acfb296",
+      "reference_image_url": "https://www.artic.edu/iiif/2/c12058f4-188f-c6ed-f0fe-52b32acfb296/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      24
+    ]
+  },
+  {
+    "id": "AIC_16554",
+    "title": "The Artist's House at Argenteuil",
+    "date": "1873",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16554",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16554.jpg",
+    "sha256": "1feaf3b15385ab571621586cc1e5ce5d4b4a37e4dfda9c1ed7f795eeec89fc2b",
+    "width": 2000,
+    "height": 1634,
+    "bytes": 1285468,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "7d533ed4-ff54-fa2c-64f4-2b16bfbb5880",
+      "reference_image_url": "https://www.artic.edu/iiif/2/7d533ed4-ff54-fa2c-64f4-2b16bfbb5880/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      5
+    ]
+  },
+  {
+    "id": "AIC_4783",
+    "title": "Poppy Field (Giverny)",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/4783",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_4783.jpg",
+    "sha256": "9406effc52a89cf402af64808a370ced3f3faa24e8c80b62db0905a224ad00f1",
+    "width": 2000,
+    "height": 1299,
+    "bytes": 911219,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "db94c894-a24c-c2e0-9db9-0506567a0152",
+      "reference_image_url": "https://www.artic.edu/iiif/2/db94c894-a24c-c2e0-9db9-0506567a0152/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      1
+    ]
+  },
+  {
+    "id": "AIC_16584",
+    "title": "Houses of Parliament, London",
+    "date": "1900–1",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16584",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16584.jpg",
+    "sha256": "19a4a3e45cbdb3f4c577420a6d7188f5388324bc13f91fbdaaaff8744e8ab889",
+    "width": 2000,
+    "height": 1745,
+    "bytes": 1120133,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "03930df3-1e6c-eeca-8660-c0b22ca477ff",
+      "reference_image_url": "https://www.artic.edu/iiif/2/03930df3-1e6c-eeca-8660-c0b22ca477ff/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      3
+    ]
+  },
+  {
+    "id": "AIC_20545",
+    "title": "Rocks at Port-Goulphar, Belle-Île",
+    "date": "1886",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/20545",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_20545.jpg",
+    "sha256": "85ec0fa8c9d1bc49f1f53db10cd5b06cd6d150b10ae6839105e8fc33911764df",
+    "width": 2000,
+    "height": 1601,
+    "bytes": 1328392,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "2765aee9-3d78-ec6c-5c66-a1d9dc8173f6",
+      "reference_image_url": "https://www.artic.edu/iiif/2/2765aee9-3d78-ec6c-5c66-a1d9dc8173f6/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      4
+    ]
+  },
+  {
+    "id": "AIC_16544",
+    "title": "Charing Cross Bridge, London",
+    "date": "1901",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16544",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16544.jpg",
+    "sha256": "e3ea05bd747c616d23d66f52045e6314bf136f5148f2d321b23cd54a3e374966",
+    "width": 2000,
+    "height": 1396,
+    "bytes": 848995,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "e9179922-f68d-34c5-481d-abf49e046863",
+      "reference_image_url": "https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      3
+    ]
+  },
+  {
+    "id": "AIC_103139",
+    "title": "Waterloo Bridge, Gray Weather",
+    "date": "1900",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/103139",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_103139.jpg",
+    "sha256": "379c3410b30fa6a034f7d81441611991a52b640b659e8ed3b56cc2c0a9263902",
+    "width": 2000,
+    "height": 1416,
+    "bytes": 888120,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "6f61a6fc-dcd8-e801-0ad8-5f7e561d91b6",
+      "reference_image_url": "https://www.artic.edu/iiif/2/6f61a6fc-dcd8-e801-0ad8-5f7e561d91b6/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      3
+    ]
+  },
+  {
+    "id": "AIC_97933",
+    "title": "Water Lily Pond",
+    "date": "1917–19",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/97933",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_97933.jpg",
+    "sha256": "4e63a84c17f01ee5685f8c6d8bc7bf73170b0bfa729e9ed60135665e5f9706fe",
+    "width": 2000,
+    "height": 1290,
+    "bytes": 972687,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "7a23ad22-2044-6d7d-6315-9b101dadc559",
+      "reference_image_url": "https://www.artic.edu/iiif/2/7a23ad22-2044-6d7d-6315-9b101dadc559/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      1
+    ]
+  },
+  {
+    "id": "AIC_4887",
+    "title": "Irises",
+    "date": "1914–17",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/4887",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_4887.jpg",
+    "sha256": "784eaef72454acd6b3ac614ba3ec2c0bc779729c2fda6c08af21e84fcacd91bc",
+    "width": 2000,
+    "height": 1997,
+    "bytes": 1689092,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "1f925e43-ff81-5ad7-da75-b28ea651c09f",
+      "reference_image_url": "https://www.artic.edu/iiif/2/1f925e43-ff81-5ad7-da75-b28ea651c09f/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      1
+    ]
+  },
+  {
+    "id": "AIC_20701",
+    "title": "Waterloo Bridge, Sunlight Effect",
+    "date": "1903",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/20701",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_20701.jpg",
+    "sha256": "776b171cd7990bdfa8ad429ff9eeea30fae0b4789bb8f86decdfa1d59d060dec",
+    "width": 2000,
+    "height": 1289,
+    "bytes": 760987,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "827d02ef-6765-9728-c07e-52ad22b73fd3",
+      "reference_image_url": "https://www.artic.edu/iiif/2/827d02ef-6765-9728-c07e-52ad22b73fd3/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      3
+    ]
+  },
+  {
+    "id": "AIC_81545",
+    "title": "Stacks of Wheat (Sunset, Snow Effect)",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/81545",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_81545.jpg",
+    "sha256": "e94ab7b40415b6f3ec31bfcacb4160b7cddd489e1a11b6d72d5719c546dafcb2",
+    "width": 2000,
+    "height": 1292,
+    "bytes": 805040,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "be0d3e50-a600-6f33-ea8f-16a34d892442",
+      "reference_image_url": "https://www.artic.edu/iiif/2/be0d3e50-a600-6f33-ea8f-16a34d892442/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      2
+    ]
+  },
+  {
+    "id": "AIC_86998",
+    "title": "Sandvika, Norway",
+    "date": "1895",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/86998",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_86998.jpg",
+    "sha256": "a0cb21abbb8796fe5136fa4f7cc1ce26da09d33dc5fb60f01f9bf8c0b8b9cade",
+    "width": 2000,
+    "height": 1565,
+    "bytes": 1005418,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "07d8dd31-d44b-85aa-ab09-ca51ee86f631",
+      "reference_image_url": "https://www.artic.edu/iiif/2/07d8dd31-d44b-85aa-ab09-ca51ee86f631/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      6
+    ]
+  },
+  {
+    "id": "AIC_111318",
+    "title": "Stack of Wheat",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/111318",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_111318.jpg",
+    "sha256": "320d6198ab5a88210aec797623df1b1aa36d103f476836356375d339b0d6a1af",
+    "width": 2000,
+    "height": 1408,
+    "bytes": 1110051,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "27c1d720-8ca5-79a4-5e51-530bf75c1591",
+      "reference_image_url": "https://www.artic.edu/iiif/2/27c1d720-8ca5-79a4-5e51-530bf75c1591/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      17
+    ]
+  },
+  {
+    "id": "AIC_20535",
+    "title": "Étretat: The Beach and the Falaise d'Amont",
+    "date": "1885",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/20535",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_20535.jpg",
+    "sha256": "b4a0631851c0b825f563fcbc3269ae71a623f5bb9e35850ffafd4545a33de3e2",
+    "width": 2000,
+    "height": 2081,
+    "bytes": 1353147,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "350b7e7f-e1d8-e58b-8890-0ef6b04afe18",
+      "reference_image_url": "https://www.artic.edu/iiif/2/350b7e7f-e1d8-e58b-8890-0ef6b04afe18/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      4
+    ]
+  },
+  {
+    "id": "AIC_81546",
+    "title": "The Petite Creuse River",
+    "date": "1889",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/81546",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_81546.jpg",
+    "sha256": "5476cf0c792a4a28913ee84cda1e698a3aa8a20cd293610b0ceb0aa31243e670",
+    "width": 2000,
+    "height": 1407,
+    "bytes": 1172547,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "ec1f6262-09c2-8f7e-baa9-9c0b267337ff",
+      "reference_image_url": "https://www.artic.edu/iiif/2/ec1f6262-09c2-8f7e-baa9-9c0b267337ff/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      5
+    ]
+  },
+  {
+    "id": "AIC_14634",
+    "title": "Vétheuil",
+    "date": "1901",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/14634",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_14634.jpg",
+    "sha256": "5c19503815f5a71669ad687f7da06123bdfdd8d80cf437bf1fe07e767530e090",
+    "width": 2000,
+    "height": 1925,
+    "bytes": 1448742,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "d39b1026-7d8d-6e6a-738e-8a136b1a0033",
+      "reference_image_url": "https://www.artic.edu/iiif/2/d39b1026-7d8d-6e6a-738e-8a136b1a0033/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      5
+    ]
+  },
+  {
+    "id": "AIC_59927",
+    "title": "Boats on the Beach at Étretat",
+    "date": "1885",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/59927",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_59927.jpg",
+    "sha256": "1e4d53da268dff80eaea75f9f59de1ea6aff9331ac5689f204032f2a957c337a",
+    "width": 2000,
+    "height": 1595,
+    "bytes": 1160818,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "eaf98472-70cc-0005-c2c9-6109f549f24a",
+      "reference_image_url": "https://www.artic.edu/iiif/2/eaf98472-70cc-0005-c2c9-6109f549f24a/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      4
+    ]
+  },
+  {
+    "id": "AIC_14630",
+    "title": "Venice, Palazzo Dario",
+    "date": "1908",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/14630",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_14630.jpg",
+    "sha256": "4e71e47ef79a678cf2129a18d4239f74f63dfbc2d4ffd50ec89aacc1df2aa057",
+    "width": 2000,
+    "height": 1635,
+    "bytes": 1091847,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "64c38f6d-f0d5-b553-a27e-3552550f351a",
+      "reference_image_url": "https://www.artic.edu/iiif/2/64c38f6d-f0d5-b553-a27e-3552550f351a/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      6
+    ]
+  },
+  {
+    "id": "AIC_100191",
+    "title": "Stack of Wheat (Thaw, Sunset)",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/100191",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_100191.jpg",
+    "sha256": "adc3d4dcc0128cef567fe763f263637c8938bb531f9692daa8572096029c1a92",
+    "width": 2000,
+    "height": 1392,
+    "bytes": 1026177,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "8bd40b36-43ea-8b02-d76a-b325962b86db",
+      "reference_image_url": "https://www.artic.edu/iiif/2/8bd40b36-43ea-8b02-d76a-b325962b86db/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      2
+    ]
+  },
+  {
+    "id": "AIC_16560",
+    "title": "Stack of Wheat (Snow Effect, Overcast Day)",
+    "date": "1890–91",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16560",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16560.jpg",
+    "sha256": "16fecb08ff3c3c2d5030342dcfce2ae470857f8ba5e967ee103c6f633410081e",
+    "width": 2000,
+    "height": 1403,
+    "bytes": 982628,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "db36f74f-47d9-ad08-cdf9-b4b436e6d18c",
+      "reference_image_url": "https://www.artic.edu/iiif/2/db36f74f-47d9-ad08-cdf9-b4b436e6d18c/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      2
+    ]
+  },
+  {
+    "id": "AIC_16579",
+    "title": "Vétheuil",
+    "date": "1901",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16579",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16579.jpg",
+    "sha256": "d8e4ee3e85c4720a583947c993aa3b086ffb4e454988867386605d25bb739761",
+    "width": 2000,
+    "height": 1932,
+    "bytes": 1413919,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "5a487230-6002-45a7-08c4-b2198a2a2c60",
+      "reference_image_url": "https://www.artic.edu/iiif/2/5a487230-6002-45a7-08c4-b2198a2a2c60/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      5
+    ]
+  },
+  {
+    "id": "AIC_81540",
+    "title": "The Departure of the Boats, Étretat",
+    "date": "1885",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/81540",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_81540.jpg",
+    "sha256": "60376bce78c49ce14df831daea86341188c80f92280cc5b4b7894310febf8039",
+    "width": 2000,
+    "height": 1577,
+    "bytes": 1043379,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "6ca224d1-c3dc-a223-a127-0492301a2ebb",
+      "reference_image_url": "https://www.artic.edu/iiif/2/6ca224d1-c3dc-a223-a127-0492301a2ebb/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      4
+    ]
+  },
+  {
+    "id": "AIC_16542",
+    "title": "The Customs House at Varengeville",
+    "date": "1897",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/16542",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_16542.jpg",
+    "sha256": "3e1d8a5afdf1692375f5f5ef0374568069d7538ff42eab464bbca25bf692f5b5",
+    "width": 2000,
+    "height": 1406,
+    "bytes": 848652,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image_id": "2b30e687-4526-f487-cedc-448b3188fd19",
+      "reference_image_url": "https://www.artic.edu/iiif/2/2b30e687-4526-f487-cedc-448b3188fd19/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      4
+    ]
+  },
+  {
+    "id": "AIC_15826",
+    "title": "Caricature of Auguste Vacquerie",
+    "date": "c. 1859",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15826",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15826.jpg",
+    "sha256": "d128e3fea6ad6a1f2ce2e958b46ea24f25cbef33df16eb61fc68cc3e5792717c",
+    "width": 1000,
+    "height": 1615,
+    "bytes": 851469,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926) after Nadar (French, 1820–1910)",
+      "image_id": "91138ade-e305-636d-bb7a-ffd9d3d10b96",
+      "reference_image_url": "https://www.artic.edu/iiif/2/91138ade-e305-636d-bb7a-ffd9d3d10b96/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      7
+    ]
+  },
+  {
+    "id": "AIC_15818",
+    "title": "Caricature of Henri Cassinelli (“Rufus Croutinelli”)",
+    "date": "c. 1858",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15818",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15818.jpg",
+    "sha256": "fb5bfe620fe8fac6d27ca1ab8c6f014f4d5508e751a0be36fa9e6118d7eab0dd",
+    "width": 1000,
+    "height": 1524,
+    "bytes": 752041,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "0f57d4e1-b0f3-b06c-ed89-2c6b1a0372ff",
+      "reference_image_url": "https://www.artic.edu/iiif/2/0f57d4e1-b0f3-b06c-ed89-2c6b1a0372ff/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      7
+    ]
+  },
+  {
+    "id": "AIC_113092",
+    "title": "Caricature of a Man with a Large Nose",
+    "date": "1855/56",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/113092",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_113092.jpg",
+    "sha256": "bf8e49f1b2c43a269f59d646d2dd4aee5afcd2c816ae9a40d5d29673edfb828c",
+    "width": 1000,
+    "height": 1628,
+    "bytes": 736199,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "8c47d8be-2149-719d-555b-af20897ca294",
+      "reference_image_url": "https://www.artic.edu/iiif/2/8c47d8be-2149-719d-555b-af20897ca294/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      8
+    ]
+  },
+  {
+    "id": "AIC_15809",
+    "title": "Caricature of a Man with a Big Cigar",
+    "date": "1855/56",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15809",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15809.jpg",
+    "sha256": "9d0da1770222aa85786cd836b32f75c88b946cde48f5ca0e31098908c095e7c2",
+    "width": 1000,
+    "height": 1566,
+    "bytes": 1098970,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "fcbe6e18-8b6f-8519-81a5-a416e6bdf3c1",
+      "reference_image_url": "https://www.artic.edu/iiif/2/fcbe6e18-8b6f-8519-81a5-a416e6bdf3c1/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      8
+    ]
+  },
+  {
+    "id": "AIC_15803",
+    "title": "Caricature of Jules Didier (“Butterfly Man”)",
+    "date": "c. 1858",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15803",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15803.jpg",
+    "sha256": "93fedb048ad29b4c08b20ebfe529992befbae9583e2caf4294ca818ea9999cac",
+    "width": 1000,
+    "height": 1429,
+    "bytes": 854059,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "ffceac7e-98d9-eb34-daeb-6587c998ad73",
+      "reference_image_url": "https://www.artic.edu/iiif/2/ffceac7e-98d9-eb34-daeb-6587c998ad73/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      8
+    ]
+  },
+  {
+    "id": "AIC_15800",
+    "title": "Caricature of Léon Manchon",
+    "date": "1858",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15800",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15800.jpg",
+    "sha256": "59a15cced3152f34c274930865a2a87425fe1f43acf762e6e8bc731f58c78c8d",
+    "width": 1000,
+    "height": 1349,
+    "bytes": 826475,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "f7ef6ed1-b05f-5ef9-faf2-72e41cdfa1c3",
+      "reference_image_url": "https://www.artic.edu/iiif/2/f7ef6ed1-b05f-5ef9-faf2-72e41cdfa1c3/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      8
+    ]
+  },
+  {
+    "id": "AIC_108583",
+    "title": "Cliffs and Sea, Sainte-Adresse",
+    "date": "c. 1864",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/108583",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_108583.jpg",
+    "sha256": "79b4a79ddd4fcc0056a0eb153b044c06b1431b83dfa600599d4704ad579a85e5",
+    "width": 2000,
+    "height": 1330,
+    "bytes": 1720369,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "4d5a6178-a330-708a-c7eb-cfa20c3f66af",
+      "reference_image_url": "https://www.artic.edu/iiif/2/4d5a6178-a330-708a-c7eb-cfa20c3f66af/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      7
+    ]
+  },
+  {
+    "id": "AIC_15814",
+    "title": "Caricature of a Man in the Small Hat",
+    "date": "1855/56",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15814",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15814.jpg",
+    "sha256": "33e68585f2842bd37ae0dbb0c0077395e0fd3eafaf8cedc0b6fd046666102871",
+    "width": 2000,
+    "height": 2609,
+    "bytes": 1337433,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "510c084b-d8d3-62c2-d71d-270c2f286a51",
+      "reference_image_url": "https://www.artic.edu/iiif/2/510c084b-d8d3-62c2-d71d-270c2f286a51/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      8
+    ]
+  },
+  {
+    "id": "AIC_15812",
+    "title": "Caricature of Mario Uchard",
+    "date": "c. 1858",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/15812",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_15812.jpg",
+    "sha256": "b2f88a99bd66584e02c4cb0ffb8d03a27e067f327190e3b0e3b449cbc42431dc",
+    "width": 1000,
+    "height": 1320,
+    "bytes": 508079,
+    "source_metadata": {
+      "artist": "Claude Monet (French, 1840–1926) after Etienne Carjat (French, 1828–1906)",
+      "image_id": "1745a1b7-f530-caf3-3435-cc15970e0a88",
+      "reference_image_url": "https://www.artic.edu/iiif/2/1745a1b7-f530-caf3-3435-cc15970e0a88/full/1000,/0/default.jpg"
+    },
+    "groups": []
+  },
+  {
+    "id": "AIC_186316",
+    "title": "Stacks of Wheat",
+    "date": "1891",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/186316",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_186316.jpg",
+    "sha256": "e0a500483738ca2341b23f81bf72a92790f56495d11687ec84e927c475c5d201",
+    "width": 2000,
+    "height": 1423,
+    "bytes": 856203,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840–1926",
+      "image_id": "b7c3fa7f-d2bd-27b6-4a5c-0c8943d2b944",
+      "reference_image_url": "https://www.artic.edu/iiif/2/b7c3fa7f-d2bd-27b6-4a5c-0c8943d2b944/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      7
+    ]
+  },
+  {
+    "id": "AIC_113093",
+    "title": "Caricature of Eugène Marcel",
+    "date": "1855/56",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/113093",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_113093.jpg",
+    "sha256": "30b7a7445d950d7532237e11c10146436681238c09705df9761c03425819acbe",
+    "width": 1000,
+    "height": 1807,
+    "bytes": 1158764,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "fe62fbcf-2c09-3fb2-a0e5-f61f4dfd9aad",
+      "reference_image_url": "https://www.artic.edu/iiif/2/fe62fbcf-2c09-3fb2-a0e5-f61f4dfd9aad/full/1000,/0/default.jpg"
+    },
+    "groups": []
+  },
+  {
+    "id": "AIC_113090",
+    "title": "Caricature of a Man Standing by Desk (recto); Sketch of Male Head in Profile (verso)",
+    "date": "1855/56",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/113090",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_113090.jpg",
+    "sha256": "f8fec3a1d802920fec90565485c3f6d87c5c9e04d3b18c56273bcb4002e24250",
+    "width": 1000,
+    "height": 1209,
+    "bytes": 489023,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840-1926",
+      "image_id": "76b0252e-7437-11d2-4f12-8fcae9a9578c",
+      "reference_image_url": "https://www.artic.edu/iiif/2/76b0252e-7437-11d2-4f12-8fcae9a9578c/full/1000,/0/default.jpg"
+    },
+    "groups": []
+  },
+  {
+    "id": "AIC_186315",
+    "title": "Boy in the Country",
+    "date": "1857",
+    "museum": "Art Institute of Chicago",
+    "source_url": "https://www.artic.edu/artworks/186315",
+    "rights": "Public domain; is_public_domain=true",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/aic/AIC_186315.jpg",
+    "sha256": "9c81fd63a828079929073a7b528dc6667f015935e1b1886d1e5b8c1fdea3ed27",
+    "width": 1000,
+    "height": 1346,
+    "bytes": 412260,
+    "source_metadata": {
+      "artist": "Claude Monet French, 1840–1926",
+      "image_id": "42ff10f3-fad6-a147-7a61-ca856a1c3c46",
+      "reference_image_url": "https://www.artic.edu/iiif/2/42ff10f3-fad6-a147-7a61-ca856a1c3c46/full/1000,/0/default.jpg"
+    },
+    "groups": [
+      7
+    ]
+  },
+  {
+    "id": "NGA_45872",
+    "title": "Morning Haze",
+    "date": "1888",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/45872",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_45872.jpg",
+    "sha256": "9bfc3edde2b1c25fa12db8290453b8689da6c8310a0bc92787547b1a8b4d1b16",
+    "width": 1600,
+    "height": 1273,
+    "bytes": 462003,
+    "source_metadata": {
+      "objectid": "45872",
+      "title": "Morning Haze",
+      "date": "1888",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/36bd94fc-291f-43cb-9fd4-7b391fe3f0e5",
+      "width": "5980",
+      "height": "4756",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/45872"
+    },
+    "groups": [
+      9
+    ]
+  },
+  {
+    "id": "NGA_46523",
+    "title": "The Houses of Parliament, Sunset",
+    "date": "1903",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46523",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46523.jpg",
+    "sha256": "f37ff7ad5f56a5ea8abdc453e3f11c1e6c5ca1dc329c776b911c78bb65bd4b4c",
+    "width": 1600,
+    "height": 1413,
+    "bytes": 624545,
+    "source_metadata": {
+      "objectid": "46523",
+      "title": "The Houses of Parliament, Sunset",
+      "date": "1903",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/9eae6258-ec1c-442f-b353-a89cff510113",
+      "width": "17031",
+      "height": "15043",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46523"
+    },
+    "groups": [
+      11
+    ]
+  },
+  {
+    "id": "NGA_46524",
+    "title": "Rouen Cathedral, West Façade",
+    "date": "1894",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46524",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46524.jpg",
+    "sha256": "836448a2837d9a90ffc8790b482fc3d00f5b2d7287958cf7908030b647de4f4a",
+    "width": 1600,
+    "height": 2475,
+    "bytes": 1793753,
+    "source_metadata": {
+      "objectid": "46524",
+      "title": "Rouen Cathedral, West Façade",
+      "date": "1894",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/413faf9b-5d86-468a-8363-eea43c7fe9ba",
+      "width": "5728",
+      "height": "8857",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46524"
+    },
+    "groups": [
+      11
+    ]
+  },
+  {
+    "id": "NGA_46652",
+    "title": "Banks of the Seine, Vétheuil",
+    "date": "1880",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46652",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46652.jpg",
+    "sha256": "53a4dc417cdbdfe98156de745952b9a72d970fed12948b6482e312926740050f",
+    "width": 1600,
+    "height": 1166,
+    "bytes": 833570,
+    "source_metadata": {
+      "objectid": "46652",
+      "title": "Banks of the Seine, Vétheuil",
+      "date": "1880",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/5dd2009f-7782-43d8-9892-be5733d8f43b",
+      "width": "18220",
+      "height": "13277",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46652"
+    },
+    "groups": [
+      9
+    ]
+  },
+  {
+    "id": "NGA_46653",
+    "title": "Woman Seated under the Willows",
+    "date": "1880",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46653",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46653.jpg",
+    "sha256": "bbadab6bca8ab481f2f380418bcb189f9e8dd603ce7d27c1bb076670c654e4c1",
+    "width": 1000,
+    "height": 1352,
+    "bytes": 537272,
+    "source_metadata": {
+      "objectid": "46653",
+      "title": "Woman Seated under the Willows",
+      "date": "1880",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/7dbe4a11-dbd7-404a-a199-dfb5c5ddc802",
+      "width": "23193",
+      "height": "31350",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46653"
+    },
+    "groups": [
+      9
+    ]
+  },
+  {
+    "id": "NGA_46654",
+    "title": "Rouen Cathedral, West Façade, Sunlight",
+    "date": "1894",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46654",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46654.jpg",
+    "sha256": "0c4ea00ce93213089af5e9a43e7d2bdc13f50a823892904a893a041a84ee9c2f",
+    "width": 1000,
+    "height": 1527,
+    "bytes": 641623,
+    "source_metadata": {
+      "objectid": "46654",
+      "title": "Rouen Cathedral, West Façade, Sunlight",
+      "date": "1894",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/b9b6782a-cbf0-4e36-84da-98af87891775",
+      "width": "6030",
+      "height": "9204",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46654"
+    },
+    "groups": [
+      11
+    ]
+  },
+  {
+    "id": "NGA_46655",
+    "title": "The Seine at Giverny",
+    "date": "1897",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46655",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46655.jpg",
+    "sha256": "2110524ffd4fa65c2caa6154fb5f42c6981b7d2b409ea33a05098a6b4f7d6dff",
+    "width": 1000,
+    "height": 807,
+    "bytes": 204897,
+    "source_metadata": {
+      "objectid": "46655",
+      "title": "The Seine at Giverny",
+      "date": "1897",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/9b536eb8-6b53-42d5-aa3c-5e8b02f0b37a",
+      "width": "16794",
+      "height": "13553",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46655"
+    },
+    "groups": [
+      11
+    ]
+  },
+  {
+    "id": "NGA_46656",
+    "title": "Jerusalem Artichoke Flowers",
+    "date": "1880",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46656",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46656.jpg",
+    "sha256": "c9f3c1f7f86b4a7463ccb9a5936c501e1771a5810d08e70abdac5d559a8c7c0e",
+    "width": 1000,
+    "height": 1380,
+    "bytes": 578975,
+    "source_metadata": {
+      "objectid": "46656",
+      "title": "Jerusalem Artichoke Flowers",
+      "date": "1880",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/5bfb4c45-feb8-4dbb-8b77-519c0560dcaf",
+      "width": "12622",
+      "height": "17418",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46656"
+    },
+    "groups": [
+      9
+    ]
+  },
+  {
+    "id": "NGA_46657",
+    "title": "Palazzo da Mula, Venice",
+    "date": "1908",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46657",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46657.jpg",
+    "sha256": "7c32b78cb77f03c0c6e8ba4082a9d6dab058201db7c1e75f870ac538e9ef2c23",
+    "width": 1000,
+    "height": 759,
+    "bytes": 242202,
+    "source_metadata": {
+      "objectid": "46657",
+      "title": "Palazzo da Mula, Venice",
+      "date": "1908",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/f339a180-c87a-446b-8605-060f7b53f1a3",
+      "width": "17104",
+      "height": "12985",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46657"
+    },
+    "groups": [
+      9
+    ]
+  },
+  {
+    "id": "NGA_46658",
+    "title": "Waterloo Bridge, Gray Day",
+    "date": "1903",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/46658",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_46658.jpg",
+    "sha256": "9821f610c7c6632f901bc54650cbac1087d0da38e43aced256e8d540974f9c09",
+    "width": 1000,
+    "height": 645,
+    "bytes": 141092,
+    "source_metadata": {
+      "objectid": "46658",
+      "title": "Waterloo Bridge, Gray Day",
+      "date": "1903",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/5f0f2f71-1428-4fc7-a951-0fab4fe39ffd",
+      "width": "26826",
+      "height": "17298",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/46658"
+    },
+    "groups": [
+      10
+    ]
+  },
+  {
+    "id": "NGA_52185",
+    "title": "Bazille and Camille (Study for \"Déjeuner sur l'Herbe\")",
+    "date": "1865",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/52185",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_52185.jpg",
+    "sha256": "351b0f43c694219cc3f59b20370d2a01a025c2b84332800c6d52bc0e4b568f83",
+    "width": 1000,
+    "height": 1345,
+    "bytes": 394257,
+    "source_metadata": {
+      "objectid": "52185",
+      "title": "Bazille and Camille (Study for \"Déjeuner sur l'Herbe\")",
+      "date": "1865",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/bfd3764c-8711-4b04-9f02-ed6b07995d40",
+      "width": "12717",
+      "height": "17100",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/52185"
+    },
+    "groups": [
+      10
+    ]
+  },
+  {
+    "id": "NGA_52186",
+    "title": "Argenteuil",
+    "date": "c. 1872",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/52186",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_52186.jpg",
+    "sha256": "639e1c500d574807e6fcca04ccddf8b0f26dcdb0c9253e654b04807289fdf1a2",
+    "width": 1000,
+    "height": 764,
+    "bytes": 193579,
+    "source_metadata": {
+      "objectid": "52186",
+      "title": "Argenteuil",
+      "date": "c. 1872",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/c6780a7f-2720-433c-9562-552c996c6d04",
+      "width": "16980",
+      "height": "12978",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/52186"
+    },
+    "groups": [
+      10
+    ]
+  },
+  {
+    "id": "NGA_52187",
+    "title": "Ships Riding on the Seine at Rouen",
+    "date": "1872/1873",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/52187",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_52187.jpg",
+    "sha256": "8087988829b8e79b19e501265cc54edd4f961599ecd09b2f2f97664585d910bf",
+    "width": 1000,
+    "height": 813,
+    "bytes": 265510,
+    "source_metadata": {
+      "objectid": "52187",
+      "title": "Ships Riding on the Seine at Rouen",
+      "date": "1872/1873",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/73069488-cbc0-412b-a9fd-8094e24e2915",
+      "width": "11078",
+      "height": "9011",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/52187"
+    },
+    "groups": [
+      10
+    ]
+  },
+  {
+    "id": "NGA_52188",
+    "title": "Bridge at Argenteuil on a Gray Day",
+    "date": "c. 1876",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/52188",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_52188.jpg",
+    "sha256": "dc3e8045dea46879bb749fde370616bf21205f952e897f01a296cc19b0536b40",
+    "width": 1000,
+    "height": 753,
+    "bytes": 243667,
+    "source_metadata": {
+      "objectid": "52188",
+      "title": "Bridge at Argenteuil on a Gray Day",
+      "date": "c. 1876",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/823405e0-599f-4fd8-ae71-4d901edc36b0",
+      "width": "15468",
+      "height": "11650",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/52188"
+    },
+    "groups": [
+      10
+    ]
+  },
+  {
+    "id": "NGA_52189",
+    "title": "The Artist's Garden at Vétheuil",
+    "date": "1881",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/52189",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_52189.jpg",
+    "sha256": "77e6882872dffd318a3193fbc83d1d67aa1286c55a1b212049db3cbb7f1a21f4",
+    "width": 1000,
+    "height": 1252,
+    "bytes": 535271,
+    "source_metadata": {
+      "objectid": "52189",
+      "title": "The Artist's Garden at Vétheuil",
+      "date": "1881",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/9fc88734-2f9a-4da8-8d46-2b570b201223",
+      "width": "23052",
+      "height": "28846",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/52189"
+    },
+    "groups": [
+      11
+    ]
+  },
+  {
+    "id": "NGA_52204",
+    "title": "Madame Monet and Her Son",
+    "date": "1874",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/52204",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_52204.jpg",
+    "sha256": "4807013129f9aa73e431ed38f8c06201510954bf459c4f774d8b2e7b182c4f7b",
+    "width": 1000,
+    "height": 735,
+    "bytes": 231135,
+    "source_metadata": {
+      "objectid": "52204",
+      "title": "Madame Monet and Her Son",
+      "date": "1874",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/b580ff1e-a8d3-4361-b8c1-1bb6726cf2f9",
+      "width": "26197",
+      "height": "19260",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/52204"
+    },
+    "groups": [
+      12
+    ]
+  },
+  {
+    "id": "NGA_53123",
+    "title": "Still Life with Milk Jug and Fruit",
+    "date": "c. 1900",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/53123",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_53123.jpg",
+    "sha256": "bd199b41c42fb2a713ea35f7303108b49d5c2fec442e3a608e53485dc16aee12",
+    "width": 1000,
+    "height": 839,
+    "bytes": 235237,
+    "source_metadata": {
+      "objectid": "53123",
+      "title": "Still Life with Milk Jug and Fruit",
+      "date": "c. 1900",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/2142234c-6ff3-43c7-a026-91c90a0bb86c",
+      "width": "31780",
+      "height": "26662",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/53123"
+    },
+    "groups": [
+      12
+    ]
+  },
+  {
+    "id": "NGA_61374",
+    "title": "The Bridge at Argenteuil",
+    "date": "1874",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/61374",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_61374.jpg",
+    "sha256": "1e6fc912f405e1fb17a047f5e99709df0f75561e99c7b8f6a1b964048e7ec212",
+    "width": 1000,
+    "height": 750,
+    "bytes": 259632,
+    "source_metadata": {
+      "objectid": "61374",
+      "title": "The Bridge at Argenteuil",
+      "date": "1874",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/7372b15a-3830-43bf-8c41-4836619312b7",
+      "width": "7999",
+      "height": "5998",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/61374"
+    },
+    "groups": [
+      12
+    ]
+  },
+  {
+    "id": "NGA_61375",
+    "title": "The Cradle - Camille with the Artist's Son Jean",
+    "date": "1867",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/61375",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_61375.jpg",
+    "sha256": "9e1307eeded81eda6840cd3c0e4be1eaf7c23cb7b16e26e3daedfe32c5abf781",
+    "width": 1000,
+    "height": 1310,
+    "bytes": 359519,
+    "source_metadata": {
+      "objectid": "61375",
+      "title": "The Cradle - Camille with the Artist's Son Jean",
+      "date": "1867",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/dba8b352-d853-49c6-89b3-76035e17f15c",
+      "width": "24530",
+      "height": "32127",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/61375"
+    },
+    "groups": [
+      12
+    ]
+  },
+  {
+    "id": "NGA_61376",
+    "title": "Interior, after Dinner",
+    "date": "1868/1869",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/61376",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_61376.jpg",
+    "sha256": "8fd5e325b33ed39211218816e0be669abbe377b75faeb8361381ebf241178ddb",
+    "width": 1000,
+    "height": 774,
+    "bytes": 135775,
+    "source_metadata": {
+      "objectid": "61376",
+      "title": "Interior, after Dinner",
+      "date": "1868/1869",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/23a7bb39-d6da-4cf4-8961-7e743fd39aba",
+      "width": "15342",
+      "height": "11872",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/61376"
+    },
+    "groups": [
+      12
+    ]
+  },
+  {
+    "id": "NGA_61377",
+    "title": "Waterloo Bridge, London, at Dusk",
+    "date": "1904",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/61377",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_61377.jpg",
+    "sha256": "8209c7c16c7214400571f8a6bbe332b16343b8e4a6618c26771e1dcaeca9177f",
+    "width": 1000,
+    "height": 642,
+    "bytes": 106228,
+    "source_metadata": {
+      "objectid": "61377",
+      "title": "Waterloo Bridge, London, at Dusk",
+      "date": "1904",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/a7858589-5528-4273-bb1a-638c6a3caca7",
+      "width": "18814",
+      "height": "12079",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/61377"
+    },
+    "groups": [
+      13
+    ]
+  },
+  {
+    "id": "NGA_61378",
+    "title": "Waterloo Bridge, London, at Sunset",
+    "date": "1904",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/61378",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_61378.jpg",
+    "sha256": "3f0b08ce80bceafeb3ef5647dfcc1c72ed41080fd63766966d2c69d4721b45cf",
+    "width": 1000,
+    "height": 705,
+    "bytes": 145288,
+    "source_metadata": {
+      "objectid": "61378",
+      "title": "Waterloo Bridge, London, at Sunset",
+      "date": "1904",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/e5c0853d-e3ac-49c2-884e-c0ac3b0af597",
+      "width": "18666",
+      "height": "13152",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/61378"
+    },
+    "groups": [
+      13
+    ]
+  },
+  {
+    "id": "NGA_61379",
+    "title": "Woman with a Parasol - Madame Monet and Her Son",
+    "date": "1875",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/61379",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_61379.jpg",
+    "sha256": "15db7dd3384c70f4219f265aa1ba5ce28815d717f99d945ec2ddb2aa42456829",
+    "width": 1000,
+    "height": 1240,
+    "bytes": 428261,
+    "source_metadata": {
+      "objectid": "61379",
+      "title": "Woman with a Parasol - Madame Monet and Her Son",
+      "date": "1875",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/99758d9d-c10b-4d02-a198-7e49afb1f3a6",
+      "width": "12666",
+      "height": "15698",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/61379"
+    },
+    "groups": [
+      13
+    ]
+  },
+  {
+    "id": "NGA_66425",
+    "title": "Cliffs at Pourville",
+    "date": "1882",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/66425",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_66425.jpg",
+    "sha256": "02ef349419aa0a2788fde703e18124770a16c7cf3702824a539408d3660372bb",
+    "width": 1000,
+    "height": 596,
+    "bytes": 132588,
+    "source_metadata": {
+      "objectid": "66425",
+      "title": "Cliffs at Pourville",
+      "date": "1882",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/31a2c319-1d47-4119-82c1-dbe8f9ed2e58",
+      "width": "20692",
+      "height": "12341",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/66425"
+    },
+    "groups": [
+      13
+    ]
+  },
+  {
+    "id": "NGA_71550",
+    "title": "Sainte-Adresse",
+    "date": "1867",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/71550",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_71550.jpg",
+    "sha256": "42011af932ad05459836460676608e0545cbc0594e137cbaf6ced4ed1b1478b2",
+    "width": 1000,
+    "height": 696,
+    "bytes": 223436,
+    "source_metadata": {
+      "objectid": "71550",
+      "title": "Sainte-Adresse",
+      "date": "1867",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/579777b9-33fb-493e-8e2c-89b972019854",
+      "width": "19047",
+      "height": "13249",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/71550"
+    },
+    "groups": [
+      13
+    ]
+  },
+  {
+    "id": "NGA_72138",
+    "title": "The Artist's Garden in Argenteuil (A Corner of the Garden with Dahlias)",
+    "date": "1873",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/72138",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_72138.jpg",
+    "sha256": "823ae1a0889d8ad45fb216d0d2f67ec0fcd24f7f74d3f2f3ee265113a288d03e",
+    "width": 1000,
+    "height": 748,
+    "bytes": 281737,
+    "source_metadata": {
+      "objectid": "72138",
+      "title": "The Artist's Garden in Argenteuil (A Corner of the Garden with Dahlias)",
+      "date": "1873",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/4196f97b-1edb-4fae-aa9f-882afe35978b",
+      "width": "17348",
+      "height": "12979",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/72138"
+    },
+    "groups": [
+      14
+    ]
+  },
+  {
+    "id": "NGA_74796",
+    "title": "The Japanese Footbridge",
+    "date": "1899",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/74796",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_74796.jpg",
+    "sha256": "586298d752edb36e5a74e55e136a70b353ff5851bebfeba62e4b7d39f431c3cd",
+    "width": 1000,
+    "height": 806,
+    "bytes": 324263,
+    "source_metadata": {
+      "objectid": "74796",
+      "title": "The Japanese Footbridge",
+      "date": "1899",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/0b9cefb5-1ee4-401a-8154-8d4039191a28",
+      "width": "29700",
+      "height": "23942",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/74796"
+    },
+    "groups": [
+      14
+    ]
+  },
+  {
+    "id": "NGA_93067",
+    "title": "The Luncheon on the Grass",
+    "date": "c. 1865",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/93067",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_93067.jpg",
+    "sha256": "f2fd7c821e8827057b5cf445ce662799cef4bd0495977b273ef4635daf5224eb",
+    "width": 1000,
+    "height": 674,
+    "bytes": 267581,
+    "source_metadata": {
+      "objectid": "93067",
+      "title": "The Luncheon on the Grass",
+      "date": "c. 1865",
+      "medium": "black chalk on blue laid paper",
+      "iiifurl": "https://api.nga.gov/iiif/2f1a5935-ba2e-473b-be22-efb29d5d0115",
+      "width": "5691",
+      "height": "3836",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/93067"
+    },
+    "groups": [
+      14
+    ]
+  },
+  {
+    "id": "NGA_142268",
+    "title": "Waterloo Bridge",
+    "date": "1901",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/142268",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_142268.jpg",
+    "sha256": "fc6751bfe36abde5c2c9a2cf6f5646e99f4f726f2702b1c804f6d41e0421c571",
+    "width": 1000,
+    "height": 648,
+    "bytes": 105359,
+    "source_metadata": {
+      "objectid": "142268",
+      "title": "Waterloo Bridge",
+      "date": "1901",
+      "medium": "pastel on blue wove paper",
+      "iiifurl": "https://api.nga.gov/iiif/f2c5068d-e87c-40ff-8d95-37cfa12766a6",
+      "width": "4904",
+      "height": "3176",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/142268"
+    },
+    "groups": [
+      14
+    ]
+  },
+  {
+    "id": "NGA_164942",
+    "title": "Still Life with Bottle, Carafe, Bread, and Wine",
+    "date": "c. 1862/1863",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/164942",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_164942.jpg",
+    "sha256": "c7b1d9170d2801cd860264f2b927ec8211b0b27c93cbbc90c16737208c99ab2f",
+    "width": 1000,
+    "height": 658,
+    "bytes": 164886,
+    "source_metadata": {
+      "objectid": "164942",
+      "title": "Still Life with Bottle, Carafe, Bread, and Wine",
+      "date": "c. 1862/1863",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/f2b37bef-9caf-4f86-a6a2-72c5773e9267",
+      "width": "16003",
+      "height": "10532",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/164942"
+    },
+    "groups": [
+      14
+    ]
+  },
+  {
+    "id": "NGA_178254",
+    "title": "The Willows",
+    "date": "1880",
+    "museum": "National Gallery of Art, Washington",
+    "source_url": "https://www.nga.gov/artworks/178254",
+    "rights": "Open Access; openaccess=1",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/nga/NGA_178254.jpg",
+    "sha256": "1f99e4f894d3ec7d7b72ec1fd71071e139b2fcd47081fafa806991fccb178e31",
+    "width": 1000,
+    "height": 802,
+    "bytes": 274209,
+    "source_metadata": {
+      "objectid": "178254",
+      "title": "The Willows",
+      "date": "1880",
+      "medium": "oil on canvas",
+      "iiifurl": "https://api.nga.gov/iiif/98e60cb0-0cd5-42ec-8e2f-373104b12e3f",
+      "width": "15922",
+      "height": "12764",
+      "openaccess": true,
+      "url": "https://www.nga.gov/artworks/178254"
+    },
+    "groups": [
+      15
+    ]
+  },
+  {
+    "id": "CMA_135382",
+    "title": "The Red Kerchief",
+    "date": "",
+    "museum": "Cleveland Museum of Art",
+    "source_url": "https://clevelandart.org/art/1958.39",
+    "rights": "Open Access / CC0",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/cma/CMA_135382.jpg",
+    "sha256": "ac1a6162b5249c1ba985965ada21246bf6370d6dfc0954a551656d0e0529c7e4",
+    "width": 723,
+    "height": 900,
+    "bytes": 232571,
+    "source_metadata": {
+      "id": 135382,
+      "title": "The Red Kerchief",
+      "tombstone": "The Red Kerchief (Femme à la capeline rouge), c. 1868–73. Claude Monet (French, 1840–1926). Oil on fabric; framed: 128.3 x 105.7 x 14.6 cm (50 1/2 x 41 5/8 x 5 3/4 in.); unframed: 99 x 79.8 cm (39 x 31 7/16 in.). The Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr., 1958.39",
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg",
+      "url": "https://clevelandart.org/art/1958.39"
+    },
+    "groups": [
+      15
+    ]
+  },
+  {
+    "id": "CMA_136510",
+    "title": "Water Lilies (Agapanthus)",
+    "date": "",
+    "museum": "Cleveland Museum of Art",
+    "source_url": "https://clevelandart.org/art/1960.81",
+    "rights": "Open Access / CC0",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/cma/CMA_136510.jpg",
+    "sha256": "4c20ffad9fe2dadf335e825bce3d0983d9b65193fb23097dce659d4505fd8c2b",
+    "width": 900,
+    "height": 419,
+    "bytes": 125355,
+    "source_metadata": {
+      "id": 136510,
+      "title": "Water Lilies (Agapanthus)",
+      "tombstone": "Water Lilies (Agapanthus), c. 1915–26. Claude Monet (French, 1840–1926). Oil on canvas; framed: 204.9 x 430.3 x 6 cm (80 11/16 x 169 7/16 x 2 3/8 in.); unframed: 201.3 x 425.6 cm (79 1/4 x 167 9/16 in.). The Cleveland Museum of Art, John L. Severance Fund and an anonymous gift, 1960.81",
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image": "https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg",
+      "url": "https://clevelandart.org/art/1960.81"
+    },
+    "groups": [
+      15
+    ]
+  },
+  {
+    "id": "CMA_95272",
+    "title": "Gardener's House at Antibes",
+    "date": "",
+    "museum": "Cleveland Museum of Art",
+    "source_url": "https://clevelandart.org/art/1916.1044",
+    "rights": "Open Access / CC0",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/cma/CMA_95272.jpg",
+    "sha256": "95142eba48d54f01352eb4ef6f04260cb3df3bcb1d9c86000c1284a7817674ca",
+    "width": 900,
+    "height": 640,
+    "bytes": 404254,
+    "source_metadata": {
+      "id": 95272,
+      "title": "Gardener's House at Antibes",
+      "tombstone": "Gardener's House at Antibes, 1888. Claude Monet (French, 1840–1926). Oil on canvas; framed: 91.1 x 118.4 x 13.7 cm (35 7/8 x 46 5/8 x 5 3/8 in.); unframed: 66.3 x 93 cm (26 1/8 x 36 5/8 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.1044",
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image": "https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_web.jpg",
+      "url": "https://clevelandart.org/art/1916.1044"
+    },
+    "groups": [
+      16
+    ]
+  },
+  {
+    "id": "CMA_130391",
+    "title": "Spring Flowers",
+    "date": "",
+    "museum": "Cleveland Museum of Art",
+    "source_url": "https://clevelandart.org/art/1953.155",
+    "rights": "Open Access / CC0",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/cma/CMA_130391.jpg",
+    "sha256": "fb9731f06fc21ac92e932b66e5369c7651cce4e80da5fe65bda2fccd455e20d7",
+    "width": 685,
+    "height": 900,
+    "bytes": 205356,
+    "source_metadata": {
+      "id": 130391,
+      "title": "Spring Flowers",
+      "tombstone": "Spring Flowers, 1864. Claude Monet (French, 1840–1926). Oil on canvas; framed: 144.5 x 117.2 x 12.1 cm (56 7/8 x 46 1/8 x 4 3/4 in.); unframed: 116.8 x 90.5 cm (46 x 35 5/8 in.). The Cleveland Museum of Art, Gift of the Hanna Fund, 1953.155",
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image": "https://openaccess-cdn.clevelandart.org/1953.155/1953.155_web.jpg",
+      "url": "https://clevelandart.org/art/1953.155"
+    },
+    "groups": [
+      15
+    ]
+  },
+  {
+    "id": "CMA_125234",
+    "title": "Low Tide at Pourville, near Dieppe, 1882",
+    "date": "",
+    "museum": "Cleveland Museum of Art",
+    "source_url": "https://clevelandart.org/art/1947.196",
+    "rights": "Open Access / CC0",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/cma/CMA_125234.jpg",
+    "sha256": "4ee2e17432df04005ee923328dff0b3b54dd8acb52e8d4a630490a348ff29029",
+    "width": 900,
+    "height": 664,
+    "bytes": 251039,
+    "source_metadata": {
+      "id": 125234,
+      "title": "Low Tide at Pourville, near Dieppe, 1882",
+      "tombstone": "Low Tide at Pourville, near Dieppe, 1882, 1882. Claude Monet (French, 1840–1926). Oil on fabric; framed: 65.4 x 106.7 x 10.5 cm (25 3/4 x 42 x 4 1/8 in.); unframed: 59.9 x 81.3 cm (23 9/16 x 32 in.). The Cleveland Museum of Art, Gift of Mrs. Henry White Cannon, 1947.196",
+      "artist": "Claude Monet (French, 1840–1926)",
+      "image": "https://openaccess-cdn.clevelandart.org/1947.196/1947.196_web.jpg",
+      "url": "https://clevelandart.org/art/1947.196"
+    },
+    "groups": [
+      15
+    ]
+  },
+  {
+    "id": "SLAM_1930",
+    "title": "Water Lilies",
+    "date": "",
+    "museum": "Saint Louis Art Museum",
+    "source_url": "https://www.slam.org/collection/objects/1930/",
+    "rights": "Public Domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/slam/SLAM_1930.jpg",
+    "sha256": "deccef9029f32acec4eb1e4b49a6d1c43623fd2a2d697bfd10511c29a5f3e99c",
+    "width": 6000,
+    "height": 2795,
+    "bytes": 6289688,
+    "source_metadata": {
+      "key": "SLAM_1930",
+      "title": "Water Lilies",
+      "rights": "Public Domain",
+      "source_url": "https://www.slam.org/collection/objects/1930/",
+      "image_url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d2418/u329124183/134_1956_dig_01_o2.jpg",
+      "sha256": "deccef9029f32acec4eb1e4b49a6d1c43623fd2a2d697bfd10511c29a5f3e99c",
+      "phash": "0x54ccdf1253e807f0",
+      "dimensions": [
+        6000,
+        2795
+      ]
+    },
+    "groups": [
+      16
+    ]
+  },
+  {
+    "id": "SLAM_2727",
+    "title": "Charing Cross Bridge",
+    "date": "",
+    "museum": "Saint Louis Art Museum",
+    "source_url": "https://www.slam.org/collection/objects/2727/",
+    "rights": "Public Domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/slam/SLAM_2727.jpg",
+    "sha256": "c9be51b7da4f2c02fc77cd582cea956f5abb60be2801507cf762bba74de4db04",
+    "width": 6000,
+    "height": 4355,
+    "bytes": 11185541,
+    "source_metadata": {
+      "key": "SLAM_2727",
+      "title": "Charing Cross Bridge",
+      "rights": "Public Domain",
+      "source_url": "https://www.slam.org/collection/objects/2727/",
+      "image_url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d7967/u637179677/22_1915_dig_01_o2.jpg",
+      "sha256": "c9be51b7da4f2c02fc77cd582cea956f5abb60be2801507cf762bba74de4db04",
+      "phash": "0x7e1148fa4e6cbe4",
+      "dimensions": [
+        6000,
+        4355
+      ]
+    },
+    "groups": [
+      19
+    ]
+  },
+  {
+    "id": "SLAM_7822",
+    "title": "Rocks at Belle-Isle, Port-Domois",
+    "date": "",
+    "museum": "Saint Louis Art Museum",
+    "source_url": "https://www.slam.org/collection/objects/7822/",
+    "rights": "Public Domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/slam/SLAM_7822.jpg",
+    "sha256": "8df77bd3ed8ce503fd71d95129458ba98782f5609678b402509ce8727a531b48",
+    "width": 2955,
+    "height": 3612,
+    "bytes": 2145542,
+    "source_metadata": {
+      "key": "SLAM_7822",
+      "title": "Rocks at Belle-Isle, Port-Domois",
+      "rights": "Public Domain",
+      "source_url": "https://www.slam.org/collection/objects/7822/",
+      "image_url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d8406/u17184066/2181975_o2.jpg",
+      "sha256": "8df77bd3ed8ce503fd71d95129458ba98782f5609678b402509ce8727a531b48",
+      "phash": "0x197f6109cca083ef",
+      "dimensions": [
+        2955,
+        3612
+      ]
+    },
+    "groups": [
+      18
+    ]
+  },
+  {
+    "id": "SLAM_7056",
+    "title": "The Promenade with the Railroad Bridge, Argenteuil",
+    "date": "",
+    "museum": "Saint Louis Art Museum",
+    "source_url": "https://www.slam.org/collection/objects/7056/",
+    "rights": "Public Domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/slam/SLAM_7056.jpg",
+    "sha256": "3c55bf482bfae68aa9915973a938b96ab3578eea0d406c7526fe727bf9a04246",
+    "width": 4966,
+    "height": 3680,
+    "bytes": 6431808,
+    "source_metadata": {
+      "key": "SLAM_7056",
+      "title": "The Promenade with the Railroad Bridge, Argenteuil",
+      "rights": "Public Domain",
+      "source_url": "https://www.slam.org/collection/objects/7056/",
+      "image_url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d5393/u17153939/451973dig_o2.jpg",
+      "sha256": "3c55bf482bfae68aa9915973a938b96ab3578eea0d406c7526fe727bf9a04246",
+      "phash": "0x16cce1291e93e1bc",
+      "dimensions": [
+        4966,
+        3680
+      ]
+    },
+    "groups": [
+      19
+    ]
+  },
+  {
+    "id": "Commons_5765804",
+    "title": "Le Grand Canal, Venice",
+    "date": "1908 date QS:P571,+1908-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Le_Grand_Canal.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_5765804.jpg",
+    "sha256": "82d864a1830a1d82bcd3a643d9a0ff575045510374cd39c6ce524505d3b63846",
+    "width": 2202,
+    "height": 1748,
+    "bytes": 8053876,
+    "source_metadata": {
+      "key": "Commons_5765804",
+      "title": "Le Grand Canal, Venice          label QS:Lfr,\"Le Grand Canal   Venice  \"  label QS:Len,\"The Grand Canal\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Le_Grand_Canal.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Claude_Monet%2C_Le_Grand_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1908 date QS:P571,+1908-00-00T00:00:00Z/9",
+      "sha256": "82d864a1830a1d82bcd3a643d9a0ff575045510374cd39c6ce524505d3b63846",
+      "phash": "0x16fa4197003cbf8e",
+      "dimensions": [
+        2202,
+        1748
+      ]
+    },
+    "groups": [
+      18
+    ]
+  },
+  {
+    "id": "Commons_22009559",
+    "title": "Flower Beds at Vétheuil",
+    "date": "1881 date QS:P571,+1881-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_22009559.jpg",
+    "sha256": "762aab306a066a973488fe69981828d92b3e66aea987cf491ba99695207230a1",
+    "width": 4517,
+    "height": 5701,
+    "bytes": 17826731,
+    "source_metadata": {
+      "key": "Commons_22009559",
+      "title": "Flower Beds at Vétheuil    title QS:P1476,en:\"Flower Beds at Vétheuil\"  label QS:Len,\"Flower Beds at Vétheuil\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Claude_Monet_-_Flower_Beds_at_V%C3%A9theuil_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1881 date QS:P571,+1881-00-00T00:00:00Z/9",
+      "sha256": "762aab306a066a973488fe69981828d92b3e66aea987cf491ba99695207230a1",
+      "phash": "0x42a90307cbdf74e8",
+      "dimensions": [
+        4517,
+        5701
+      ]
+    },
+    "groups": [
+      16
+    ]
+  },
+  {
+    "id": "Commons_2327127",
+    "title": "Grainstack (Sunset)",
+    "date": "1891",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Graystaks_I.JPG",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_2327127.jpg",
+    "sha256": "389799db08ab38349614ca009ce1d5939ee3f37e7650d27312556515d709e8e6",
+    "width": 4719,
+    "height": 3713,
+    "bytes": 3979171,
+    "source_metadata": {
+      "key": "Commons_2327127",
+      "title": "Grainstack (Sunset)          title QS:P1476,en:\"Grainstack (Sunset)      \"  label QS:Len,\"Grainstack (Sunset)      \"  label QS:Lsv,\"Sädesskyl (solnedgång)\"  label QS:Lfr,\"meule de paille au coucher du soleil\"  label QS:Lde,\"Heuhaufen (Sonnenuntergang)\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Graystaks_I.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Claude_Monet_-_Graystaks_I.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1891",
+      "sha256": "389799db08ab38349614ca009ce1d5939ee3f37e7650d27312556515d709e8e6",
+      "phash": "0x565096b6a6aca9a9",
+      "dimensions": [
+        4719,
+        3713
+      ]
+    },
+    "groups": [
+      17
+    ]
+  },
+  {
+    "id": "Commons_26801642",
+    "title": "Water Lilies",
+    "date": "1905 date QS:P571,+1905-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Nymph%C3%A9as_(1905).jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_26801642.jpg",
+    "sha256": "74c69ce0f88846e641a6c30902e03a0820c2be76c3510b4e67cf8d8b942fff30",
+    "width": 2145,
+    "height": 1909,
+    "bytes": 744471,
+    "source_metadata": {
+      "key": "Commons_26801642",
+      "title": "Water Lilies          label QS:Lfr,\"Nymphéas\"  label QS:Len,\"Water Lilies\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Nymph%C3%A9as_(1905).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Claude_Monet_-_Nymph%C3%A9as_%281905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1905 date QS:P571,+1905-00-00T00:00:00Z/9",
+      "sha256": "74c69ce0f88846e641a6c30902e03a0820c2be76c3510b4e67cf8d8b942fff30",
+      "phash": "0x7569ad4662b23a26",
+      "dimensions": [
+        2145,
+        1909
+      ]
+    },
+    "groups": [
+      16
+    ]
+  },
+  {
+    "id": "Commons_22141643",
+    "title": "Poppy Field in a Hollow near Giverny",
+    "date": "1885",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_in_a_Hollow_near_Giverny_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_22141643.jpg",
+    "sha256": "e32c1edb37ec24f670bcc7d143c37995656d0b75afac7e8c33e8cc46454a5f78",
+    "width": 5701,
+    "height": 4551,
+    "bytes": 13794897,
+    "source_metadata": {
+      "key": "Commons_22141643",
+      "title": "Poppy Field in a Hollow near Giverny          title QS:P1476,en:\"Poppy Field in a Hollow near Giverny      \"  label QS:Len,\"Poppy Field in a Hollow near Giverny      \"  label QS:Lhe,\"שדה פרגים בגיא סמוך לז'יברני\"  label QS:Lfr,\"Champ de coquelicots dans un creux près de Giverny\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_in_a_Hollow_near_Giverny_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Claude_Monet_-_Poppy_Field_in_a_Hollow_near_Giverny_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1885",
+      "sha256": "e32c1edb37ec24f670bcc7d143c37995656d0b75afac7e8c33e8cc46454a5f78",
+      "phash": "0x1ab8b8a5c4c9b792",
+      "dimensions": [
+        5701,
+        4551
+      ]
+    },
+    "groups": [
+      17
+    ]
+  },
+  {
+    "id": "Commons_22140927",
+    "title": "Road at La Cavée, Pourville",
+    "date": "1882 date QS:P571,+1882-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Road_at_La_Cav%C3%A9e,_Pourville_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_22140927.jpg",
+    "sha256": "d1822dc8ffb336332978bd2f2dde1bc94179b0fbdee96a0776bdaa4990e2e298",
+    "width": 5426,
+    "height": 4007,
+    "bytes": 15458340,
+    "source_metadata": {
+      "key": "Commons_22140927",
+      "title": "Road at La Cavée, Pourville    title QS:P1476,en:\"Road at La Cavée, Pourville\"  label QS:Len,\"Road at La Cavée, Pourville\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Road_at_La_Cav%C3%A9e,_Pourville_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Claude_Monet_-_Road_at_La_Cav%C3%A9e%2C_Pourville_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1882 date QS:P571,+1882-00-00T00:00:00Z/9",
+      "sha256": "d1822dc8ffb336332978bd2f2dde1bc94179b0fbdee96a0776bdaa4990e2e298",
+      "phash": "0x32286ef616ed8989",
+      "dimensions": [
+        5426,
+        4007
+      ]
+    },
+    "groups": [
+      18
+    ]
+  },
+  {
+    "id": "Commons_22009552",
+    "title": "Rouen Cathedral Façade and Tour d'Albane (Morning Effect)",
+    "date": "1894 date QS:P571,+1894-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral_Fa%C3%A7ade_and_Tour_d%27Albane_(Morning_Effect)_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_22009552.jpg",
+    "sha256": "6fbf7ef42a94f9682cc661a019e948cde4701696877affe9287e71896f1553b7",
+    "width": 1280,
+    "height": 1861,
+    "bytes": 1327284,
+    "source_metadata": {
+      "key": "Commons_22009552",
+      "title": "Rouen Cathedral Façade and Tour d'Albane (Morning Effect)    title QS:P1476,en:\"Rouen Cathedral Façade and Tour d'Albane (Morning Effect)\"  label QS:Len,\"Rouen Cathedral Façade and Tour d'Albane (Morning Effect)\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral_Fa%C3%A7ade_and_Tour_d%27Albane_(Morning_Effect)_-_Google_Art_Project.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Claude_Monet_-_Rouen_Cathedral_Fa%C3%A7ade_and_Tour_d%27Albane_%28Morning_Effect%29_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_Rouen_Cathedral_Fa%C3%A7ade_and_Tour_d%27Albane_%28Morning_Effect%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "accession": "",
+      "date": "1894 date QS:P571,+1894-00-00T00:00:00Z/9",
+      "sha256": "6fbf7ef42a94f9682cc661a019e948cde4701696877affe9287e71896f1553b7",
+      "phash": "0x165a8216f6a42dcf",
+      "dimensions": [
+        1280,
+        1861
+      ]
+    },
+    "groups": [
+      19
+    ]
+  },
+  {
+    "id": "Commons_22140698",
+    "title": "Rue de la Bavole, Honfleur",
+    "date": "about 1864",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rue_de_la_Bavole,_Honfleur_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_22140698.jpg",
+    "sha256": "f166ab1dbdf84e1cdef7f258501b999e236c641b99f37d690be628979450fab7",
+    "width": 4292,
+    "height": 3912,
+    "bytes": 6352559,
+    "source_metadata": {
+      "key": "Commons_22140698",
+      "title": "Rue de la Bavole, Honfleur    title QS:P1476,en:\"Rue de la Bavole, Honfleur\"  label QS:Len,\"Rue de la Bavole, Honfleur\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rue_de_la_Bavole,_Honfleur_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Claude_Monet_-_Rue_de_la_Bavole%2C_Honfleur_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "about 1864",
+      "sha256": "f166ab1dbdf84e1cdef7f258501b999e236c641b99f37d690be628979450fab7",
+      "phash": "0x46931c976564f1d8",
+      "dimensions": [
+        4292,
+        3912
+      ]
+    },
+    "groups": [
+      18
+    ]
+  },
+  {
+    "id": "Commons_22009532",
+    "title": "Valley of the Creuse (Gray Day)",
+    "date": "1889 date QS:P571,+1889-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Valley_of_the_Creuse_(Gray_Day)_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_22009532.jpg",
+    "sha256": "90d6e7c88538dae9c333bf4c2a52139476ceb246112d0d54118f0c18005ca5a7",
+    "width": 5257,
+    "height": 4224,
+    "bytes": 12130049,
+    "source_metadata": {
+      "key": "Commons_22009532",
+      "title": "Valley of the Creuse (Gray Day)    title QS:P1476,en:\"Valley of the Creuse (Gray Day)\"  label QS:Len,\"Valley of the Creuse (Gray Day)\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Valley_of_the_Creuse_(Gray_Day)_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Claude_Monet_-_Valley_of_the_Creuse_%28Gray_Day%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1889 date QS:P571,+1889-00-00T00:00:00Z/9",
+      "sha256": "90d6e7c88538dae9c333bf4c2a52139476ceb246112d0d54118f0c18005ca5a7",
+      "phash": "0x324ab6928de799c4",
+      "dimensions": [
+        5257,
+        4224
+      ]
+    },
+    "groups": [
+      18
+    ]
+  },
+  {
+    "id": "Commons_84635551",
+    "title": "Field of Poppies near Giverny",
+    "date": "1890 date QS:P571,+1890-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_Mohnfeld.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_84635551.jpg",
+    "sha256": "e8497c8fa52ab792a94c74eae7192460914ecb1ac1553c25bcb5555bfa5068f3",
+    "width": 1023,
+    "height": 606,
+    "bytes": 286158,
+    "source_metadata": {
+      "key": "Commons_84635551",
+      "title": "Field of Poppies near Giverny          title QS:P1476,en:\"Field of Poppies near Giverny      \"  label QS:Len,\"Field of Poppies near Giverny      \"  label QS:Lde,\"Mohnblumenfeld in Giverny\"  label QS:Lfr,\"Champs de coquelicots à Giverny\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_Mohnfeld.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Claude_Monet_Mohnfeld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1890 date QS:P571,+1890-00-00T00:00:00Z/9",
+      "sha256": "e8497c8fa52ab792a94c74eae7192460914ecb1ac1553c25bcb5555bfa5068f3",
+      "phash": "0x5fab21e4565ab2a0",
+      "dimensions": [
+        1023,
+        606
+      ]
+    },
+    "groups": [
+      17
+    ]
+  },
+  {
+    "id": "Commons_79433228",
+    "title": "Meadow at Giverny",
+    "date": "1886 date QS:P571,+1886-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Meadow_at_Giverny,_1886.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_79433228.jpg",
+    "sha256": "f334a7a7a73f41c685ab9faaecd0ab4aa71388864c8bc423b6d31ab4bc71966d",
+    "width": 1410,
+    "height": 1600,
+    "bytes": 419182,
+    "source_metadata": {
+      "key": "Commons_79433228",
+      "title": "Meadow at Giverny",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Meadow_at_Giverny,_1886.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monet_-_Meadow_at_Giverny%2C_1886.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1886 date QS:P571,+1886-00-00T00:00:00Z/9",
+      "sha256": "f334a7a7a73f41c685ab9faaecd0ab4aa71388864c8bc423b6d31ab4bc71966d",
+      "phash": "0x2f76307b71a90585",
+      "dimensions": [
+        1410,
+        1600
+      ]
+    },
+    "groups": [
+      17
+    ]
+  },
+  {
+    "id": "Commons_30061",
+    "title": "French: Le Bassin aux nymphéas, harmonie verte The Waterlily Pond, green harmony",
+    "date": "1899",
+    "museum": "National Gallery, London; NG4240",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet-Waterlilies.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_30061.jpg",
+    "sha256": "91d83d3b3814bc67c0437223c6a486f149850da2a6841785b24ae3d392180597",
+    "width": 500,
+    "height": 491,
+    "bytes": 101815,
+    "source_metadata": {
+      "key": "Commons_30061",
+      "title": "French:    Le Bassin aux nymphéas, harmonie verte       The Waterlily Pond, green harmony    title QS:P1476,fr:\"Le Bassin aux nymphéas, harmonie verte\"  label QS:Lfr,\"Le Bassin aux nymphéas, harmonie verte\"  label QS:Len,\"The Waterlily Pond, green harmony\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet-Waterlilies.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Claude_Monet-Waterlilies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1899",
+      "sha256": "91d83d3b3814bc67c0437223c6a486f149850da2a6841785b24ae3d392180597",
+      "phash": "0xb931e9e00e77275",
+      "dimensions": [
+        500,
+        491
+      ]
+    },
+    "groups": [
+      16
+    ]
+  },
+  {
+    "id": "Commons_15418936",
+    "title": "French: Le Givre Frost",
+    "date": "1880 date QS:P571,+1880-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Le_Givre_(1880,_from_C2RMF).jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_15418936.jpg",
+    "sha256": "a8e8975bd008b868b194e50e1a38e1195f1613df037ffd5e5c3fe2b2739f91a5",
+    "width": 1280,
+    "height": 777,
+    "bytes": 331860,
+    "source_metadata": {
+      "key": "Commons_15418936",
+      "title": "French:    Le Givre             Frost    title QS:P1476,fr:\"Le Givre      \"  label QS:Lfr,\"Le Givre      \"  label QS:Len,\"Frost\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Le_Givre_(1880,_from_C2RMF).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Claude_Monet%2C_Le_Givre_%281880%2C_from_C2RMF%29.jpg/1280px-Claude_Monet%2C_Le_Givre_%281880%2C_from_C2RMF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "accession": "",
+      "date": "1880 date QS:P571,+1880-00-00T00:00:00Z/9",
+      "sha256": "a8e8975bd008b868b194e50e1a38e1195f1613df037ffd5e5c3fe2b2739f91a5",
+      "phash": "0x6a744b34786e54c5",
+      "dimensions": [
+        1280,
+        777
+      ]
+    },
+    "groups": [
+      20
+    ]
+  },
+  {
+    "id": "Commons_79468187",
+    "title": "Monet - Wildenstein 1996, 1296",
+    "date": "",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Wildenstein_1996,_1296.png",
+    "rights": "Public domain",
+    "status": "review_metadata",
+    "notes": "条目仅有作品编号，题名待确认",
+    "file": "assets/review/commons/Commons_79468187.png",
+    "sha256": "30fec391d24daa7fedf2227aa06185553a695fb9b6300c68055cb3ad95110f6c",
+    "width": 1280,
+    "height": 1966,
+    "bytes": 3523435,
+    "source_metadata": {
+      "key": "Commons_79468187",
+      "title": "Monet - Wildenstein 1996, 1296",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Wildenstein_1996,_1296.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Monet_-_Wildenstein_1996%2C_1296.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Monet_-_Wildenstein_1996%2C_1296.png/1280px-Monet_-_Wildenstein_1996%2C_1296.png",
+      "sha256": "30fec391d24daa7fedf2227aa06185553a695fb9b6300c68055cb3ad95110f6c",
+      "phash": "0x5a6870b1875707ab",
+      "dimensions": [
+        1280,
+        1966
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_12115716",
+    "title": "Meadow with Poplars",
+    "date": "1875 date QS:P571,+1875-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Meadow-with-Poplars-Homepage.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_12115716.jpg",
+    "sha256": "5baa7674a07aa28f2940dd8cf2455f313aff121415e9df7b4292b1aacee58828",
+    "width": 1280,
+    "height": 1067,
+    "bytes": 643486,
+    "source_metadata": {
+      "key": "Commons_12115716",
+      "title": "Meadow with Poplars",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Meadow-with-Poplars-Homepage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Monet_Meadow-with-Poplars-Homepage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1875 date QS:P571,+1875-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Monet_Meadow-with-Poplars-Homepage.jpg/1280px-Monet_Meadow-with-Poplars-Homepage.jpg",
+      "sha256": "5baa7674a07aa28f2940dd8cf2455f313aff121415e9df7b4292b1aacee58828",
+      "phash": "0x73147e071233efc",
+      "dimensions": [
+        1280,
+        1067
+      ]
+    },
+    "groups": [
+      20
+    ]
+  },
+  {
+    "id": "Commons_49286782",
+    "title": "Rouen Cathedral, Façade",
+    "date": "1893 date QS:P571,+1893-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rouen_Cathedral_Boston_W1356.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_49286782.jpg",
+    "sha256": "0986a512225668b83312399d6c747b2cebd4be0ed0846b5c00f3063a16f55810",
+    "width": 1280,
+    "height": 1872,
+    "bytes": 1144138,
+    "source_metadata": {
+      "key": "Commons_49286782",
+      "title": "Rouen Cathedral, Façade          title QS:P1476,en:\"Rouen Cathedral, Façade      \"  label QS:Len,\"Rouen Cathedral, Façade      \"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rouen_Cathedral_Boston_W1356.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Rouen_Cathedral_Boston_W1356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1893 date QS:P571,+1893-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Rouen_Cathedral_Boston_W1356.jpg/1280px-Rouen_Cathedral_Boston_W1356.jpg",
+      "sha256": "0986a512225668b83312399d6c747b2cebd4be0ed0846b5c00f3063a16f55810",
+      "phash": "0x2c634a5b6cac53b1",
+      "dimensions": [
+        1280,
+        1872
+      ]
+    },
+    "groups": [
+      19
+    ]
+  },
+  {
+    "id": "Commons_506301",
+    "title": "French: La Japonaise, Madame Monet en costume japonais Madame Monet wearing a kimono",
+    "date": "1876",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet-Madame_Monet_en_costume_japonais.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_506301.jpg",
+    "sha256": "52064e66a541646dce20075d5231ded544e78ccdab8f599008db6a31c6e39a0e",
+    "width": 1280,
+    "height": 2107,
+    "bytes": 544607,
+    "source_metadata": {
+      "key": "Commons_506301",
+      "title": "French:    La Japonaise, Madame Monet en costume japonais       Madame Monet wearing a kimono    title QS:P1476,fr:\"La Japonaise, Madame Monet en costume japonais\"  label QS:Lfr,\"La Japonaise, Madame Monet en costume japonais\"  label QS:Lde,\"Madame Monet im Kimono\"  label QS:Len,\"Madame Monet wearing a kimono\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet-Madame_Monet_en_costume_japonais.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Claude_Monet-Madame_Monet_en_costume_japonais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1876",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Claude_Monet-Madame_Monet_en_costume_japonais.jpg/1280px-Claude_Monet-Madame_Monet_en_costume_japonais.jpg",
+      "sha256": "52064e66a541646dce20075d5231ded544e78ccdab8f599008db6a31c6e39a0e",
+      "phash": "0x31038217ed3df1e4",
+      "dimensions": [
+        1280,
+        2107
+      ]
+    },
+    "groups": [
+      22
+    ]
+  },
+  {
+    "id": "Commons_1169962",
+    "title": "French: Bras de Seine près de Giverny. Branch of the Seine Near Giverny [II] or Arm of the Seine Near Giverny [II].",
+    "date": "1897 date QS:P571,+1897-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Branch_of_the_Seine_near_Giverny.JPG",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_1169962.jpg",
+    "sha256": "9b7ef1c1869b32f1f017c4a7f2a44cfc5070d4ec2eb4e5046f1d7c0a45eed907",
+    "width": 1280,
+    "height": 1149,
+    "bytes": 187072,
+    "source_metadata": {
+      "key": "Commons_1169962",
+      "title": "French:    Bras de Seine près de Giverny.       Branch of the Seine Near Giverny [II] or Arm of the Seine Near Giverny [II].    title QS:P1476,fr:\"Bras de Seine près de Giverny.\"  label QS:Lfr,\"Bras de Seine près de Giverny.\"  label QS:Len,\"Branch of the Seine Near Giverny [II] or Arm of the Seine Near Giverny [II].\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Branch_of_the_Seine_near_Giverny.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Claude_Monet_-_Branch_of_the_Seine_near_Giverny.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1897 date QS:P571,+1897-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Claude_Monet_-_Branch_of_the_Seine_near_Giverny.JPG/1280px-Claude_Monet_-_Branch_of_the_Seine_near_Giverny.JPG",
+      "sha256": "9b7ef1c1869b32f1f017c4a7f2a44cfc5070d4ec2eb4e5046f1d7c0a45eed907",
+      "phash": "0x992cada4876fe34",
+      "dimensions": [
+        1280,
+        1149
+      ]
+    },
+    "groups": [
+      20
+    ]
+  },
+  {
+    "id": "Commons_53419200",
+    "title": "Les Petites Dalles Claude Monet 1888",
+    "date": "1880 date QS:P571,+1880-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Les_Petites_Dalles_Claude_Monet_1888.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_53419200.jpg",
+    "sha256": "a493cf6c391068d69bb966fb1e1a6c164ed55c22f07999531545f271a8ede554",
+    "width": 1280,
+    "height": 961,
+    "bytes": 532945,
+    "source_metadata": {
+      "key": "Commons_53419200",
+      "title": "Les Petites Dalles Claude Monet 1888",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Les_Petites_Dalles_Claude_Monet_1888.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Les_Petites_Dalles_Claude_Monet_1888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1880 date QS:P571,+1880-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Les_Petites_Dalles_Claude_Monet_1888.jpg/1280px-Les_Petites_Dalles_Claude_Monet_1888.jpg",
+      "sha256": "a493cf6c391068d69bb966fb1e1a6c164ed55c22f07999531545f271a8ede554",
+      "phash": "0x314cf67f22da1cc",
+      "dimensions": [
+        1280,
+        961
+      ]
+    },
+    "groups": [
+      21
+    ]
+  },
+  {
+    "id": "Commons_79297441",
+    "title": "Boulevard Saint-Denis, Argenteuil, in Winter",
+    "date": "1875 date QS:P571,+1875-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Boulevard_Saint-Denis,_Argenteuil,_in_Winter,_1875.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_79297441.jpg",
+    "sha256": "aea7d5d51db96cbe7e708a4f76f2e8dd42562d6e7f58a5a3822d16af9513a655",
+    "width": 1280,
+    "height": 947,
+    "bytes": 321293,
+    "source_metadata": {
+      "key": "Commons_79297441",
+      "title": "Boulevard Saint-Denis, Argenteuil, in Winter          title QS:P1476,en:\"Boulevard Saint-Denis, Argenteuil, in Winter      \"  label QS:Len,\"Boulevard Saint-Denis, Argenteuil, in Winter      \"  label QS:Lde,\"Boulevard Saint-Denis, Argenteuil, im Winter\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Boulevard_Saint-Denis,_Argenteuil,_in_Winter,_1875.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monet_-_Boulevard_Saint-Denis%2C_Argenteuil%2C_in_Winter%2C_1875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1875 date QS:P571,+1875-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Monet_-_Boulevard_Saint-Denis%2C_Argenteuil%2C_in_Winter%2C_1875.jpg/1280px-Monet_-_Boulevard_Saint-Denis%2C_Argenteuil%2C_in_Winter%2C_1875.jpg",
+      "sha256": "aea7d5d51db96cbe7e708a4f76f2e8dd42562d6e7f58a5a3822d16af9513a655",
+      "phash": "0x2df348360bacd28d",
+      "dimensions": [
+        1280,
+        947
+      ]
+    },
+    "groups": [
+      20
+    ]
+  },
+  {
+    "id": "Commons_79327189",
+    "title": "Cap Martin, near Menton",
+    "date": "1884",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Cap_Martin,_near_Menton,_1884.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_79327189.jpg",
+    "sha256": "d6c5660f7152ddf0453f26c08d14e37ad9525457734531b1b9bf0803e938727b",
+    "width": 1280,
+    "height": 1057,
+    "bytes": 474160,
+    "source_metadata": {
+      "key": "Commons_79327189",
+      "title": "Cap Martin, near Menton          title QS:P1476,en:\"Cap Martin, near Menton      \"  label QS:Len,\"Cap Martin, near Menton      \"  label QS:Lde,\"Cap Martin, bei Menton\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Cap_Martin,_near_Menton,_1884.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Monet_-_Cap_Martin%2C_near_Menton%2C_1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1884",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Monet_-_Cap_Martin%2C_near_Menton%2C_1884.jpg/1280px-Monet_-_Cap_Martin%2C_near_Menton%2C_1884.jpg",
+      "sha256": "d6c5660f7152ddf0453f26c08d14e37ad9525457734531b1b9bf0803e938727b",
+      "phash": "0x72181cb6778bf070",
+      "dimensions": [
+        1280,
+        1057
+      ]
+    },
+    "groups": [
+      21
+    ]
+  },
+  {
+    "id": "Commons_79292489",
+    "title": "Woodgatherers at the Edge of the Forest",
+    "date": "1863",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Woodgatherers_at_the_Edge_of_the_Forest,_about_1863.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_79292489.jpg",
+    "sha256": "cea3e9ce45fb6114bbc6e7abbda6d32f3f31b33abe6705f38ac306d1a4a01857",
+    "width": 1280,
+    "height": 842,
+    "bytes": 272281,
+    "source_metadata": {
+      "key": "Commons_79292489",
+      "title": "Woodgatherers at the Edge of the Forest          title QS:P1476,en:\"Woodgatherers at the Edge of the Forest      \"  label QS:Len,\"Woodgatherers at the Edge of the Forest      \"  label QS:Lpt,\"Woodgatherers at the Edge of the Forest\"  label QS:Lde,\"Holzsammler am Rand des Waldes\"  label QS:Lpt-br,\"Woodgatherers at the Edge of the Forest\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Woodgatherers_at_the_Edge_of_the_Forest,_about_1863.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monet_-_Woodgatherers_at_the_Edge_of_the_Forest%2C_about_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1863",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Monet_-_Woodgatherers_at_the_Edge_of_the_Forest%2C_about_1863.jpg/1280px-Monet_-_Woodgatherers_at_the_Edge_of_the_Forest%2C_about_1863.jpg",
+      "sha256": "cea3e9ce45fb6114bbc6e7abbda6d32f3f31b33abe6705f38ac306d1a4a01857",
+      "phash": "0x68657a9c5f63a0d0",
+      "dimensions": [
+        1280,
+        842
+      ]
+    },
+    "groups": [
+      20
+    ]
+  },
+  {
+    "id": "Commons_141151696",
+    "title": "Morning on the Seine by Claude Monet",
+    "date": "1896",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Morning_on_the_Seine_by_Claude_Monet.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_141151696.jpg",
+    "sha256": "b31f1468516708a10e60dde88f345ca4f6d51d62190798fb67734682b081d289",
+    "width": 1280,
+    "height": 1015,
+    "bytes": 323432,
+    "source_metadata": {
+      "key": "Commons_141151696",
+      "title": "Morning on the Seine by Claude Monet",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Morning_on_the_Seine_by_Claude_Monet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Morning_on_the_Seine_by_Claude_Monet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1896",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Morning_on_the_Seine_by_Claude_Monet.jpg/1280px-Morning_on_the_Seine_by_Claude_Monet.jpg",
+      "sha256": "b31f1468516708a10e60dde88f345ca4f6d51d62190798fb67734682b081d289",
+      "phash": "0x5b2d5061693a36d6",
+      "dimensions": [
+        1280,
+        1015
+      ]
+    },
+    "groups": [
+      23
+    ]
+  },
+  {
+    "id": "Commons_6937753",
+    "title": "Water-Lily Pond 1900 Claude Monet Boston MFA",
+    "date": "1900 date QS:P571,+1900-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_6937753.jpg",
+    "sha256": "a6c7616771555e60adca12c26f29a2fd2e68f1ace3e1e857f617f3199fc29994",
+    "width": 1280,
+    "height": 1225,
+    "bytes": 639733,
+    "source_metadata": {
+      "key": "Commons_6937753",
+      "title": "Water-Lily Pond 1900 Claude Monet Boston MFA",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1900 date QS:P571,+1900-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg/1280px-Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg",
+      "sha256": "a6c7616771555e60adca12c26f29a2fd2e68f1ace3e1e857f617f3199fc29994",
+      "phash": "0x2369c880ee3f1d87",
+      "dimensions": [
+        1280,
+        1225
+      ]
+    },
+    "groups": [
+      23
+    ]
+  },
+  {
+    "id": "Commons_78846569",
+    "title": "The Water Lily Pond",
+    "date": "1900 date QS:P571,+1900-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Water-Lily_Pond_MFA_Boston_61.959_Catalog_No_1630.jpg",
+    "rights": "Public domain",
+    "status": "review_duplicate",
+    "notes": "同一件波士顿1900年睡莲池的另一色调复制图，保留6937753",
+    "file": "assets/review/commons/Commons_78846569.jpg",
+    "sha256": "053ab20f9d7bba9a50b3f7cfa6ca461a7ae2a18468a39a5b5b74129c24104690",
+    "width": 1280,
+    "height": 1239,
+    "bytes": 728028,
+    "source_metadata": {
+      "key": "Commons_78846569",
+      "title": "The Water Lily Pond          title QS:P1476,en:\"The Water Lily Pond      \"  label QS:Len,\"The Water Lily Pond      \"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Water-Lily_Pond_MFA_Boston_61.959_Catalog_No_1630.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Water-Lily_Pond_MFA_Boston_61.959_Catalog_No_1630.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1900 date QS:P571,+1900-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Water-Lily_Pond_MFA_Boston_61.959_Catalog_No_1630.jpg/1280px-Water-Lily_Pond_MFA_Boston_61.959_Catalog_No_1630.jpg",
+      "sha256": "053ab20f9d7bba9a50b3f7cfa6ca461a7ae2a18468a39a5b5b74129c24104690",
+      "phash": "0xebf12a336d661c8",
+      "dimensions": [
+        1280,
+        1239
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_90512468",
+    "title": "Claude Monet - Charing Cross bridge - Museum of Fine Arts, Boston",
+    "date": "1900 date QS:P571,+1900-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Charing_Cross_bridge_-_Museum_of_Fine_Arts,_Boston.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_90512468.jpg",
+    "sha256": "9407c1f94234f766f265b421c46766b03bb420fdb94f338b5d5b571fbb2167fb",
+    "width": 1280,
+    "height": 859,
+    "bytes": 343917,
+    "source_metadata": {
+      "key": "Commons_90512468",
+      "title": "Claude Monet - Charing Cross bridge - Museum of Fine Arts, Boston",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Charing_Cross_bridge_-_Museum_of_Fine_Arts,_Boston.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Claude_Monet_-_Charing_Cross_bridge_-_Museum_of_Fine_Arts%2C_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1900 date QS:P571,+1900-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Claude_Monet_-_Charing_Cross_bridge_-_Museum_of_Fine_Arts%2C_Boston.jpg/1280px-Claude_Monet_-_Charing_Cross_bridge_-_Museum_of_Fine_Arts%2C_Boston.jpg",
+      "sha256": "9407c1f94234f766f265b421c46766b03bb420fdb94f338b5d5b571fbb2167fb",
+      "phash": "0x695b34eb5a250ec4",
+      "dimensions": [
+        1280,
+        859
+      ]
+    },
+    "groups": [
+      24
+    ]
+  },
+  {
+    "id": "Commons_16391290",
+    "title": "Monet- Die Kathedrale von Rouen - Portal und Albanturm in der Dämmerung",
+    "date": "1893",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet-_Die_Kathedrale_von_Rouen_-_Portal_und_Albanturm_in_der_D%C3%A4mmerung.jpg",
+    "rights": "Public domain",
+    "status": "review_duplicate",
+    "notes": "与22009552教堂图构图相同，存在白边与色调差异，保守排除",
+    "file": "assets/review/commons/Commons_16391290.jpg",
+    "sha256": "25f33dbf3c6f120a014748c9f156e917c051bb4226a0da71f9b51fed5d1c093a",
+    "width": 1280,
+    "height": 1808,
+    "bytes": 378402,
+    "source_metadata": {
+      "key": "Commons_16391290",
+      "title": "Monet- Die Kathedrale von Rouen - Portal und Albanturm in der Dämmerung",
+      "artist": "Claude Monet. (1840-1926)",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet-_Die_Kathedrale_von_Rouen_-_Portal_und_Albanturm_in_der_D%C3%A4mmerung.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Monet-_Die_Kathedrale_von_Rouen_-_Portal_und_Albanturm_in_der_D%C3%A4mmerung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1893",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Monet-_Die_Kathedrale_von_Rouen_-_Portal_und_Albanturm_in_der_D%C3%A4mmerung.jpg/1280px-Monet-_Die_Kathedrale_von_Rouen_-_Portal_und_Albanturm_in_der_D%C3%A4mmerung.jpg",
+      "sha256": "25f33dbf3c6f120a014748c9f156e917c051bb4226a0da71f9b51fed5d1c093a",
+      "phash": "0x1610d216f6768dab",
+      "dimensions": [
+        1280,
+        1808
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_21857387",
+    "title": "The Coalmen",
+    "date": "1875",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_21857387.jpg",
+    "sha256": "21eb4a74c756f70beda676b35af27130ef9b6e44242f65aa02c214fff63e24c7",
+    "width": 1280,
+    "height": 1053,
+    "bytes": 567140,
+    "source_metadata": {
+      "key": "Commons_21857387",
+      "title": "The Coalmen    label QS:Len,\"The Coalmen\"  label QS:Lde,\"Die Kohlenträger\"  label QS:Lfr,\"Les Déchargeurs de charbon\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1875",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg/1280px-Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg",
+      "sha256": "21eb4a74c756f70beda676b35af27130ef9b6e44242f65aa02c214fff63e24c7",
+      "phash": "0x61a4d297966829bd",
+      "dimensions": [
+        1280,
+        1053
+      ]
+    },
+    "groups": [
+      23
+    ]
+  },
+  {
+    "id": "Commons_155845",
+    "title": "Der Bach von Robec",
+    "date": "1872 date QS:P571,+1872-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_017.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_155845.jpg",
+    "sha256": "1879bdf7eff7734b89ac7201fd5d4cad1b46ec1c119695475ca80170b0075fab",
+    "width": 1280,
+    "height": 969,
+    "bytes": 307585,
+    "source_metadata": {
+      "key": "Commons_155845",
+      "title": "Der Bach von Robec",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Claude_Monet_017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1872 date QS:P571,+1872-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Claude_Monet_017.jpg/1280px-Claude_Monet_017.jpg",
+      "sha256": "1879bdf7eff7734b89ac7201fd5d4cad1b46ec1c119695475ca80170b0075fab",
+      "phash": "0x7a978128aa4c96b7",
+      "dimensions": [
+        1280,
+        969
+      ]
+    },
+    "groups": [
+      23
+    ]
+  },
+  {
+    "id": "Commons_155848",
+    "title": "Étretat, der Strand und La Porte d'Amont",
+    "date": "1883 date QS:P571,+1883-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_020.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_155848.jpg",
+    "sha256": "930f8e25d754633083e2500a49c7056ed75abc757dd96a58c7dd912e461c6666",
+    "width": 1280,
+    "height": 1032,
+    "bytes": 300438,
+    "source_metadata": {
+      "key": "Commons_155848",
+      "title": "Étretat, der Strand und La Porte d'Amont",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Claude_Monet_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1883 date QS:P571,+1883-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Claude_Monet_020.jpg/1280px-Claude_Monet_020.jpg",
+      "sha256": "930f8e25d754633083e2500a49c7056ed75abc757dd96a58c7dd912e461c6666",
+      "phash": "0x4c5846ecf1bb24d1",
+      "dimensions": [
+        1280,
+        1032
+      ]
+    },
+    "groups": [
+      21
+    ]
+  },
+  {
+    "id": "Commons_155866",
+    "title": "Madame Louis Joachim Gaudibert",
+    "date": "1868 date QS:P571,+1868-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_036.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_155866.jpg",
+    "sha256": "cb6fd081dd89b9c08d8e5a8ca5dd159cc543a4a7b405db279f36550e602df58d",
+    "width": 1280,
+    "height": 2186,
+    "bytes": 589324,
+    "source_metadata": {
+      "key": "Commons_155866",
+      "title": "Madame Louis Joachim Gaudibert",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_036.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Claude_Monet_036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1868 date QS:P571,+1868-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Claude_Monet_036.jpg/1280px-Claude_Monet_036.jpg",
+      "sha256": "cb6fd081dd89b9c08d8e5a8ca5dd159cc543a4a7b405db279f36550e602df58d",
+      "phash": "0x7e08863d7d40a6a7",
+      "dimensions": [
+        1280,
+        2186
+      ]
+    },
+    "groups": [
+      22
+    ]
+  },
+  {
+    "id": "Commons_155878",
+    "title": "Segelboote, Regatta in Argenteuil",
+    "date": "circa 1874 date QS:P571,+1874-00-00T00:00:00Z/9,P1480,Q5727902",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_047.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_155878.jpg",
+    "sha256": "ceca6faabe1718c7838fa587e4ac996216bbc178cd60b2f04fcd9d946aa145b1",
+    "width": 1280,
+    "height": 798,
+    "bytes": 225896,
+    "source_metadata": {
+      "key": "Commons_155878",
+      "title": "Segelboote, Regatta in Argenteuil",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_047.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Claude_Monet_047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "circa 1874 date QS:P571,+1874-00-00T00:00:00Z/9,P1480,Q5727902",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Claude_Monet_047.jpg/1280px-Claude_Monet_047.jpg",
+      "sha256": "ceca6faabe1718c7838fa587e4ac996216bbc178cd60b2f04fcd9d946aa145b1",
+      "phash": "0x5e3339981f07ec50",
+      "dimensions": [
+        1280,
+        798
+      ]
+    },
+    "groups": [
+      21
+    ]
+  },
+  {
+    "id": "Commons_155880",
+    "title": "Self-portrait",
+    "date": "1917 date QS:P571,+1917-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_049.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_155880.jpg",
+    "sha256": "5ad2ae7804bf081196fed53178a5cc7eceb8ca0fc2fdacb2e2d5221a06f880a3",
+    "width": 1280,
+    "height": 1691,
+    "bytes": 263690,
+    "source_metadata": {
+      "key": "Commons_155880",
+      "title": "Self-portrait",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_049.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Claude_Monet_049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1917 date QS:P571,+1917-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Claude_Monet_049.jpg/1280px-Claude_Monet_049.jpg",
+      "sha256": "5ad2ae7804bf081196fed53178a5cc7eceb8ca0fc2fdacb2e2d5221a06f880a3",
+      "phash": "0x3cdca329ec60931e",
+      "dimensions": [
+        1280,
+        1691
+      ]
+    },
+    "groups": [
+      22
+    ]
+  },
+  {
+    "id": "Commons_73011096",
+    "title": "Madame Monet 1871",
+    "date": "1871",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Madame_Monet_1871.jpg",
+    "rights": "Public domain",
+    "status": "review_duplicate",
+    "notes": "与55105249同为沙发上的莫奈夫人，后者无外框",
+    "file": "assets/review/commons/Commons_73011096.jpg",
+    "sha256": "5db5c1d5693558ce63a7866b0ca1f18176847955d65dbc04067a6a49da8067bb",
+    "width": 1280,
+    "height": 960,
+    "bytes": 213402,
+    "source_metadata": {
+      "key": "Commons_73011096",
+      "title": "Madame Monet 1871",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Madame_Monet_1871.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Madame_Monet_1871.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1871",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Madame_Monet_1871.jpg/1280px-Madame_Monet_1871.jpg",
+      "sha256": "5db5c1d5693558ce63a7866b0ca1f18176847955d65dbc04067a6a49da8067bb",
+      "phash": "0x66b7396c262359d0",
+      "dimensions": [
+        1280,
+        960
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_7169557",
+    "title": "En Norvégienne. La barque à Giverny",
+    "date": "circa 1887 date QS:P571,+1887-00-00T00:00:00Z/9,P1480,Q5727902",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_In_der_Barke.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_7169557.jpg",
+    "sha256": "83bb3220a805cd21cdc5a9f438f8bbebe846205c51b4fa49eb3f82ac9394c31f",
+    "width": 1280,
+    "height": 955,
+    "bytes": 407392,
+    "source_metadata": {
+      "key": "Commons_7169557",
+      "title": "En Norvégienne. La barque à Giverny",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_In_der_Barke.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Monet_-_In_der_Barke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "circa 1887 date QS:P571,+1887-00-00T00:00:00Z/9,P1480,Q5727902",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Monet_-_In_der_Barke.jpg/1280px-Monet_-_In_der_Barke.jpg",
+      "sha256": "83bb3220a805cd21cdc5a9f438f8bbebe846205c51b4fa49eb3f82ac9394c31f",
+      "phash": "0xb5a5cb6a32b18dc",
+      "dimensions": [
+        1280,
+        955
+      ]
+    },
+    "groups": [
+      22
+    ]
+  },
+  {
+    "id": "Commons_7186206",
+    "title": "The Turkeys",
+    "date": "1877 date QS:P571,+1877-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Truth%C3%A4hne.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_7186206.jpg",
+    "sha256": "345b2eeeb17937f50c4891dddb13a229d3ef8a2850da336773877aca08aaa308",
+    "width": 1280,
+    "height": 1307,
+    "bytes": 307454,
+    "source_metadata": {
+      "key": "Commons_7186206",
+      "title": "The Turkeys    label QS:Lja,\"七面鳥 (モネ)\"  label QS:Lfr,\"Les Dindons\"  label QS:Len,\"The Turkeys\"  label QS:Lit,\"I tacchini\"  label QS:Les,\"Los pavos\"  label QS:Lnl,\"The Turkeys\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Truth%C3%A4hne.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Monet_-_Truth%C3%A4hne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1877 date QS:P571,+1877-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Monet_-_Truth%C3%A4hne.jpg/1280px-Monet_-_Truth%C3%A4hne.jpg",
+      "sha256": "345b2eeeb17937f50c4891dddb13a229d3ef8a2850da336773877aca08aaa308",
+      "phash": "0x7211a79bd8e425e1",
+      "dimensions": [
+        1280,
+        1307
+      ]
+    },
+    "groups": [
+      24
+    ]
+  },
+  {
+    "id": "Commons_65212482",
+    "title": "Monet - self-portrait-1917",
+    "date": "before 1926 date QS:P571,+1926-00-00T00:00:00Z/7,P1326,+1926-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_self-portrait-1917.jpg",
+    "rights": "Public domain",
+    "status": "review_duplicate",
+    "notes": "与155880同为1917年自画像，保留后者",
+    "file": "assets/review/commons/Commons_65212482.jpg",
+    "sha256": "f8b4179169c7eb0dee19027f61a923c32dca3d7b3efda9cde37b20ad5ef6bbb5",
+    "width": 1280,
+    "height": 1915,
+    "bytes": 211831,
+    "source_metadata": {
+      "key": "Commons_65212482",
+      "title": "Monet - self-portrait-1917",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_self-portrait-1917.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Monet_-_self-portrait-1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "before 1926 date QS:P571,+1926-00-00T00:00:00Z/7,P1326,+1926-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Monet_-_self-portrait-1917.jpg/1280px-Monet_-_self-portrait-1917.jpg",
+      "sha256": "f8b4179169c7eb0dee19027f61a923c32dca3d7b3efda9cde37b20ad5ef6bbb5",
+      "phash": "0x5cdab1adc670930a",
+      "dimensions": [
+        1280,
+        1915
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_134707344",
+    "title": "Monet w1415",
+    "date": "1856-01-01",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1415.jpg",
+    "rights": "Public domain",
+    "status": "review_metadata",
+    "notes": "条目仅有作品编号且日期字段有疑点，待确认",
+    "file": "assets/review/commons/Commons_134707344.jpg",
+    "sha256": "15c1a8aba7c253a9cdaa105d44f32670a10e91af42036b2ec364092748978368",
+    "width": 1280,
+    "height": 820,
+    "bytes": 305955,
+    "source_metadata": {
+      "key": "Commons_134707344",
+      "title": "Monet w1415",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1415.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Monet_w1415.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1856-01-01",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Monet_w1415.jpg/1280px-Monet_w1415.jpg",
+      "sha256": "15c1a8aba7c253a9cdaa105d44f32670a10e91af42036b2ec364092748978368",
+      "phash": "0x61266fcd16509b27",
+      "dimensions": [
+        1280,
+        820
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_134733528",
+    "title": "Monet w1644",
+    "date": "1856-01-01",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1644.jpg",
+    "rights": "Public domain",
+    "status": "review_metadata",
+    "notes": "条目仅有作品编号且日期字段有疑点，待确认",
+    "file": "assets/review/commons/Commons_134733528.jpg",
+    "sha256": "b8912d4071484a963f46b43a769125d8abe5e85b44ff05a2e731bec29dfe0db2",
+    "width": 1280,
+    "height": 1228,
+    "bytes": 658342,
+    "source_metadata": {
+      "key": "Commons_134733528",
+      "title": "Monet w1644",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1644.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Monet_w1644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1856-01-01",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Monet_w1644.jpg/1280px-Monet_w1644.jpg",
+      "sha256": "b8912d4071484a963f46b43a769125d8abe5e85b44ff05a2e731bec29dfe0db2",
+      "phash": "0xbcda7867dca08d4",
+      "dimensions": [
+        1280,
+        1228
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_97123780",
+    "title": "Monet w1942",
+    "date": "2020-11-29",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1942.jpg",
+    "rights": "Public domain",
+    "status": "review_metadata",
+    "notes": "条目仅有作品编号，题名待确认",
+    "file": "assets/review/commons/Commons_97123780.jpg",
+    "sha256": "db7440a3dece8fdb867631b656f5210bd49345f32731964da157ec909e2ceba9",
+    "width": 1280,
+    "height": 1424,
+    "bytes": 680788,
+    "source_metadata": {
+      "key": "Commons_97123780",
+      "title": "Monet w1942",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1942.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Monet_w1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "2020-11-29",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Monet_w1942.jpg/1280px-Monet_w1942.jpg",
+      "sha256": "db7440a3dece8fdb867631b656f5210bd49345f32731964da157ec909e2ceba9",
+      "phash": "0x1706de57b300c83f",
+      "dimensions": [
+        1280,
+        1424
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_129954561",
+    "title": "Monet w526",
+    "date": "2009-08-13 10:17:10",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w526.jpg",
+    "rights": "Public domain",
+    "status": "review_metadata",
+    "notes": "条目仅有作品编号，题名待确认",
+    "file": "assets/review/commons/Commons_129954561.jpg",
+    "sha256": "fbe76017492fa41b9ee18648f86ada6f7ed82b76d52cad32be5a558ff97e4b83",
+    "width": 1280,
+    "height": 1034,
+    "bytes": 476247,
+    "source_metadata": {
+      "key": "Commons_129954561",
+      "title": "Monet w526",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w526.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Monet_w526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "2009-08-13 10:17:10",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Monet_w526.jpg/1280px-Monet_w526.jpg",
+      "sha256": "fbe76017492fa41b9ee18648f86ada6f7ed82b76d52cad32be5a558ff97e4b83",
+      "phash": "0x5699b9274356b0a5",
+      "dimensions": [
+        1280,
+        1034
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_44779061",
+    "title": "French: Chasse-marée à l'ancre Anchored Chasse-marée",
+    "date": "between 1871 and 1872 date QS:P571,+1871-00-00T00:00:00Z/8,P1319,+1871-00-00T00:00:00Z/9,P1326,+1872-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chasse-mar%C3%A9e_%C3%A0_l%27ancre_-_Claude_Monet.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_44779061.jpg",
+    "sha256": "3cb0abc75344deb12b1a837dbdb40c6c25885467c67355e075d2191247ce2456",
+    "width": 1280,
+    "height": 793,
+    "bytes": 228639,
+    "source_metadata": {
+      "key": "Commons_44779061",
+      "title": "French:    Chasse-marée à l'ancre       Anchored Chasse-marée    title QS:P1476,fr:\"Chasse-marée à l'ancre\"  label QS:Lfr,\"Chasse-marée à l'ancre\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chasse-mar%C3%A9e_%C3%A0_l%27ancre_-_Claude_Monet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chasse-mar%C3%A9e_%C3%A0_l%27ancre_-_Claude_Monet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "between 1871 and 1872 date QS:P571,+1871-00-00T00:00:00Z/8,P1319,+1871-00-00T00:00:00Z/9,P1326,+1872-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chasse-mar%C3%A9e_%C3%A0_l%27ancre_-_Claude_Monet.jpg/1280px-Chasse-mar%C3%A9e_%C3%A0_l%27ancre_-_Claude_Monet.jpg",
+      "sha256": "3cb0abc75344deb12b1a837dbdb40c6c25885467c67355e075d2191247ce2456",
+      "phash": "0x508f326cdf68a893",
+      "dimensions": [
+        1280,
+        793
+      ]
+    },
+    "groups": [
+      21
+    ]
+  },
+  {
+    "id": "Commons_12374439",
+    "title": "Effet de neige à Vétheul",
+    "date": "1878-79",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Effet_de_neige_%C3%A0_V%C3%A9theul.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_12374439.jpg",
+    "sha256": "3ef2409d125720dfb340aa42f86732d8b9a01dcdd3b2feaf9bcd83b539641652",
+    "width": 1280,
+    "height": 973,
+    "bytes": 486896,
+    "source_metadata": {
+      "key": "Commons_12374439",
+      "title": "Effet de neige à Vétheul",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Effet_de_neige_%C3%A0_V%C3%A9theul.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Claude_Monet_-_Effet_de_neige_%C3%A0_V%C3%A9theul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1878-79",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Claude_Monet_-_Effet_de_neige_%C3%A0_V%C3%A9theul.jpg/1280px-Claude_Monet_-_Effet_de_neige_%C3%A0_V%C3%A9theul.jpg",
+      "sha256": "3ef2409d125720dfb340aa42f86732d8b9a01dcdd3b2feaf9bcd83b539641652",
+      "phash": "0x30f0a90b4b86c7f6",
+      "dimensions": [
+        1280,
+        973
+      ]
+    },
+    "groups": [
+      24
+    ]
+  },
+  {
+    "id": "Commons_55105249",
+    "title": "Méditation, madame Monet au canapé",
+    "date": "circa 1871 date QS:P571,+1871-00-00T00:00:00Z/9,P1480,Q5727902  Prise de vue : 17 octobre 2013",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Madame_Monet_au_canap%C3%A9_Monet_1871.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_55105249.jpg",
+    "sha256": "977329edab007830a7b2984412d0ba7f77748733d040cd8c361fdffb52af6a5f",
+    "width": 1280,
+    "height": 815,
+    "bytes": 285761,
+    "source_metadata": {
+      "key": "Commons_55105249",
+      "title": "Méditation, madame Monet au canapé",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Madame_Monet_au_canap%C3%A9_Monet_1871.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Madame_Monet_au_canap%C3%A9_Monet_1871.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "circa 1871 date QS:P571,+1871-00-00T00:00:00Z/9,P1480,Q5727902  Prise de vue : 17 octobre 2013",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Madame_Monet_au_canap%C3%A9_Monet_1871.jpg/1280px-Madame_Monet_au_canap%C3%A9_Monet_1871.jpg",
+      "sha256": "977329edab007830a7b2984412d0ba7f77748733d040cd8c361fdffb52af6a5f",
+      "phash": "0x6f66934806a369da",
+      "dimensions": [
+        1280,
+        815
+      ]
+    },
+    "groups": [
+      22
+    ]
+  },
+  {
+    "id": "Commons_7175403",
+    "title": "Still life with flesh",
+    "date": "1864",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Stilleben_mit_Fleisch.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_7175403.jpg",
+    "sha256": "873a3e077b4572323b208e70352b5ce9c7c0bf10173c65c1e314dc150e3a3b49",
+    "width": 1280,
+    "height": 971,
+    "bytes": 272245,
+    "source_metadata": {
+      "key": "Commons_7175403",
+      "title": "Still life with flesh    label QS:Lit,\"Natura morta con carne\"  label QS:Lfr,\"Nature Morte, le quartier de viande\"  label QS:Lpt,\"Nature morte : le quartier de viande\"  label QS:Len,\"Still life with flesh\"  label QS:Lpt-br,\"Nature morte : le quartier de viande\"  label QS:Lde,\"Stilleben mit Fleisch\"  label QS:Lnl,\"Stilleven met vlees\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Stilleben_mit_Fleisch.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Monet_-_Stilleben_mit_Fleisch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1864",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Monet_-_Stilleben_mit_Fleisch.jpg/1280px-Monet_-_Stilleben_mit_Fleisch.jpg",
+      "sha256": "873a3e077b4572323b208e70352b5ce9c7c0bf10173c65c1e314dc150e3a3b49",
+      "phash": "0x28bd78e486577928",
+      "dimensions": [
+        1280,
+        971
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_65212295",
+    "title": "Monet - portrait-of-madame-gaudibert",
+    "date": "before 1926 date QS:P571,+1926-00-00T00:00:00Z/7,P1326,+1926-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_portrait-of-madame-gaudibert.jpg",
+    "rights": "Public domain",
+    "status": "review_duplicate",
+    "notes": "与155866同为戈迪贝尔夫人肖像",
+    "file": "assets/review/commons/Commons_65212295.jpg",
+    "sha256": "d2484c2167cc9d6e88e1e7d9e5949ca62bdec1f79bc3c7d0a496d5193ae4be22",
+    "width": 1280,
+    "height": 2048,
+    "bytes": 259946,
+    "source_metadata": {
+      "key": "Commons_65212295",
+      "title": "Monet - portrait-of-madame-gaudibert",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_portrait-of-madame-gaudibert.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monet_-_portrait-of-madame-gaudibert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "before 1926 date QS:P571,+1926-00-00T00:00:00Z/7,P1326,+1926-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Monet_-_portrait-of-madame-gaudibert.jpg/1280px-Monet_-_portrait-of-madame-gaudibert.jpg",
+      "sha256": "d2484c2167cc9d6e88e1e7d9e5949ca62bdec1f79bc3c7d0a496d5193ae4be22",
+      "phash": "0x1e48e2175d62aaab",
+      "dimensions": [
+        1280,
+        2048
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_4394487",
+    "title": "The Japanese Footbridge and the Water Lily Pool, Giverny",
+    "date": "1899 date QS:P571,+1899-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_4394487.jpg",
+    "sha256": "501879bde23625ccc8cdedb66ac27bd23ff3ec5c1b5cabf61a9ddc998106a249",
+    "width": 1280,
+    "height": 1223,
+    "bytes": 520539,
+    "source_metadata": {
+      "key": "Commons_4394487",
+      "title": "The Japanese Footbridge and the Water Lily Pool, Giverny    title QS:P1476,en:\"The Japanese Footbridge and the Water Lily Pool, Giverny\"  label QS:Len,\"The Japanese Footbridge and the Water Lily Pool, Giverny\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1899 date QS:P571,+1899-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg/1280px-Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg",
+      "sha256": "501879bde23625ccc8cdedb66ac27bd23ff3ec5c1b5cabf61a9ddc998106a249",
+      "phash": "0x5c83028a54ffe3e1",
+      "dimensions": [
+        1280,
+        1223
+      ]
+    },
+    "groups": [
+      23
+    ]
+  },
+  {
+    "id": "Commons_7186182",
+    "title": "French: Vue de plaine à Argenteuil ; coteaux de Sannois View to the plain of Argenteuil",
+    "date": "1872 date QS:P571,+1872-00-00T00:00:00Z/9",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Blick_auf_die_Ebene_von_Argenteuil.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_7186182.jpg",
+    "sha256": "47cc8f0d4e5269c366d6d24611a04e6a2caf63979029a93a2e858d13cf38075d",
+    "width": 1280,
+    "height": 969,
+    "bytes": 196979,
+    "source_metadata": {
+      "key": "Commons_7186182",
+      "title": "French:    Vue de plaine à Argenteuil ; coteaux de Sannois             View to the plain of Argenteuil    title QS:P1476,fr:\"Vue de plaine à Argenteuil ; coteaux de Sannois      \"  label QS:Lfr,\"Vue de plaine à Argenteuil ; coteaux de Sannois      \"  label QS:Len,\"View to the plain of Argenteuil\"  label QS:Lde,\"Blick auf die Ebene von Argenteuil\"",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Blick_auf_die_Ebene_von_Argenteuil.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Monet_-_Blick_auf_die_Ebene_von_Argenteuil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "1872 date QS:P571,+1872-00-00T00:00:00Z/9",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Monet_-_Blick_auf_die_Ebene_von_Argenteuil.jpg/1280px-Monet_-_Blick_auf_die_Ebene_von_Argenteuil.jpg",
+      "sha256": "47cc8f0d4e5269c366d6d24611a04e6a2caf63979029a93a2e858d13cf38075d",
+      "phash": "0x386487f8c926c2dd",
+      "dimensions": [
+        1280,
+        969
+      ]
+    },
+    "groups": [
+      24
+    ]
+  },
+  {
+    "id": "Commons_85994660",
+    "title": "Monet - Le pont de Waterloo, à Londres, RF31206-recto",
+    "date": "19 th  century date QS:P,+1850-00-00T00:00:00Z/7",
+    "museum": "Wikimedia Commons; collection attribution requires per-work verification",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Le_pont_de_Waterloo,_%C3%A0_Londres,_RF31206-recto.jpg",
+    "rights": "Public domain",
+    "status": "approved",
+    "notes": "",
+    "file": "assets/artworks/commons/Commons_85994660.jpg",
+    "sha256": "5d30a3d40219686358997542a5af41a4e2e1d57bebccd0e321536f71ac36cc1f",
+    "width": 1280,
+    "height": 833,
+    "bytes": 240776,
+    "source_metadata": {
+      "key": "Commons_85994660",
+      "title": "Monet - Le pont de Waterloo, à Londres, RF31206-recto",
+      "artist": "Claude Monet",
+      "rights": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Le_pont_de_Waterloo,_%C3%A0_Londres,_RF31206-recto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Monet_-_Le_pont_de_Waterloo%2C_%C3%A0_Londres%2C_RF31206-recto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "accession": "",
+      "date": "19 th  century date QS:P,+1850-00-00T00:00:00Z/7",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Monet_-_Le_pont_de_Waterloo%2C_%C3%A0_Londres%2C_RF31206-recto.jpg/1280px-Monet_-_Le_pont_de_Waterloo%2C_%C3%A0_Londres%2C_RF31206-recto.jpg",
+      "sha256": "5d30a3d40219686358997542a5af41a4e2e1d57bebccd0e321536f71ac36cc1f",
+      "phash": "0x70bf0b01785287f5",
+      "dimensions": [
+        1280,
+        833
+      ]
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_2043220",
+    "title": "1289 Grainstack at Sunset, Meule, soleil couchant, 1891, Oil on Canvas, Museum of fine Arts, Boston, MA.JPG",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1289_Grainstack_at_Sunset,_Meule,_soleil_couchant,_1891,_Oil_on_Canvas,_Museum_of_fine_Arts,_Boston,_MA.JPG",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_2043220.jpg",
+    "sha256": "a441c40339eadd5f26f6e576bc3ff0382db995f1194b5bb6ca2036e32427b141",
+    "width": 1280,
+    "height": 1024,
+    "bytes": 188215,
+    "source_metadata": {
+      "matched_id_or_title": "Grainstack (Sunset)          title QS:P1476,en:\"Grainstack (Sunset)      \"  label QS:Len,\"Grainstack (Sunset)      \"  label QS:Lsv,\"Sädesskyl (solnedgång)\"  label QS:Lfr,\"meule de paille au coucher du soleil\"  label QS:Lde,\"Heuhaufen (Sonnenuntergang)\"",
+      "perceptual_distance": 2
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_4376074",
+    "title": "280 Grainstack in Morning Snow Effect.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:280_Grainstack_in_Morning_Snow_Effect.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_4376074.jpg",
+    "sha256": "f03ead87740c9fc712953da3b23b6a3c6060a385b6433fb65d7e7b5e735c379f",
+    "width": 1280,
+    "height": 900,
+    "bytes": 93521,
+    "source_metadata": {
+      "matched_id_or_title": "莫奈的光｜麦垛与时间",
+      "perceptual_distance": 8
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_4376095",
+    "title": "Claude Monet, Haystack, Morning Snow Effect (Meule, Effet de Neige, le Matin), 1891, oil on canvas, 65 x 92 cm, Museum of Fine Arts, Boston.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Haystack,_Morning_Snow_Effect_(Meule,_Effet_de_Neige,_le_Matin),_1891,_oil_on_canvas,_65_x_92_cm,_Museum_of_Fine_Arts,_Boston.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_4376095.jpg",
+    "sha256": "1d2773dce0a28b1459c223c534c770fc2d46c1c8e8fe6d985c7cc0e724576bed",
+    "width": 1280,
+    "height": 903,
+    "bytes": 316896,
+    "source_metadata": {
+      "matched_id_or_title": "莫奈的光｜麦垛与时间",
+      "perceptual_distance": 6
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_8941302",
+    "title": "Monet men unloading coal.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_men_unloading_coal.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_8941302.jpg",
+    "sha256": "deafde56591d617903d31c06c014881d79e81182ec7f6022afc47ebdeb9c1488",
+    "width": 1280,
+    "height": 1104,
+    "bytes": 631646,
+    "source_metadata": {
+      "matched_id_or_title": "The Coalmen    label QS:Len,\"The Coalmen\"  label QS:Lde,\"Die Kohlenträger\"  label QS:Lfr,\"Les Déchargeurs de charbon\"",
+      "perceptual_distance": 8
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_20442720",
+    "title": "Claude Monet - Rue de la Bavolle, Honfleur.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rue_de_la_Bavolle,_Honfleur.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_20442720.jpg",
+    "sha256": "653208d6101ec92f362970fe59804c0abbbc25a0e6ed24b33f53361734d0b571",
+    "width": 1280,
+    "height": 1172,
+    "bytes": 355386,
+    "source_metadata": {
+      "matched_id_or_title": "Rue de la Bavole, Honfleur    title QS:P1476,en:\"Rue de la Bavole, Honfleur\"  label QS:Len,\"Rue de la Bavole, Honfleur\"",
+      "perceptual_distance": 2
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_21024487",
+    "title": "Claude Monet-Portrait de l'artiste-1917.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet-Portrait_de_l%27artiste-1917.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_21024487.jpg",
+    "sha256": "896f9485f3d348bf30fcc774142e266f5c9f696d1b11215b1f6990b87d1ba9d3",
+    "width": 1280,
+    "height": 1602,
+    "bytes": 504923,
+    "source_metadata": {
+      "matched_id_or_title": "Self-portrait",
+      "perceptual_distance": 6
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_29921394",
+    "title": "Monet grainstack-in-the-morning-snow-effect-1891 W1280.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_grainstack-in-the-morning-snow-effect-1891_W1280.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_29921394.jpg",
+    "sha256": "cc1b9c61ef18c65f048e45426ad59861b9b210dd1a982bf951d2a9f9fe52c1c9",
+    "width": 1280,
+    "height": 891,
+    "bytes": 516211,
+    "source_metadata": {
+      "matched_id_or_title": "莫奈的光｜麦垛与时间",
+      "perceptual_distance": 8
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_65211787",
+    "title": "Monet - grainstack-at-sunset.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_grainstack-at-sunset.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_65211787.jpg",
+    "sha256": "2df6a34b394b63cc0f7555d4d569aacdabf1a64c4cfa3703f95cf69f4bd12867",
+    "width": 1280,
+    "height": 1006,
+    "bytes": 151274,
+    "source_metadata": {
+      "matched_id_or_title": "Grainstack (Sunset)          title QS:P1476,en:\"Grainstack (Sunset)      \"  label QS:Len,\"Grainstack (Sunset)      \"  label QS:Lsv,\"Sädesskyl (solnedgång)\"  label QS:Lfr,\"meule de paille au coucher du soleil\"  label QS:Lde,\"Heuhaufen (Sonnenuntergang)\"",
+      "perceptual_distance": 0
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_65211793",
+    "title": "Monet - grainstack-in-the-morning-snow-effect-1891.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_grainstack-in-the-morning-snow-effect-1891.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_65211793.jpg",
+    "sha256": "2fdd10743c6e190a93302eec583186666c685522a27fc2dfb279a18b31585b7f",
+    "width": 1280,
+    "height": 891,
+    "bytes": 129751,
+    "source_metadata": {
+      "matched_id_or_title": "莫奈的光｜麦垛与时间",
+      "perceptual_distance": 8
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_65213283",
+    "title": "Monet - the-turkeys.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_the-turkeys.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_65213283.jpg",
+    "sha256": "18674db9b069b3ab7a4805f92d7f96f7c2823c2e1df33d35485ae8bc54353d40",
+    "width": 1280,
+    "height": 1303,
+    "bytes": 240407,
+    "source_metadata": {
+      "matched_id_or_title": "The Turkeys    label QS:Lja,\"七面鳥 (モネ)\"  label QS:Lfr,\"Les Dindons\"  label QS:Len,\"The Turkeys\"  label QS:Lit,\"I tacchini\"  label QS:Les,\"Los pavos\"  label QS:Lnl,\"The Turkeys\"",
+      "perceptual_distance": 6
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_65213770",
+    "title": "Monet - weeping-willow-giverny-1922.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_weeping-willow-giverny-1922.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_65213770.jpg",
+    "sha256": "ccd2db56a597a734dbdf014afdc2a1d6e6ed3ea0f3c8f1e40b7045a09acd0477",
+    "width": 1280,
+    "height": 1390,
+    "bytes": 269210,
+    "source_metadata": {
+      "matched_id_or_title": "Monet w1942",
+      "perceptual_distance": 8
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_68161756",
+    "title": "Rouen Cathedral Façade and Tour d'Albane (Morning Effect) SC197957.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rouen_Cathedral_Fa%C3%A7ade_and_Tour_d%27Albane_(Morning_Effect)_SC197957.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_68161756.jpg",
+    "sha256": "ad8310dce6e5e232ac96139e37e924d2f48aa1ea81ff406f1f1cce93330e4734",
+    "width": 1280,
+    "height": 1840,
+    "bytes": 924635,
+    "source_metadata": {
+      "matched_id_or_title": "Rouen Cathedral Façade and Tour d'Albane (Morning Effect)    title QS:P1476,en:\"Rouen Cathedral Façade and Tour d'Albane (Morning Effect)\"  label QS:Len,\"Rouen Cathedral Façade and Tour d'Albane (Morning Effect)\"",
+      "perceptual_distance": 6
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_79497392",
+    "title": "Monet - Wildenstein 1996, 1942.png",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Wildenstein_1996,_1942.png",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_79497392.png",
+    "sha256": "1d323590680a07e2886f9863beff8e59656b002441806e794842c2099ad0cd03",
+    "width": 1280,
+    "height": 1398,
+    "bytes": 1589679,
+    "source_metadata": {
+      "matched_id_or_title": "Monet w1942",
+      "perceptual_distance": 8
+    },
+    "groups": []
+  },
+  {
+    "id": "Commons_134704961",
+    "title": "Monet w1296.jpg",
+    "date": "",
+    "museum": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Monet_w1296.jpg",
+    "rights": "Public domain",
+    "status": "review_near_duplicate",
+    "notes": "视觉相似度筛查暂排除；不等于已证实是同一作品",
+    "file": "assets/review/commons/Commons_134704961.jpg",
+    "sha256": "28ac62624bdf60ce796c6fdd6d962f46fb76981c6f00da4ef48cb21930e29ad7",
+    "width": 1280,
+    "height": 2013,
+    "bytes": 672072,
+    "source_metadata": {
+      "matched_id_or_title": "Monet - Wildenstein 1996, 1296",
+      "perceptual_distance": 4
+    },
+    "groups": []
+  }
+]

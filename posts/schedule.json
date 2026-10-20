@@ -1,0 +1,479 @@
+{
+  "timezone": "Asia/Shanghai",
+  "posts": [
+    {
+      "group": 1,
+      "title": "莫奈的光｜睡莲与花园",
+      "content": "莫奈亲手改造吉维尼花园，又用几十年描绘它。睡莲、池水与花朵只是表面，真正被留下的是不断变化的光。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "睡莲",
+        "吉维尼花园",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_16568.jpg",
+        "assets/artworks/aic/AIC_87088.jpg",
+        "assets/artworks/aic/AIC_97933.jpg",
+        "assets/artworks/aic/AIC_4887.jpg",
+        "assets/artworks/aic/AIC_4783.jpg"
+      ],
+      "schedule_at": "2026-09-21T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 2,
+      "title": "莫奈的光｜麦垛与时间",
+      "content": "景物没有变，清晨、黄昏、落日和雪天却让它拥有不同面貌。莫奈反复画麦垛，其实是在画时间。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "麦垛系列",
+        "光影",
+        "印象派",
+        "艺术审美"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_64818.jpg",
+        "assets/artworks/aic/AIC_14624.jpg",
+        "assets/artworks/aic/AIC_81545.jpg",
+        "assets/artworks/aic/AIC_100191.jpg",
+        "assets/artworks/aic/AIC_16560.jpg"
+      ],
+      "schedule_at": "2026-09-23T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 3,
+      "title": "莫奈的光｜雾中的城市",
+      "content": "在莫奈笔下，桥梁和建筑没有坚硬轮廓。雾、河水与夕阳交叠，城市像一段正在消散的记忆。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "伦敦",
+        "雾都",
+        "塞纳河",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_16584.jpg",
+        "assets/artworks/aic/AIC_16544.jpg",
+        "assets/artworks/aic/AIC_103139.jpg",
+        "assets/artworks/aic/AIC_20701.jpg",
+        "assets/artworks/aic/AIC_16564.jpg"
+      ],
+      "schedule_at": "2026-09-25T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 4,
+      "title": "莫奈的光｜海岸与风",
+      "content": "岩石、悬崖、船只和浪花，被快速笔触连成流动的海岸。你看不见风，却能从画面里感到它经过。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "海景",
+        "埃特勒塔",
+        "风景画",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_20545.jpg",
+        "assets/artworks/aic/AIC_20535.jpg",
+        "assets/artworks/aic/AIC_59927.jpg",
+        "assets/artworks/aic/AIC_81540.jpg",
+        "assets/artworks/aic/AIC_16542.jpg"
+      ],
+      "schedule_at": "2026-09-27T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 5,
+      "title": "莫奈的光｜塞纳河与家园",
+      "content": "河流、房屋和小镇，是莫奈生活过的地方，也是他反复观察的日常。普通风景因为光线而变得温柔。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "塞纳河",
+        "法国小镇",
+        "生活美学",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_81539.jpg",
+        "assets/artworks/aic/AIC_16554.jpg",
+        "assets/artworks/aic/AIC_14634.jpg",
+        "assets/artworks/aic/AIC_16579.jpg",
+        "assets/artworks/aic/AIC_81546.jpg"
+      ],
+      "schedule_at": "2026-09-29T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 6,
+      "title": "莫奈的光｜旅途中的光",
+      "content": "从法国海岸、地中海花园，到挪威雪景和威尼斯水城，莫奈不断旅行，也不断寻找新的光。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "旅行与艺术",
+        "威尼斯",
+        "印象派",
+        "世界名画"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_14620.jpg",
+        "assets/artworks/aic/AIC_14598.jpg",
+        "assets/artworks/aic/AIC_81537.jpg",
+        "assets/artworks/aic/AIC_86998.jpg",
+        "assets/artworks/aic/AIC_14630.jpg"
+      ],
+      "schedule_at": "2026-10-01T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 7,
+      "title": "莫奈的早期笔触",
+      "content": "在睡莲与麦垛之前，莫奈也画海岸、乡间和身边的人。早期作品里的线条更直接，却已经能看见他对光与瞬间的敏感。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "早期作品",
+        "印象派",
+        "艺术史",
+        "公共领域"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_108583.jpg",
+        "assets/artworks/aic/AIC_186316.jpg",
+        "assets/artworks/aic/AIC_186315.jpg",
+        "assets/artworks/aic/AIC_15826.jpg",
+        "assets/artworks/aic/AIC_15818.jpg"
+      ],
+      "schedule_at": "2026-10-03T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 8,
+      "title": "从讽刺画到素描",
+      "content": "莫奈年轻时留下的讽刺画和人物素描，轻快、敏锐，还有一点顽皮。它们提醒我们：大师的风格不是突然出现，而是在不断观察中慢慢长成。\n\n图片来源：The Art Institute of Chicago，公共领域开放馆藏。",
+      "tags": [
+        "莫奈",
+        "素描",
+        "讽刺画",
+        "艺术家手稿",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/aic/AIC_113092.jpg",
+        "assets/artworks/aic/AIC_15809.jpg",
+        "assets/artworks/aic/AIC_15803.jpg",
+        "assets/artworks/aic/AIC_15800.jpg",
+        "assets/artworks/aic/AIC_15814.jpg"
+      ],
+      "schedule_at": "2026-10-05T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 9,
+      "title": "莫奈的雾与花",
+      "content": "晨雾、河岸、花朵与威尼斯的水色，在莫奈笔下都变得轻盈。画面没有急着说明风景，只留下光线经过的痕迹。\n\n图片来源：National Gallery of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "雾景",
+        "花卉",
+        "印象派",
+        "艺术收藏"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_45872.jpg",
+        "assets/artworks/nga/NGA_46652.jpg",
+        "assets/artworks/nga/NGA_46653.jpg",
+        "assets/artworks/nga/NGA_46656.jpg",
+        "assets/artworks/nga/NGA_46657.jpg"
+      ],
+      "schedule_at": "2026-10-07T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 10,
+      "title": "塞纳河边的莫奈",
+      "content": "阿让特伊、鲁昂与滑铁卢桥，都是莫奈反复凝视过的地方。同一条河流在不同天气里变换颜色，也变换情绪。\n\n图片来源：National Gallery of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "塞纳河",
+        "阿让特伊",
+        "鲁昂",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_46658.jpg",
+        "assets/artworks/nga/NGA_52185.jpg",
+        "assets/artworks/nga/NGA_52186.jpg",
+        "assets/artworks/nga/NGA_52187.jpg",
+        "assets/artworks/nga/NGA_52188.jpg"
+      ],
+      "schedule_at": "2026-10-09T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 11,
+      "title": "莫奈的伦敦与鲁昂",
+      "content": "桥梁、教堂和远处的天际线，在雾气里变得柔软。莫奈反复描绘城市，不是为了记录建筑，而是为了捕捉空气中的颜色。\n\n图片来源：National Gallery of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "伦敦",
+        "鲁昂",
+        "城市风景",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_46523.jpg",
+        "assets/artworks/nga/NGA_46524.jpg",
+        "assets/artworks/nga/NGA_46654.jpg",
+        "assets/artworks/nga/NGA_46655.jpg",
+        "assets/artworks/nga/NGA_52189.jpg"
+      ],
+      "schedule_at": "2026-10-11T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 12,
+      "title": "河岸边的日常光线",
+      "content": "家庭、静物和河岸，是莫奈画面里安静的一面。没有宏大叙事，只有光落在衣裙、树影和水面上的短暂时刻。\n\n图片来源：National Gallery of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "生活美学",
+        "河岸",
+        "家庭肖像",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_52204.jpg",
+        "assets/artworks/nga/NGA_53123.jpg",
+        "assets/artworks/nga/NGA_61374.jpg",
+        "assets/artworks/nga/NGA_61375.jpg",
+        "assets/artworks/nga/NGA_61376.jpg"
+      ],
+      "schedule_at": "2026-10-13T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 13,
+      "title": "桥梁、雾气与倒影",
+      "content": "莫奈笔下的桥梁从来不是静止的建筑。它们被雾气、夕阳和水面重新改写，每一次观看都像一场新的显影。\n\n图片来源：National Gallery of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "桥梁",
+        "倒影",
+        "水面",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_61377.jpg",
+        "assets/artworks/nga/NGA_61378.jpg",
+        "assets/artworks/nga/NGA_61379.jpg",
+        "assets/artworks/nga/NGA_66425.jpg",
+        "assets/artworks/nga/NGA_71550.jpg"
+      ],
+      "schedule_at": "2026-10-15T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 14,
+      "title": "花园与水上的风景",
+      "content": "从阿让特伊的花园到日本桥，莫奈把植物、天空和水面织成一张持续变化的色彩网。风景因此拥有了呼吸。\n\n图片来源：National Gallery of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "花园",
+        "日本桥",
+        "水景",
+        "艺术收藏"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_72138.jpg",
+        "assets/artworks/nga/NGA_74796.jpg",
+        "assets/artworks/nga/NGA_93067.jpg",
+        "assets/artworks/nga/NGA_142268.jpg",
+        "assets/artworks/nga/NGA_164942.jpg"
+      ],
+      "schedule_at": "2026-10-17T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 15,
+      "title": "从静物到睡莲",
+      "content": "花、静物、人物和水面，贯穿莫奈漫长的创作生涯。题材在变化，但他始终在追问同一件事：光如何改变我们看见的世界。\n\n图片来源：National Gallery of Art、Cleveland Museum of Art，开放图像。",
+      "tags": [
+        "莫奈",
+        "静物",
+        "睡莲",
+        "博物馆收藏",
+        "印象派"
+      ],
+      "images": [
+        "assets/artworks/nga/NGA_178254.jpg",
+        "assets/artworks/cma/CMA_125234.jpg",
+        "assets/artworks/cma/CMA_130391.jpg",
+        "assets/artworks/cma/CMA_135382.jpg",
+        "assets/artworks/cma/CMA_136510.jpg"
+      ],
+      "schedule_at": "2026-10-19T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 16,
+      "title": "莫奈的花园｜水面与花径",
+      "content": "睡莲铺开水面的颜色，拱桥与花径把视线引向远处。几处不同的花园，留下了莫奈对植物、水与光的长久凝视。\n\n图片来源：Saint Louis Art Museum、Boston、Orsay、Cleveland Museum of Art；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/slam/SLAM_1930.jpg",
+        "assets/artworks/commons/Commons_26801642.jpg",
+        "assets/artworks/commons/Commons_30061.jpg",
+        "assets/artworks/commons/Commons_22009559.jpg",
+        "assets/artworks/cma/CMA_95272.jpg"
+      ],
+      "schedule_at": "2026-10-21T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 17,
+      "title": "莫奈的田野｜麦垛与花海",
+      "content": "麦垛、罂粟花田与草地，在不同光线下各有颜色。并排看这些作品，能感受到莫奈如何把普通田野画成流动的季节。\n\n图片来源：Art Institute of Chicago、Boston；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/aic/AIC_111318.jpg",
+        "assets/artworks/commons/Commons_2327127.jpg",
+        "assets/artworks/commons/Commons_22141643.jpg",
+        "assets/artworks/commons/Commons_84635551.jpg",
+        "assets/artworks/commons/Commons_79433228.jpg"
+      ],
+      "schedule_at": "2026-10-23T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 18,
+      "title": "莫奈的旅途｜小镇与海岸",
+      "content": "从翁弗勒尔的小街、普尔维尔的道路，到贝勒岛的岩石和威尼斯的运河。旅行改变了眼前的风景，也带来不同的色彩。\n\n图片来源：Boston、Saint Louis Art Museum；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/commons/Commons_22140698.jpg",
+        "assets/artworks/commons/Commons_22140927.jpg",
+        "assets/artworks/slam/SLAM_7822.jpg",
+        "assets/artworks/commons/Commons_22009532.jpg",
+        "assets/artworks/commons/Commons_5765804.jpg"
+      ],
+      "schedule_at": "2026-10-25T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 19,
+      "title": "莫奈的城市｜雾中的建筑",
+      "content": "列车、桥梁和教堂，让我们看见莫奈笔下的城市。相近的建筑轮廓，在晨光、暮色与河雾中呈现出不同的色彩。\n\n图片来源：Art Institute of Chicago、Saint Louis Art Museum、Boston；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/aic/AIC_16571.jpg",
+        "assets/artworks/slam/SLAM_2727.jpg",
+        "assets/artworks/slam/SLAM_7056.jpg",
+        "assets/artworks/commons/Commons_22009552.jpg",
+        "assets/artworks/commons/Commons_49286782.jpg"
+      ],
+      "schedule_at": "2026-10-27T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 20,
+      "title": "莫奈的乡野｜树影与四季",
+      "content": "杨树、田野和乡间道路，随着季节更换色彩。莫奈让树影与天空占据画面，把天气的变化留在笔触之间。\n\n图片来源：Boston、Orsay；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/commons/Commons_12115716.jpg",
+        "assets/artworks/commons/Commons_79297441.jpg",
+        "assets/artworks/commons/Commons_79292489.jpg",
+        "assets/artworks/commons/Commons_15418936.jpg",
+        "assets/artworks/commons/Commons_1169962.jpg"
+      ],
+      "schedule_at": "2026-10-29T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 21,
+      "title": "莫奈的海风｜帆影与潮汐",
+      "content": "从诺曼底的海滩到地中海的海角，莫奈用不同的蓝描绘水与天空。岸边的人、停泊的船和远处的帆，给风景添上了日常的节奏。\n\n图片来源：Wikimedia Commons、Wikimedia Commons；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/commons/Commons_53419200.jpg",
+        "assets/artworks/commons/Commons_79327189.jpg",
+        "assets/artworks/commons/Commons_155848.jpg",
+        "assets/artworks/commons/Commons_155878.jpg",
+        "assets/artworks/commons/Commons_44779061.jpg"
+      ],
+      "schedule_at": "2026-10-31T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 22,
+      "title": "莫奈画中人｜衣裙与目光",
+      "content": "盛装的肖像、安静的室内、河上的小船，以及莫奈自己的面孔。比起单独辨认人物，不妨看看衣裙、背景与目光如何组成画面。\n\n图片来源：Wikimedia Commons、Wikimedia Commons；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/commons/Commons_506301.jpg",
+        "assets/artworks/commons/Commons_155866.jpg",
+        "assets/artworks/commons/Commons_155880.jpg",
+        "assets/artworks/commons/Commons_7169557.jpg",
+        "assets/artworks/commons/Commons_55105249.jpg"
+      ],
+      "schedule_at": "2026-11-02T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "工具返回排期成功；不等同于已到期发布的实时核验"
+    },
+    {
+      "group": 23,
+      "title": "莫奈的水边｜桥影与生活",
+      "content": "从晨雾里的塞纳河，到花园里的拱桥，再到城市河道旁的劳动者。水面既能倒映颜色，也把生活的不同侧面连接起来。\n\n图片来源：Wikimedia Commons、Wikimedia Commons；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/commons/Commons_141151696.jpg",
+        "assets/artworks/commons/Commons_6937753.jpg",
+        "assets/artworks/commons/Commons_4394487.jpg",
+        "assets/artworks/commons/Commons_21857387.jpg",
+        "assets/artworks/commons/Commons_155845.jpg"
+      ],
+      "schedule_at": "2026-11-04T20:00:00+08:00",
+      "status": "prepared_outside_window",
+      "verification": "已备稿，尚未提交"
+    },
+    {
+      "group": 24,
+      "title": "莫奈的观察｜日常里的光",
+      "content": "桌上的苹果与葡萄、草地上的火鸡、雪中的村镇、远处的平原和河上的桥。五种普通景物，展现莫奈观察日常的不同方式。\n\n图片来源：Art Institute of Chicago、Wikimedia Commons、Wikimedia Commons；公共领域开放图像。",
+      "tags": [],
+      "images": [
+        "assets/artworks/aic/AIC_16549.jpg",
+        "assets/artworks/commons/Commons_7186206.jpg",
+        "assets/artworks/commons/Commons_12374439.jpg",
+        "assets/artworks/commons/Commons_7186182.jpg",
+        "assets/artworks/commons/Commons_90512468.jpg"
+      ],
+      "schedule_at": "2026-11-06T20:00:00+08:00",
+      "status": "prepared_outside_window",
+      "verification": "已备稿，尚未提交"
+    }
+  ]
+}

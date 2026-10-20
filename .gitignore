@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+cookies.json
+*cookie*.json
+*二维码*
+*.log
+*.part
+*.pem
+*.key
