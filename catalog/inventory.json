@@ -1,15 +1,19 @@
 {
   "export_date": "2026-10-20",
-  "asset_records": 149,
-  "unique_artwork_image_files": 149,
+  "asset_records": 1456,
+  "unique_artwork_image_files": 1456,
   "previews": 4,
-  "total_unique_image_files": 153,
-  "bytes": 192699191,
+  "total_unique_image_files": 1460,
+  "bytes": 799319642,
   "status_counts": {
     "approved": 125,
-    "review_metadata": 5,
+    "review_metadata": 24,
     "review_duplicate": 5,
-    "review_near_duplicate": 14
+    "review_near_duplicate": 132,
+    "candidate_ready": 846,
+    "review_version": 91,
+    "review_low_resolution": 79,
+    "review_license": 154
   },
   "scheduled_groups": 22,
   "prepared_groups": 2,
@@ -18,5 +22,13 @@
     "新增资源_20261020/MIA_10436.jpg",
     "新增资源_20261020/MIA_3267.jpg",
     "新增资源_20261020/MIA_1413.jpg"
-  ]
+  ],
+  "source_counts": {
+    "AIC": 46,
+    "NGA": 31,
+    "CMA": 5,
+    "SLAM": 4,
+    "Commons": 1370
+  },
+  "wikidata_work_ids": 1287
 }

@@ -1,0 +1,25 @@
+{
+  "run": "20261020-global",
+  "candidate_works": 1287,
+  "candidate_image_links": 1344,
+  "metadata_resolved": 1344,
+  "rights_eligible": 1190,
+  "rights_not_cleared": 0,
+  "downloaded_new_files": 1307,
+  "state_counts": {
+    "already_in_library": 37,
+    "downloaded": 1307
+  },
+  "new_status_counts": {
+    "candidate_ready": 846,
+    "review_version": 91,
+    "review_near_duplicate": 118,
+    "review_low_resolution": 79,
+    "review_metadata": 19,
+    "review_license": 154
+  },
+  "catalog_records": 1456,
+  "unresolved_metadata": [],
+  "failed_downloads": [],
+  "rights_eligible_conditional": 154
+}

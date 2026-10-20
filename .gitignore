@@ -10,3 +10,4 @@ cookies.json
 *.part
 *.pem
 *.key
+.cache/
