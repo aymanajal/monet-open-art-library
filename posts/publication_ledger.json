@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-01T21:37:47.706441+08:00",
+  "as_of": "2026-11-01T21:41:49.647748+08:00",
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-01",
-    "checked_at": "2026-11-01T21:37:46.851380+08:00",
+    "checked_at": "2026-11-01T21:41:49.587624+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "evidence": "check_login_status returned 已登录; get_my_profile returned 36 notes with no matching six new titles; scheduled/private list not covered",
@@ -20,8 +20,8 @@
     "recorded_submitted_groups": 22,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 6,
-    "submission_unknown_groups": 0,
+    "submission_in_progress_groups": 5,
+    "submission_unknown_groups": 1,
     "historical_due_unverified_groups": 21,
     "future_submitted_groups": 1,
     "asset_files_with_submission_record": 110,
@@ -544,8 +544,8 @@
       "group": 23,
       "title": "莫奈的水边｜桥影与生活",
       "schedule_at": "2026-11-04T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "submission_unknown",
+      "upload_state": "提交结果待核对_禁止重传",
       "publication_verified": false,
       "asset_ids": [
         "Commons_141151696",
@@ -561,7 +561,7 @@
         "assets/artworks/commons/Commons_21857387.jpg",
         "assets/artworks/commons/Commons_155845.jpg"
       ],
-      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传"
+      "verification": "提交结果不明；禁止重传，先核对平台"
     },
     {
       "group": 24,
@@ -7235,7 +7235,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Morning_on_the_Seine_by_Claude_Monet.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "提交结果待核对_禁止重传",
       "recorded_groups": [
         23
       ],
@@ -7250,7 +7250,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "提交结果待核对_禁止重传",
       "recorded_groups": [
         23
       ],
@@ -7306,7 +7306,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "提交结果待核对_禁止重传",
       "recorded_groups": [
         23
       ],
@@ -7321,7 +7321,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_017.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "提交结果待核对_禁止重传",
       "recorded_groups": [
         23
       ],
@@ -7575,7 +7575,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "提交结果待核对_禁止重传",
       "recorded_groups": [
         23
       ],
