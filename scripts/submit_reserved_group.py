@@ -31,7 +31,7 @@ r=opener.open(urllib.request.Request(endpoint,data=json.dumps(init).encode(),hea
 headers['Mcp-Session-Id']=r.headers['Mcp-Session-Id'];r.read()
 def call(name,arguments):
  req=dict(jsonrpc='2.0',id=2,method='tools/call',params=dict(name=name,arguments=arguments))
- with opener.open(urllib.request.Request(endpoint,data=json.dumps(req).encode(),headers=headers),timeout=180) as response:return response.read()
+ with opener.open(urllib.request.Request(endpoint,data=json.dumps(req).encode(),headers=headers),timeout=420) as response:return response.read()
 login=json.loads(call('check_login_status',{}))
 login_text=' '.join(c.get('text','') for c in login.get('result',{}).get('content',[]))
 assert '未登录' not in login_text and '已登录' in login_text,'Login must be verified before publishing'

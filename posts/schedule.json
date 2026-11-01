@@ -456,19 +456,26 @@
         "assets/artworks/commons/Commons_155845.jpg"
       ],
       "schedule_at": "2026-11-04T20:00:00+08:00",
-      "status": "submission_unknown",
-      "verification": "提交结果不明；禁止重传，先核对平台",
+      "status": "submission_in_progress",
+      "verification": "已核对前次为提交前失败；保留历史，重新占用一次提交",
       "submission_attempt": {
-        "attempt_id": "window-20261101-group-23",
-        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
-        "planned_schedule_at": "2026-11-04T20:00:00+08:00",
-        "called_at": "2026-11-01T21:38:49.578242+08:00",
-        "reservation_commit": "3c853ddcf121245b063b7879a5fe1aeeb141f5d5",
-        "finished_at": "2026-11-01T21:41:49.582172+08:00",
-        "outcome": "submission_unknown",
-        "response_sha256": null,
-        "evidence": "Transport failed or result ambiguous; inspect platform before any retry"
-      }
+        "attempt_id": "window-20261101-group-23-retry-confirmed-pre-submit-failure",
+        "reserved_at": "2026-11-01T21:45:44.089435+08:00",
+        "planned_schedule_at": "2026-11-04T20:00:00+08:00"
+      },
+      "submission_history": [
+        {
+          "attempt_id": "window-20261101-group-23",
+          "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+          "planned_schedule_at": "2026-11-04T20:00:00+08:00",
+          "called_at": "2026-11-01T21:38:49.578242+08:00",
+          "reservation_commit": "3c853ddcf121245b063b7879a5fe1aeeb141f5d5",
+          "finished_at": "2026-11-01T21:41:49.582172+08:00",
+          "outcome": "failed_before_submission",
+          "response_sha256": null,
+          "evidence": "Backend ended 2026-11-01T21:43:58+08:00 with refocus-title context deadline exceeded; live DOM showed unsent editor with first-use image help overlay; no scheduled-submit stage reached"
+        }
+      ]
     },
     {
       "group": 24,
