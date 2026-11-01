@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-01T21:50:37.618821+08:00",
+  "as_of": "2026-11-01T21:51:38.629714+08:00",
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-01",
-    "checked_at": "2026-11-01T21:50:37.574350+08:00",
+    "checked_at": "2026-11-01T21:51:38.588004+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "evidence": "check_login_status returned 已登录; get_my_profile returned 36 notes with no matching six new titles; scheduled/private list not covered",
-    "new_uploads_this_run": 4,
+    "new_uploads_this_run": 5,
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
@@ -17,15 +17,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 26,
+    "recorded_submitted_groups": 27,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 2,
+    "submission_in_progress_groups": 1,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 21,
-    "future_submitted_groups": 5,
-    "asset_files_with_submission_record": 130,
-    "asset_files_without_submission_record": 1326,
+    "future_submitted_groups": 6,
+    "asset_files_with_submission_record": 135,
+    "asset_files_without_submission_record": 1321,
     "provisional_full_groups": 164,
     "provisional_group_images": 820,
     "pool_leftovers": 11,
@@ -636,8 +636,8 @@
       "group": 27,
       "title": "莫奈的海岸｜悬崖与潮声",
       "schedule_at": "2026-11-12T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_34059825",
@@ -653,7 +653,7 @@
         "assets/artworks/commons/Commons_81086731.jpg",
         "assets/artworks/commons/Commons_21925466.jpg"
       ],
-      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传"
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布"
     },
     {
       "group": 28,
@@ -7852,7 +7852,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:%27Cliffs_near_Dieppe%27_by_Claude_Monet,_1897,_Hermitage.JPG",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         27
       ],
@@ -7984,7 +7984,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_%C3%89tretat%27_by_Claude_Monet,_1885-86,_Pushkin_Museum.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         27
       ],
@@ -9223,7 +9223,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bord_de_mer_et_falaises_de_Pourville_le_matin_(1882).jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         27
       ],
@@ -9699,7 +9699,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Falaise_de_Sainte-Adresse,_temps_gris_-_Ordrupgaard.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         27
       ],
@@ -9727,7 +9727,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Fishing_nets_at_Pourville_-_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         27
       ],

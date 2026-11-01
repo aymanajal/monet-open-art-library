@@ -589,12 +589,18 @@
         "assets/artworks/commons/Commons_21925466.jpg"
       ],
       "schedule_at": "2026-11-12T20:00:00+08:00",
-      "status": "submission_in_progress",
-      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "status": "scheduled_success",
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布",
       "submission_attempt": {
         "attempt_id": "window-20261101-group-27",
         "reserved_at": "2026-11-01T21:37:46.851380+08:00",
-        "planned_schedule_at": "2026-11-12T20:00:00+08:00"
+        "planned_schedule_at": "2026-11-12T20:00:00+08:00",
+        "called_at": "2026-11-01T21:50:47.381103+08:00",
+        "reservation_commit": "753a8501146ca70f4bc0a826140730622f17c2dd",
+        "finished_at": "2026-11-01T21:51:38.587192+08:00",
+        "outcome": "scheduled_success",
+        "response_sha256": "25842c3a8c0bb559459283a05a51cbf96a85cde36907fca8aab6103ec402239a",
+        "evidence": "publish_content returned explicit success for scheduled request"
       }
     },
     {
