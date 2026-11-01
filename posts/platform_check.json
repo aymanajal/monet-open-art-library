@@ -1,10 +1,10 @@
 {
   "checked_on": "2026-11-01",
-  "checked_at": "2026-11-01T21:48:35.341255+08:00",
+  "checked_at": "2026-11-01T21:49:36.803893+08:00",
   "timezone": "Asia/Shanghai",
   "login_status": "logged_in",
   "evidence": "check_login_status returned 已登录; get_my_profile returned 36 notes with no matching six new titles; scheduled/private list not covered",
-  "new_uploads_this_run": 2,
+  "new_uploads_this_run": 3,
   "actual_publication_checked": false,
   "tool_version": "v2.5.0",
   "schedule_min_hours": 1,

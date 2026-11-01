@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-01T21:48:35.382209+08:00",
+  "as_of": "2026-11-01T21:49:36.845305+08:00",
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-01",
-    "checked_at": "2026-11-01T21:48:35.341255+08:00",
+    "checked_at": "2026-11-01T21:49:36.803893+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "evidence": "check_login_status returned 已登录; get_my_profile returned 36 notes with no matching six new titles; scheduled/private list not covered",
-    "new_uploads_this_run": 2,
+    "new_uploads_this_run": 3,
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
@@ -17,15 +17,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 24,
+    "recorded_submitted_groups": 25,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 4,
+    "submission_in_progress_groups": 3,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 21,
-    "future_submitted_groups": 3,
-    "asset_files_with_submission_record": 120,
-    "asset_files_without_submission_record": 1336,
+    "future_submitted_groups": 4,
+    "asset_files_with_submission_record": 125,
+    "asset_files_without_submission_record": 1331,
     "provisional_full_groups": 164,
     "provisional_group_images": 820,
     "pool_leftovers": 11,
@@ -590,8 +590,8 @@
       "group": 25,
       "title": "莫奈的冬日｜雪落无声",
       "schedule_at": "2026-11-08T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_151580852",
@@ -607,7 +607,7 @@
         "assets/artworks/commons/Commons_82342345.jpg",
         "assets/artworks/commons/Commons_31697395.jpg"
       ],
-      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传"
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布"
     },
     {
       "group": 26,
@@ -10600,7 +10600,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_Mont_Kolsaas,_Norv%C3%A8ge_02.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         25
       ],
@@ -11371,7 +11371,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Neige_%C3%A0_Argenteuil_(1874-75).jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         25
       ],
@@ -12027,7 +12027,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Sandvika_Village_in_the_Snow_(1895).jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         25
       ],
@@ -12068,7 +12068,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Snow_in_Amsterdam_-_Rosengart_collection.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         25
       ],
@@ -13188,7 +13188,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voir_le_d%27Argenteuil_(1874-75).jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         25
       ],
