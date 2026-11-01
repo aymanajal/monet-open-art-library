@@ -4419,8 +4419,8 @@
     "museum": "Index collections (not verified current location): Hermitage Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:%27Cliffs_near_Dieppe%27_by_Claude_Monet,_1897,_Hermitage.JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_34059825.jpg",
     "sha256": "530d68574f8a988fcaa408261991f2c14fca8d9c7f65793285a89b9da0b0a85f",
     "width": 1280,
@@ -4429,7 +4429,9 @@
     "wikidata_ids": [
       "Q27969146"
     ],
-    "groups": [],
+    "groups": [
+      27
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -4447,6 +4449,37 @@
         "Hermitage Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27Cliffs_near_Dieppe%27_by_Claude_Monet,_1897,_Hermitage.JPG",
+      "source_revision_id": 920458968,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q27969146"
+      ],
+      "inventory_numbers": [
+        "ГЭ-8992"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_97933",
+          "distance": 22
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        },
+        {
+          "id": "Commons_7186182",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 27
     }
   },
   {
@@ -4768,8 +4801,8 @@
     "museum": "Index collections (not verified current location): Pushkin Museum of Fine Arts",
     "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_%C3%89tretat%27_by_Claude_Monet,_1885-86,_Pushkin_Museum.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_36198971.jpg",
     "sha256": "0984b5dd528ced6eacd4a6498c1e4a9e67408b0daf94b5dd0259e11f81b323fc",
     "width": 1280,
@@ -4778,7 +4811,9 @@
     "wikidata_ids": [
       "Q3952520"
     ],
-    "groups": [],
+    "groups": [
+      27
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -4796,6 +4831,37 @@
         "Pushkin Museum of Fine Arts"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_%C3%89tretat%27_by_Claude_Monet,_1885-86,_Pushkin_Museum.jpg",
+      "source_revision_id": 1009493639,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3952520"
+      ],
+      "inventory_numbers": [
+        "Ж-3308"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_113092",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22009532",
+          "distance": 22
+        },
+        {
+          "id": "Commons_79433228",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 27
     }
   },
   {
@@ -5497,8 +5563,8 @@
     "museum": "Index collections (not verified current location): Amgueddfa Cymru – Museum Wales",
     "source_url": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Eglwys_Gadeiriol_Rouen,_Machlud_Haul_-_Rouen_Cathedral,_setting_sun_-_220716.jpeg",
     "rights": "CC0",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_189209668.jpg",
     "sha256": "5ff4699b130cece2501157cf363af7fe4eafb999b688d90ede2516a0d4d39ea1",
     "width": 1280,
@@ -5507,7 +5573,9 @@
     "wikidata_ids": [
       "Q17436676"
     ],
-    "groups": [],
+    "groups": [
+      26
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -5525,6 +5593,37 @@
         "Amgueddfa Cymru – Museum Wales"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Eglwys_Gadeiriol_Rouen,_Machlud_Haul_-_Rouen_Cathedral,_setting_sun_-_220716.jpeg",
+      "source_revision_id": 1198978451,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "CC0",
+      "wikidata_ids": [
+        "Q17436676"
+      ],
+      "inventory_numbers": [
+        "NMW A 2482"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_49286782",
+          "distance": 18
+        },
+        {
+          "id": "Commons_506301",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46524",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 26
     }
   },
   {
@@ -8259,8 +8358,8 @@
     "museum": "Index collections (not verified current location): Tokyo Fuji Art Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bord_de_mer_et_falaises_de_Pourville_le_matin_(1882).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_130728880.jpg",
     "sha256": "ff1a73b09c2566060965c30aa00eaf1f6816e69f47063267c612314cbcb346bb",
     "width": 1280,
@@ -8269,7 +8368,9 @@
     "wikidata_ids": [
       "Q79889776"
     ],
-    "groups": [],
+    "groups": [
+      27
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -8285,6 +8386,35 @@
         "Tokyo Fuji Art Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bord_de_mer_et_falaises_de_Pourville_le_matin_(1882).jpg",
+      "source_revision_id": 1246511560,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q79889776"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_506301",
+          "distance": 20
+        },
+        {
+          "id": "NGA_52188",
+          "distance": 20
+        },
+        {
+          "id": "AIC_108583",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 27
     }
   },
   {
@@ -8783,8 +8913,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_blanche.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_7377095.jpg",
     "sha256": "68b796b05cf2cd73a39a0990a1db2bf811d76b996eae25c0215a54085a61fef5",
     "width": 1280,
@@ -8793,7 +8923,9 @@
     "wikidata_ids": [
       "Q3820706"
     ],
-    "groups": [],
+    "groups": [
+      26
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -8811,6 +8943,37 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_blanche.jpg",
+      "source_revision_id": 1176776283,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3820706"
+      ],
+      "inventory_numbers": [
+        "RF 2001"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_22009552",
+          "distance": 16
+        },
+        {
+          "id": "NGA_61375",
+          "distance": 18
+        },
+        {
+          "id": "Commons_22140927",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 26
     }
   },
   {
@@ -8820,8 +8983,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_7296068.jpg",
     "sha256": "ed28d0abae26c962b66d91ed3bd9693cafd7255e7300f08ab04de7452923e931",
     "width": 1280,
@@ -8830,7 +8993,9 @@
     "wikidata_ids": [
       "Q3820704"
     ],
-    "groups": [],
+    "groups": [
+      26
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -8848,6 +9013,37 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue.jpg",
+      "source_revision_id": 1176787660,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3820704"
+      ],
+      "inventory_numbers": [
+        "RF 2000"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 18
+        },
+        {
+          "id": "AIC_113092",
+          "distance": 22
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 26
     }
   },
   {
@@ -8857,8 +9053,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue_et_or.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_7298555.jpg",
     "sha256": "f9fad7925da2bc37c3bd52ea84e23af65281d2e74a33c1f8867366324fb83c8c",
     "width": 1280,
@@ -8867,7 +9063,9 @@
     "wikidata_ids": [
       "Q3820705"
     ],
-    "groups": [],
+    "groups": [
+      26
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -8885,6 +9083,37 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue_et_or.jpg",
+      "source_revision_id": 1176781986,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3820705"
+      ],
+      "inventory_numbers": [
+        "RF 2002"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 14
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46654",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 26
     }
   },
   {
@@ -9595,8 +9824,8 @@
     "museum": "Index collections (not verified current location): Museum Ordrupgaard",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Falaise_de_Sainte-Adresse,_temps_gris_-_Ordrupgaard.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_81086731.jpg",
     "sha256": "f73554944a681ba86e52c03534a76a76d179f817d4cc882ef01cce8fa6c7c780",
     "width": 1280,
@@ -9605,7 +9834,9 @@
     "wikidata_ids": [
       "Q66254516"
     ],
-    "groups": [],
+    "groups": [
+      27
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -9623,6 +9854,37 @@
         "Museum Ordrupgaard"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Falaise_de_Sainte-Adresse,_temps_gris_-_Ordrupgaard.jpg",
+      "source_revision_id": 1126698018,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q66254516"
+      ],
+      "inventory_numbers": [
+        "283 WH"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 18
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20545",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 27
     }
   },
   {
@@ -9669,8 +9931,8 @@
     "museum": "Index collections (not verified current location): Kunstmuseum Den Haag",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Fishing_nets_at_Pourville_-_Google_Art_Project.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_21925466.jpg",
     "sha256": "635772b8714f3a09f990c370c9246ae642989931bcf969348687ee1d375ce0b1",
     "width": 1280,
@@ -9679,7 +9941,9 @@
     "wikidata_ids": [
       "Q24046541"
     ],
-    "groups": [],
+    "groups": [
+      27
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -9697,6 +9961,37 @@
         "Kunstmuseum Den Haag"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Fishing_nets_at_Pourville_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126698057,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q24046541"
+      ],
+      "inventory_numbers": [
+        "0332007"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "CMA_125234",
+          "distance": 20
+        },
+        {
+          "id": "NGA_45872",
+          "distance": 20
+        },
+        {
+          "id": "AIC_15826",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 27
     }
   },
   {
@@ -12147,8 +12442,8 @@
     "museum": "Index collections (not verified current location): Fondation Jean et Suzanne Planque",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_Mont_Kolsaas,_Norv%C3%A8ge_02.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_151580852.jpg",
     "sha256": "bca5dfcf0d29ecba5191115e58f176fdccfcb500726aa8e0291c218b66e04cdf",
     "width": 1280,
@@ -12157,7 +12452,9 @@
     "wikidata_ids": [
       "Q133253891"
     ],
-    "groups": [],
+    "groups": [
+      25
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -12175,6 +12472,37 @@
         "Fondation Jean et Suzanne Planque"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_Mont_Kolsaas,_Norv%C3%A8ge_02.jpg",
+      "source_revision_id": 1126698749,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q133253891"
+      ],
+      "inventory_numbers": [
+        "FJSP-998-115"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_20545",
+          "distance": 22
+        },
+        {
+          "id": "Commons_1169962",
+          "distance": 22
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 24
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 25
     }
   },
   {
@@ -13395,8 +13723,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Les_Peupliers,_automne.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_81751002.jpg",
     "sha256": "e353a1205f4a22dafb261edc5d13dbeb5bdc33e6247265ed5f98ea7638f48739",
     "width": 1280,
@@ -13405,7 +13733,9 @@
     "wikidata_ids": [
       "Q66924718"
     ],
-    "groups": [],
+    "groups": [
+      28
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -13417,6 +13747,35 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Les_Peupliers,_automne.jpg",
+      "source_revision_id": 1126699119,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q66924718"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        },
+        {
+          "id": "Commons_79297441",
+          "distance": 22
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 24
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 28
     }
   },
   {
@@ -14304,8 +14663,8 @@
     "museum": "Index collections (not verified current location): The Nelson-Atkins Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Neige_%C3%A0_Argenteuil_(1874-75).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_54675310.jpg",
     "sha256": "f23d91decd966c3a271eab8319b37038e80f43782f1c46ed8f8b3152b9fa57ef",
     "width": 1280,
@@ -14314,7 +14673,9 @@
     "wikidata_ids": [
       "Q64577786"
     ],
-    "groups": [],
+    "groups": [
+      25
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -14332,6 +14693,37 @@
         "The Nelson-Atkins Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Neige_%C3%A0_Argenteuil_(1874-75).jpg",
+      "source_revision_id": 1126699507,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q64577786"
+      ],
+      "inventory_numbers": [
+        "2015.13.14"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_16560",
+          "distance": 20
+        },
+        {
+          "id": "AIC_81540",
+          "distance": 20
+        },
+        {
+          "id": "CMA_95272",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 25
     }
   },
   {
@@ -14990,8 +15382,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Peupliers_au_bord_de_l%E2%80%99Epte,_temps_couvert_(W_1299).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_139615640.jpg",
     "sha256": "0d2a52b168f8d60e7bb8d80b970b3cca563d9c4fef5353109b28d06e27e49650",
     "width": 1280,
@@ -15000,7 +15392,9 @@
     "wikidata_ids": [
       "Q123414094"
     ],
-    "groups": [],
+    "groups": [
+      28
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -15012,6 +15406,35 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Peupliers_au_bord_de_l%E2%80%99Epte,_temps_couvert_(W_1299).jpg",
+      "source_revision_id": 1209954998,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q123414094"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_22009559",
+          "distance": 18
+        },
+        {
+          "id": "NGA_46654",
+          "distance": 22
+        },
+        {
+          "id": "AIC_64818",
+          "distance": 24
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 28
     }
   },
   {
@@ -15750,8 +16173,8 @@
     "museum": "Index collections (not verified current location): Museum Folkwang",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_2327199.jpg",
     "sha256": "1314fc9a2b789453e3d40a7b9c80329c6206fb1cecc6b2299bb197032507b4b2",
     "width": 1280,
@@ -15760,7 +16183,9 @@
     "wikidata_ids": [
       "Q17436681"
     ],
-    "groups": [],
+    "groups": [
+      26
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -15778,6 +16203,37 @@
         "Museum Folkwang"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG",
+      "source_revision_id": 1114652436,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q17436681"
+      ],
+      "inventory_numbers": [
+        "G 373"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 14
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 20
+        },
+        {
+          "id": "Commons_79297441",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 26
     }
   },
   {
@@ -16158,8 +16614,8 @@
     "museum": "Index collections (not verified current location): Art Museum Riga Bourse",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Sandvika_Village_in_the_Snow_(1895).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_57012077.jpg",
     "sha256": "592778d530d2fbd5a129691b72b9386c2ee80a94fef87933067792e88bd4e370",
     "width": 1280,
@@ -16168,7 +16624,9 @@
     "wikidata_ids": [
       "Q91473128"
     ],
-    "groups": [],
+    "groups": [
+      25
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -16186,6 +16644,37 @@
         "Art Museum Riga Bourse"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Sandvika_Village_in_the_Snow_(1895).jpg",
+      "source_revision_id": 1231888748,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q91473128"
+      ],
+      "inventory_numbers": [
+        "517"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_16571",
+          "distance": 20
+        },
+        {
+          "id": "NGA_178254",
+          "distance": 20
+        },
+        {
+          "id": "AIC_86998",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 25
     }
   },
   {
@@ -16263,8 +16752,8 @@
     "museum": "Index collections (not verified current location): Rosengart Collection",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Snow_in_Amsterdam_-_Rosengart_collection.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_82342345.jpg",
     "sha256": "a8f16b43f6680298d65b71cf18938d152f96cae72167333a6dcbaefcb5e937d5",
     "width": 1024,
@@ -16273,7 +16762,9 @@
     "wikidata_ids": [
       "Q67959125"
     ],
-    "groups": [],
+    "groups": [
+      25
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -16289,6 +16780,35 @@
         "Rosengart Collection"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Snow_in_Amsterdam_-_Rosengart_collection.jpg",
+      "source_revision_id": 1043380213,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q67959125"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_15418936",
+          "distance": 18
+        },
+        {
+          "id": "Commons_79292489",
+          "distance": 22
+        },
+        {
+          "id": "NGA_46652",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 25
     }
   },
   {
@@ -19543,8 +20063,8 @@
     "museum": "Index collections (not verified current location): The Nelson-Atkins Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voir_le_d%27Argenteuil_(1874-75).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_31697395.jpg",
     "sha256": "36f26664399b8a1db10e7949e0d322437c365f98b4be31c650d1d1bf79731084",
     "width": 1280,
@@ -19553,7 +20073,9 @@
     "wikidata_ids": [
       "Q64577782"
     ],
-    "groups": [],
+    "groups": [
+      25
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -19571,6 +20093,37 @@
         "The Nelson-Atkins Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voir_le_d%27Argenteuil_(1874-75).jpg",
+      "source_revision_id": 1126701110,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q64577782"
+      ],
+      "inventory_numbers": [
+        "44-41/3"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "CMA_95272",
+          "distance": 20
+        },
+        {
+          "id": "Commons_55105249",
+          "distance": 22
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 25
     }
   },
   {
@@ -22715,8 +23268,8 @@
     "museum": "Index collections (not verified current location): Philadelphia Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_French_-_Poplars_-_Google_Art_Project.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_21864201.jpg",
     "sha256": "1f7d41abb58fc9a9ef56d869329702646e5d1937032c70894a1bf8a791f88eda",
     "width": 1280,
@@ -22725,7 +23278,9 @@
     "wikidata_ids": [
       "Q18683906"
     ],
-    "groups": [],
+    "groups": [
+      28
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -22743,6 +23298,37 @@
         "Philadelphia Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_French_-_Poplars_-_Google_Art_Project.jpg",
+      "source_revision_id": 1216609025,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q18683906"
+      ],
+      "inventory_numbers": [
+        "1951-109-1"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "Commons_7169557",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46655",
+          "distance": 22
+        },
+        {
+          "id": "NGA_61374",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 28
     }
   },
   {
@@ -34849,8 +35435,8 @@
     "museum": "Index collections (not verified current location): MOA Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Poplars-at-giverny_MOA_W1291.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_29920532.jpg",
     "sha256": "ffd393d37c419d1abe59240ce2a0830458e91da0b372b1c5c8281eefcbd0411e",
     "width": 875,
@@ -34859,7 +35445,9 @@
     "wikidata_ids": [
       "Q49473320"
     ],
-    "groups": [],
+    "groups": [
+      28
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -34875,6 +35463,35 @@
         "MOA Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Poplars-at-giverny_MOA_W1291.jpg",
+      "source_revision_id": 1134959104,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q49473320"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_113092",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20701",
+          "distance": 22
+        },
+        {
+          "id": "AIC_64818",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 28
     }
   },
   {
@@ -34961,8 +35578,8 @@
     "museum": "Index collections (not verified current location): National Gallery; Tate",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Poplars_on_the_River_Epte.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-01发布前核对来源声明、作品条目、历史版本和主题画面；未发现与既有组重复",
     "file": "assets/artworks/commons/Commons_8859184.jpg",
     "sha256": "336353a7f659e858413a2423b5d296907b8072c443c88c74bde00c1760b58fd2",
     "width": 1280,
@@ -34971,7 +35588,9 @@
     "wikidata_ids": [
       "Q25410258"
     ],
-    "groups": [],
+    "groups": [
+      28
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -34992,6 +35611,38 @@
         "Tate"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-01T21:37:46.851380+08:00",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Poplars_on_the_River_Epte.jpg",
+      "source_revision_id": 1134959094,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q25410258"
+      ],
+      "inventory_numbers": [
+        "L717",
+        "N04183"
+      ],
+      "identity_check": "Source file title/creator and indexed work identity checked; no shared known work IDs with 120 existing scheduled/prepared files",
+      "historical_comparison": "SHA-256, full/cropped pHash against all 120 existing files; visually compared image and three nearest historical candidates; distinct compositions/source identities",
+      "nearest_historical": [
+        {
+          "id": "AIC_113092",
+          "distance": 18
+        },
+        {
+          "id": "Commons_155848",
+          "distance": 20
+        },
+        {
+          "id": "Commons_7169557",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Five images inspected together; coherent subject; no added frames or cropping applied",
+      "group": 28
     }
   },
   {

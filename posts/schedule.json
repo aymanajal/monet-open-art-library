@@ -456,8 +456,13 @@
         "assets/artworks/commons/Commons_155845.jpg"
       ],
       "schedule_at": "2026-11-04T20:00:00+08:00",
-      "status": "prepared_outside_window",
-      "verification": "已备稿，尚未提交"
+      "status": "submission_in_progress",
+      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261101-group-23",
+        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+        "planned_schedule_at": "2026-11-04T20:00:00+08:00"
+      }
     },
     {
       "group": 24,
@@ -472,8 +477,113 @@
         "assets/artworks/commons/Commons_90512468.jpg"
       ],
       "schedule_at": "2026-11-06T20:00:00+08:00",
-      "status": "prepared_outside_window",
-      "verification": "已备稿，尚未提交"
+      "status": "submission_in_progress",
+      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261101-group-24",
+        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+        "planned_schedule_at": "2026-11-06T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 25,
+      "title": "莫奈的冬日｜雪落无声",
+      "content": "雪地不是一片白。蓝灰的阴影、微暖的天空和零星的人影，让莫奈的冬日有了安静的层次。五幅雪景，一起慢慢看。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_151580852.jpg",
+        "assets/artworks/commons/Commons_54675310.jpg",
+        "assets/artworks/commons/Commons_57012077.jpg",
+        "assets/artworks/commons/Commons_82342345.jpg",
+        "assets/artworks/commons/Commons_31697395.jpg"
+      ],
+      "schedule_at": "2026-11-08T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261101-group-25",
+        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+        "planned_schedule_at": "2026-11-08T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 26,
+      "title": "莫奈的鲁昂｜一座教堂的光",
+      "content": "同一座教堂，在不同光线里呈现不同颜色。把这五幅鲁昂大教堂放在一起看，石墙也像在呼吸。\n\n图片来源：Wikimedia Commons；公共领域及 CC0 开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_189209668.jpg",
+        "assets/artworks/commons/Commons_7377095.jpg",
+        "assets/artworks/commons/Commons_7296068.jpg",
+        "assets/artworks/commons/Commons_7298555.jpg",
+        "assets/artworks/commons/Commons_2327199.jpg"
+      ],
+      "schedule_at": "2026-11-10T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261101-group-26",
+        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+        "planned_schedule_at": "2026-11-10T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 27,
+      "title": "莫奈的海岸｜悬崖与潮声",
+      "content": "海浪、礁石和高高的崖岸，在莫奈笔下有不同的蓝与灰。风看不见，却能从水面和笔触里感受到。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_34059825.jpg",
+        "assets/artworks/commons/Commons_36198971.jpg",
+        "assets/artworks/commons/Commons_130728880.jpg",
+        "assets/artworks/commons/Commons_81086731.jpg",
+        "assets/artworks/commons/Commons_21925466.jpg"
+      ],
+      "schedule_at": "2026-11-12T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261101-group-27",
+        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+        "planned_schedule_at": "2026-11-12T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 28,
+      "title": "莫奈的杨树｜风与倒影",
+      "content": "树干向上生长，倒影把颜色留在水里。秋色、薄云和微风，让五幅杨树风景有了不同的节奏。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_81751002.jpg",
+        "assets/artworks/commons/Commons_139615640.jpg",
+        "assets/artworks/commons/Commons_21864201.jpg",
+        "assets/artworks/commons/Commons_29920532.jpg",
+        "assets/artworks/commons/Commons_8859184.jpg"
+      ],
+      "schedule_at": "2026-11-14T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已在主库占用本组，等待本次定时提交结果；其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261101-group-28",
+        "reserved_at": "2026-11-01T21:37:46.851380+08:00",
+        "planned_schedule_at": "2026-11-14T20:00:00+08:00"
+      }
     }
   ]
 }

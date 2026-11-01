@@ -1,0 +1,586 @@
+{
+  "checked_at": "2026-11-01T21:37:46.851380+08:00",
+  "scope": "20 selected images for groups25-28, primary Commons file metadata/revision evidence; no current-museum attribution asserted",
+  "images": [
+    {
+      "id": "Commons_151580852",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_Mont_Kolsaas,_Norv%C3%A8ge_02.jpg",
+      "source_revision_id": 1126698749,
+      "source_revision_timestamp": "2025-12-06T16:31:15Z",
+      "source_title": "French: Le Mont Kolsaas, Norvège (Tempête de neige) Le Mont Kolsaas, Norvège (Tempête de neige) title QS:P1476,fr:\"Le Mont Kolsaas, Norvège (Tempête de neige) \" label QS:Lfr,\"Le Mont Kolsaas, Norvège (Tempête de neige) \" label QS:Len,\"Le Mont Kolsaas, Norvège (Tempête de neige)\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Own work , Tylwyth Eldar , 2024-03-09 15:15:58",
+      "wikidata_ids": [
+        "Q133253891"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_20545",
+          "distance": 22
+        },
+        {
+          "id": "Commons_1169962",
+          "distance": 22
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "id": "Commons_54675310",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Neige_%C3%A0_Argenteuil_(1874-75).jpg",
+      "source_revision_id": 1126699507,
+      "source_revision_timestamp": "2025-12-06T16:33:07Z",
+      "source_title": "Snow at Argenteuil label QS:Lfr,\"Neige à Argenteuil\" label QS:Len,\"Snow at Argenteuil\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Google Art Project works from the Nelson-Atkins Museum of Art",
+      "wikidata_ids": [
+        "Q64577786"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_16560",
+          "distance": 20
+        },
+        {
+          "id": "AIC_81540",
+          "distance": 20
+        },
+        {
+          "id": "CMA_95272",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_57012077",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Sandvika_Village_in_the_Snow_(1895).jpg",
+      "source_revision_id": 1231888748,
+      "source_revision_timestamp": "2026-06-15T17:01:43Z",
+      "source_title": "Sandvika Village in the Snow label QS:Len,\"Sandvika Village in the Snow\" label QS:Lru,\"Зимний пейзаж. Сандвикен\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "art-catalog.ru",
+      "wikidata_ids": [
+        "Q91473128"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_16571",
+          "distance": 20
+        },
+        {
+          "id": "NGA_178254",
+          "distance": 20
+        },
+        {
+          "id": "AIC_86998",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_82342345",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Snow_in_Amsterdam_-_Rosengart_collection.jpg",
+      "source_revision_id": 1043380213,
+      "source_revision_timestamp": "2025-06-13T04:56:28Z",
+      "source_title": "Snow in Amsterdam label QS:Len,\"Snow in Amsterdam\" label QS:Lde,\"Schnee in Amsterdam\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Flickr [1]",
+      "wikidata_ids": [
+        "Q67959125"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_15418936",
+          "distance": 18
+        },
+        {
+          "id": "Commons_79292489",
+          "distance": 22
+        },
+        {
+          "id": "NGA_46652",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_31697395",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voir_le_d%27Argenteuil_(1874-75).jpg",
+      "source_revision_id": 1126701110,
+      "source_revision_timestamp": "2025-12-06T16:37:33Z",
+      "source_title": "Snow Effect at Argenteuil label QS:Lfr,\"Voir le d'Argenteuil - Neige\" label QS:Len,\"View of Argenteuil - Snow\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "The Nelson-Atkins Museum of Art, Kansas City",
+      "wikidata_ids": [
+        "Q64577782"
+      ],
+      "nearest_historical": [
+        {
+          "id": "CMA_95272",
+          "distance": 20
+        },
+        {
+          "id": "Commons_55105249",
+          "distance": 22
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_189209668",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Eglwys_Gadeiriol_Rouen,_Machlud_Haul_-_Rouen_Cathedral,_setting_sun_-_220716.jpeg",
+      "source_revision_id": 1198978451,
+      "source_revision_timestamp": "2026-04-17T13:59:02Z",
+      "source_title": "Rouen Cathedral: setting sun label QS:Len,\"Rouen Cathedral: setting sun\" label QS:Lcy,\"Eglwys Gadeiriol Rouen: Machlud Haul\"",
+      "source_artist": "Claude Monet",
+      "license": "CC0",
+      "inventory": "",
+      "institution": "",
+      "credit": "This image is uploaded as image number 220716 at Amgueddfa Cymru Images . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+      "wikidata_ids": [
+        "Q17436676"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_49286782",
+          "distance": 18
+        },
+        {
+          "id": "Commons_506301",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46524",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_7377095",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_blanche.jpg",
+      "source_revision_id": 1176776283,
+      "source_revision_timestamp": "2026-03-06T15:52:44Z",
+      "source_title": "La Cathédrale de Rouen. Le portail et la tour Saint-Romain, effet du matin ; harmonie blanche",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Livre 1893 : l'Europe des peintres : Paris, Musée d'Orsay, 22 février-23 mai 1993 , Paris : Éditions de la Réunion des Musées Nationaux, 1993. ISBN 2711826805",
+      "wikidata_ids": [
+        "Q3820706"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_22009552",
+          "distance": 16
+        },
+        {
+          "id": "NGA_61375",
+          "distance": 18
+        },
+        {
+          "id": "Commons_22140927",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_7296068",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue.jpg",
+      "source_revision_id": 1176787660,
+      "source_revision_timestamp": "2026-03-06T16:15:30Z",
+      "source_title": "La Cathédrale de Rouen. Le portail, soleil matinal ; harmonie bleue",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Livre 1893 : l'Europe des peintres : Paris, Musée d'Orsay, 22 février-23 mai 1993 , Paris : Éditions de la Réunion des Musées Nationaux, 1993. ISBN 2711826805",
+      "wikidata_ids": [
+        "Q3820704"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 18
+        },
+        {
+          "id": "AIC_113092",
+          "distance": 22
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_7298555",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue_et_or.jpg",
+      "source_revision_id": 1176781986,
+      "source_revision_timestamp": "2026-03-06T16:04:53Z",
+      "source_title": "La Cathédrale de Rouen. Le portail et la tour Saint-Romain, plein soleil ; harmonie bleue et or",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Livre 1893 : l'Europe des peintres : Paris, Musée d'Orsay, 22 février-23 mai 1993 , Paris : Éditions de la Réunion des Musées Nationaux, 1993. ISBN 2711826805",
+      "wikidata_ids": [
+        "Q3820705"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 14
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46654",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_2327199",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG",
+      "source_revision_id": 1114652436,
+      "source_revision_timestamp": "2025-11-13T11:21:34Z",
+      "source_title": "Rouen Cathedral. Facade (Morning effect)",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Unknown source Unknown source",
+      "wikidata_ids": [
+        "Q17436681"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 14
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 20
+        },
+        {
+          "id": "Commons_79297441",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_34059825",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27Cliffs_near_Dieppe%27_by_Claude_Monet,_1897,_Hermitage.JPG",
+      "source_revision_id": 920458968,
+      "source_revision_timestamp": "2024-09-07T08:37:28Z",
+      "source_title": "Steep Cliffs near Dieppe title QS:P1476,en:\"Steep Cliffs near Dieppe \" label QS:Len,\"Steep Cliffs near Dieppe \" label QS:Lru,\"На крутых берегах близ Дьеппа\" label QS:Lfr,\"Falaises près de Dieppe\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Own work",
+      "wikidata_ids": [
+        "Q27969146"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_97933",
+          "distance": 22
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        },
+        {
+          "id": "Commons_7186182",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_36198971",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_%C3%89tretat%27_by_Claude_Monet,_1885-86,_Pushkin_Museum.jpg",
+      "source_revision_id": 1009493639,
+      "source_revision_timestamp": "2025-03-14T12:20:45Z",
+      "source_title": "The Cliffs at Étretat label QS:Lfr,\"Les Falaises à Étretat\" label QS:Len,\"The Cliffs at Étretat\" label QS:Lru,\"Скалы в Этрета (Москва)\" label QS:Lit,\"Scogliera a Etretat\" label QS:Lnl,\"The Cliffs at Étretat\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Own work",
+      "wikidata_ids": [
+        "Q3952520"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_113092",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22009532",
+          "distance": 22
+        },
+        {
+          "id": "Commons_79433228",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_130728880",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bord_de_mer_et_falaises_de_Pourville_le_matin_(1882).jpg",
+      "source_revision_id": 1246511560,
+      "source_revision_timestamp": "2026-07-11T15:19:45Z",
+      "source_title": "French: Bord de mer et falaises de Pourville le matin Seashore and Cliffs of Pourville in the Morning label QS:Lja,\"プールヴィルの断崖\" label QS:Lfr,\"Bord de mer et falaises de Pourville le matin\" label QS:Len,\"Seashore and Cliffs of Pourville in the Morning\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Google Arts & Culture",
+      "wikidata_ids": [
+        "Q79889776"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_506301",
+          "distance": 20
+        },
+        {
+          "id": "NGA_52188",
+          "distance": 20
+        },
+        {
+          "id": "AIC_108583",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_81086731",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Falaise_de_Sainte-Adresse,_temps_gris_-_Ordrupgaard.jpg",
+      "source_revision_id": 1126698018,
+      "source_revision_timestamp": "2025-12-06T16:29:14Z",
+      "source_title": "French: Falaise de Sainte-Adresse, temps gris label QS:Lfr,\"Falaise de Sainte-Adresse, temps gris\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "twitter musée Jacquemard-André [1]",
+      "wikidata_ids": [
+        "Q66254516"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46524",
+          "distance": 18
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20545",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_21925466",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Fishing_nets_at_Pourville_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126698057,
+      "source_revision_timestamp": "2025-12-06T16:29:18Z",
+      "source_title": "Fishing nets at Pourville title QS:P1476,en:\"Fishing nets at Pourville \" label QS:Len,\"Fishing nets at Pourville \" label QS:Lfr,\"Les Filets à Pourville\" label QS:Lnl,\"De netten van Pourville\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Google Arts & Culture — 2AHQceW3TukXLQ",
+      "wikidata_ids": [
+        "Q24046541"
+      ],
+      "nearest_historical": [
+        {
+          "id": "CMA_125234",
+          "distance": 20
+        },
+        {
+          "id": "NGA_45872",
+          "distance": 20
+        },
+        {
+          "id": "AIC_15826",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_81751002",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Les_Peupliers,_automne.jpg",
+      "source_revision_id": 1126699119,
+      "source_revision_timestamp": "2025-12-06T16:32:14Z",
+      "source_title": "French: Les peupliers, automne German: Pappeln im Herbst label QS:Lfr,\"Les peupliers, automne\" label QS:Lde,\"Pappeln im Herbst\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Flickr [1]",
+      "wikidata_ids": [
+        "Q66924718"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        },
+        {
+          "id": "Commons_79297441",
+          "distance": 22
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "id": "Commons_139615640",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Peupliers_au_bord_de_l%E2%80%99Epte,_temps_couvert_(W_1299).jpg",
+      "source_revision_id": 1209954998,
+      "source_revision_timestamp": "2026-05-07T11:50:16Z",
+      "source_title": "Peupliers au bord de l’Epte, temps couvert",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "www.sothebys.com",
+      "wikidata_ids": [
+        "Q123414094"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_22009559",
+          "distance": 18
+        },
+        {
+          "id": "NGA_46654",
+          "distance": 22
+        },
+        {
+          "id": "AIC_64818",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "id": "Commons_21864201",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_French_-_Poplars_-_Google_Art_Project.jpg",
+      "source_revision_id": 1216609025,
+      "source_revision_timestamp": "2026-05-19T07:40:20Z",
+      "source_title": "Poplars title QS:P1476,en:\"Poplars\" label QS:Len,\"Poplars\"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "PQEmDQRzI4isTg at Google Cultural Institute maximum zoom level",
+      "wikidata_ids": [
+        "Q18683906"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_7169557",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46655",
+          "distance": 22
+        },
+        {
+          "id": "NGA_61374",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_29920532",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Poplars-at-giverny_MOA_W1291.jpg",
+      "source_revision_id": 1134959104,
+      "source_revision_timestamp": "2025-12-22T10:04:37Z",
+      "source_title": "Poplars",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "http://www.wikipaintings.org/",
+      "wikidata_ids": [
+        "Q49473320"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_113092",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20701",
+          "distance": 22
+        },
+        {
+          "id": "AIC_64818",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_8859184",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_Poplars_on_the_River_Epte.jpg",
+      "source_revision_id": 1134959094,
+      "source_revision_timestamp": "2025-12-22T10:04:35Z",
+      "source_title": "Poplars on the River Epte",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "inventory": "",
+      "institution": "",
+      "credit": "Unknown source Unknown source",
+      "wikidata_ids": [
+        "Q25410258"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_113092",
+          "distance": 18
+        },
+        {
+          "id": "Commons_155848",
+          "distance": 20
+        },
+        {
+          "id": "Commons_7169557",
+          "distance": 20
+        }
+      ]
+    }
+  ]
+}
