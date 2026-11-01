@@ -1,0 +1,12 @@
+{
+  "checked_on": "2026-11-01",
+  "timezone": "Asia/Shanghai",
+  "login_status": "not_logged_in",
+  "evidence": "check_login_status returned 未登录",
+  "new_uploads_this_run": 0,
+  "actual_publication_checked": false,
+  "tool_version": "v2.5.0",
+  "schedule_window_evidence": "Live tools/list: publish_content.schedule_at supports 1 hour to 14 days; omission means immediate publication",
+  "schedule_min_hours": 1,
+  "schedule_max_days": 14
+}

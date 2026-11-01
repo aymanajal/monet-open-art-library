@@ -29,7 +29,7 @@ for e in rows:
     e['museum']='Index collections (not verified current location): '+('; '.join(meta['collection_names']) or 'unspecified')
     shared=sorted({other for q in e.get('wikidata_ids',[]) for other in work_index[q] if other!=e['id']})
     if shared:e['same_work_candidates']=shared
-    if e['status']=='approved':
+    if e['status']=='approved' and not e.get('review_verification'):
         e['status']='review_version' if shared else 'candidate_ready'
         e['notes']=('同一Wikidata条目还关联其他图像版本，需核对作品身份' if shared else '来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验')
     if e['status'].startswith('review_') and '/artworks/' in e['file']:

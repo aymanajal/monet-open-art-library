@@ -38,6 +38,37 @@ for line in (ROOT/'catalog/files.sha256').read_text().splitlines():
     manifest.add(path)
     assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==digest,path
 assert catalog_files<=manifest,'catalog file missing from checksum manifest'
+ledger_path=ROOT/'posts/publication_ledger.json'
+if ledger_path.exists():
+    from datetime import datetime,timedelta
+    ledger=load('posts/publication_ledger.json')
+    byid={e['id']:e for e in entries}
+    assert len(ledger['assets'])==len(entries)
+    assert {a['id'] for a in ledger['assets']}==set(byid),'ledger does not cover whole library'
+    for a in ledger['assets']:
+        original=byid[a['id']]
+        assert a['file']==original['file'] and a['sha256']==original['sha256'],a['id']
+        assert a['review_status']==original['status'],a['id']
+    old={p['group']:p for p in posts}
+    assert {p['group'] for p in ledger['recorded_posts']}==set(old)
+    for p in ledger['recorded_posts']:
+        assert p['record_status']==old[p['group']]['status'],('rebuild ledger after state change',p['group'])
+        assert p['images']==old[p['group']]['images'] and p['schedule_at']==old[p['group']]['schedule_at']
+    allocated=set(used);previous=None
+    for batch in ledger['provisional_batches']:
+        assert batch['status']=='blocked_review_not_uploaded'
+        assert len(batch['images'])==5 and len(batch['asset_ids'])==5
+        when=datetime.fromisoformat(batch['provisional_at'])
+        assert when.hour==20 and when.minute==0 and when.utcoffset()==timedelta(hours=8)
+        if previous:assert when-previous==timedelta(days=2)
+        previous=when
+        for ident,f in zip(batch['asset_ids'],batch['images']):
+            assert byid[ident]['file']==f and f not in allocated,(batch['id'],ident)
+            assert byid[ident]['status'] in ['approved','candidate_ready']
+            allocated.add(f)
+    for ident in ledger['partial_pool_ids']:
+        f=byid[ident]['file'];assert f not in allocated;allocated.add(f)
+    assert ledger['summary']['asset_files']==len(entries)
 for p in ROOT.rglob('*'):
     if '.git' in p.parts or '.cache' in p.parts:continue
     assert p.name!='cookies.json' and not p.name.endswith('.pem') and '二维码' not in p.name,p
