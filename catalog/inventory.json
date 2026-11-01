@@ -15,7 +15,7 @@
     "review_low_resolution": 79,
     "review_license": 154
   },
-  "scheduled_groups": 22,
+  "scheduled_groups": 23,
   "prepared_groups": 0,
   "invalid_downloads_not_published": [
     "新增资源_20261020/MIA_1234.jpg",
@@ -31,6 +31,6 @@
     "Commons": 1370
   },
   "wikidata_work_ids": 1287,
-  "submission_in_progress_groups": 6,
+  "submission_in_progress_groups": 5,
   "submission_unknown_groups": 0
 }

@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-01T21:45:44.232185+08:00",
+  "as_of": "2026-11-01T21:46:57.257270+08:00",
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-01",
-    "checked_at": "2026-11-01T21:41:49.587624+08:00",
+    "checked_at": "2026-11-01T21:46:57.215899+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "evidence": "check_login_status returned 已登录; get_my_profile returned 36 notes with no matching six new titles; scheduled/private list not covered",
-    "new_uploads_this_run": 0,
+    "new_uploads_this_run": 1,
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
@@ -17,15 +17,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 22,
+    "recorded_submitted_groups": 23,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 6,
+    "submission_in_progress_groups": 5,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 21,
-    "future_submitted_groups": 1,
-    "asset_files_with_submission_record": 110,
-    "asset_files_without_submission_record": 1346,
+    "future_submitted_groups": 2,
+    "asset_files_with_submission_record": 115,
+    "asset_files_without_submission_record": 1341,
     "provisional_full_groups": 164,
     "provisional_group_images": 820,
     "pool_leftovers": 11,
@@ -544,8 +544,8 @@
       "group": 23,
       "title": "莫奈的水边｜桥影与生活",
       "schedule_at": "2026-11-04T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_141151696",
@@ -561,7 +561,7 @@
         "assets/artworks/commons/Commons_21857387.jpg",
         "assets/artworks/commons/Commons_155845.jpg"
       ],
-      "verification": "已核对前次为提交前失败；保留历史，重新占用一次提交"
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布"
     },
     {
       "group": 24,
@@ -7235,7 +7235,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Morning_on_the_Seine_by_Claude_Monet.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         23
       ],
@@ -7250,7 +7250,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Water-Lily_Pond_1900_Claude_Monet_Boston_MFA.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         23
       ],
@@ -7306,7 +7306,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Coalmen_-_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         23
       ],
@@ -7321,7 +7321,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_017.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         23
       ],
@@ -7575,7 +7575,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_and_Japanese_Bridge.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         23
       ],
