@@ -6,11 +6,11 @@
   "total_unique_image_files": 1460,
   "bytes": 799319642,
   "status_counts": {
-    "approved": 145,
+    "approved": 170,
     "review_metadata": 24,
     "review_duplicate": 5,
-    "review_near_duplicate": 132,
-    "candidate_ready": 826,
+    "review_near_duplicate": 134,
+    "candidate_ready": 799,
     "review_version": 91,
     "review_low_resolution": 79,
     "review_license": 154
@@ -31,6 +31,6 @@
     "Commons": 1370
   },
   "wikidata_work_ids": 1287,
-  "submission_in_progress_groups": 0,
+  "submission_in_progress_groups": 5,
   "submission_unknown_groups": 0
 }

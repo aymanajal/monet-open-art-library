@@ -145,7 +145,30 @@ def build(as_of=None):
  readme=re.sub(r'\| 平台提交成功的排期 \|[^\n]*',f"| 平台提交成功的排期 | {summary['recorded_submitted_groups']}组，至{latest} |",readme)
  readme=re.sub(r'\| 仅备稿、尚未提交 \|[^\n]*',f"| 备稿 / 提交中 / 结果不明 | {summary['prepared_not_submitted_groups']} / {summary['submission_in_progress_groups']} / {summary['submission_unknown_groups']}组 |",readme)
  readme=re.sub(r'\| 备稿 / 提交中 / 结果不明 \|[^\n]*',f"| 备稿 / 提交中 / 结果不明 | {summary['prepared_not_submitted_groups']} / {summary['submission_in_progress_groups']} / {summary['submission_unknown_groups']}组 |",readme)
+ manual=sum(bool(e.get('review_verification')) and e['status']=='approved' for e in rows)
+ readme=re.sub(r'截至 \d{4}-\d{2}-\d{2}（下载扩充批次为2026-10-20）：',f'截至 {now.date()}（下载扩充批次为2026-10-20）：',readme)
+ readme=re.sub(r'\| (?:2026-11-01逐图复核后加入正式分组|新批逐图复核后加入正式分组) \|[^\n]*',f'| 新批逐图复核后加入正式分组 | {manual} |',readme)
+ readme=re.sub(r'\| 新批自动初筛通过、待逐件核验 \|[^\n]*',f"| 新批自动初筛通过、待逐件核验 | {sum(e['status']=='candidate_ready' for e in rows)} |",readme)
+ readme=re.sub(r'\| 其他版本、近似、资料、清晰度或授权待复核 \|[^\n]*',f"| 其他版本、近似、资料、清晰度或授权待复核 | {sum(e['status'].startswith('review_') for e in rows)} |",readme)
  (ROOT/'README.md').write_text(readme)
+ handoff_path=ROOT/'posts/换电脑继续.md'
+ handoff=handoff_path.read_text()
+ final_planned=max(datetime.fromisoformat(p['schedule_at']) for p in posts)
+ next_slot=(final_planned+timedelta(days=2)).isoformat()
+ block=f'''<!--CURRENT-PUBLISHING-STATUS-->
+## 最新接续状态（{now.date()}核对）
+
+- 正式分组{len(posts)}组；明确提交成功{summary['recorded_submitted_groups']}组，最新成功记录计划时间：{latest}。
+- 备稿{summary['prepared_not_submitted_groups']}组、提交中{summary['submission_in_progress_groups']}组、结果不明{summary['submission_unknown_groups']}组。非成功组先核对，禁止盲目重传。
+- 正式计划最后时间：{final_planned.isoformat()}；之后下一空档为{next_slot}，仍须满足当时的平台窗口与素材核验要求。
+- 登录快照：{platform_check['checked_on']} / {platform_check['login_status']}；换电脑必须重新确认登录。全部状态以[发布总表](发布总表.md)和schedule.json为准。
+
+<!--END-CURRENT-PUBLISHING-STATUS-->
+'''
+ if '<!--CURRENT-PUBLISHING-STATUS-->' in handoff:
+  handoff=re.sub(r'<!--CURRENT-PUBLISHING-STATUS-->.*?<!--END-CURRENT-PUBLISHING-STATUS-->\n?',lambda _:block,handoff,flags=re.S)
+ else:handoff=handoff.replace('# 换电脑继续发布\n','# 换电脑继续发布\n\n'+block,1)
+ handoff_path.write_text(handoff)
  print(json.dumps(summary,ensure_ascii=False,indent=2))
  return data
 

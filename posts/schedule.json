@@ -633,6 +633,136 @@
         "response_sha256": "1f419bfec9b2e32da6a0c9abb5085b167f5b9e487a4585cf09907079bdbc2d44",
         "evidence": "publish_content returned explicit success for scheduled request"
       }
+    },
+    {
+      "group": 29,
+      "title": "莫奈的花瓶｜把花留在光里",
+      "content": "菊花、向日葵和瓶中的花束，带着不同的颜色与姿态。莫奈的静物并不安静，花瓣和背景之间，光还在轻轻流动。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_5397786.jpg",
+        "assets/artworks/commons/Commons_21990471.jpg",
+        "assets/artworks/commons/Commons_139444907.jpg",
+        "assets/artworks/commons/Commons_155884.jpg",
+        "assets/artworks/commons/Commons_64729414.jpg"
+      ],
+      "schedule_at": "2026-11-16T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261112-group-29",
+        "run_id": "window-20261112",
+        "reserved_at": "2026-11-12T11:45:08.208928+08:00",
+        "planned_schedule_at": "2026-11-16T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 30,
+      "title": "莫奈的南方｜棕榈与晴光",
+      "content": "棕榈、花园、别墅和海边的城堡，让画面换上明亮的颜色。跟着莫奈看一组地中海风景，感受南方的阳光。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_23879223.jpg",
+        "assets/artworks/commons/Commons_16737531.jpg",
+        "assets/artworks/commons/Commons_21880400.jpg",
+        "assets/artworks/commons/Commons_60125697.jpg",
+        "assets/artworks/commons/Commons_117020559.jpg"
+      ],
+      "schedule_at": "2026-11-18T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261112-group-30",
+        "run_id": "window-20261112",
+        "reserved_at": "2026-11-12T11:45:08.208928+08:00",
+        "planned_schedule_at": "2026-11-18T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 31,
+      "title": "莫奈的威尼斯｜水上的城",
+      "content": "宫殿、教堂和停泊的贡多拉，在水面上留下柔软的倒影。晨光与水色，让莫奈笔下的城市轮廓变得轻盈。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_6860814.jpg",
+        "assets/artworks/commons/Commons_22490787.jpg",
+        "assets/artworks/commons/Commons_39569723.jpg",
+        "assets/artworks/commons/Commons_21924670.jpg",
+        "assets/artworks/commons/Commons_117016153.jpg"
+      ],
+      "schedule_at": "2026-11-20T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261112-group-31",
+        "run_id": "window-20261112",
+        "reserved_at": "2026-11-12T11:45:08.208928+08:00",
+        "planned_schedule_at": "2026-11-20T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 32,
+      "title": "莫奈的麦垛｜光的五种颜色",
+      "content": "麦垛是朴素的形状，晨雾、夕阳和积雪却让它不断变换颜色。把五幅作品放在一起，看光如何改变同一种风景。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_157527765.jpg",
+        "assets/artworks/commons/Commons_29674708.jpg",
+        "assets/artworks/commons/Commons_185239051.jpg",
+        "assets/artworks/commons/Commons_79004036.jpg",
+        "assets/artworks/commons/Commons_121572893.jpg"
+      ],
+      "schedule_at": "2026-11-22T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261112-group-32",
+        "run_id": "window-20261112",
+        "reserved_at": "2026-11-12T11:45:08.208928+08:00",
+        "planned_schedule_at": "2026-11-22T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 33,
+      "title": "莫奈的池塘｜睡莲与水色",
+      "content": "睡莲浮在水上，树影和天空落进池塘。五幅不同的水景，没有固定的轮廓，只有颜色慢慢相遇。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_36187633.jpg",
+        "assets/artworks/commons/Commons_21856258.jpg",
+        "assets/artworks/commons/Commons_21894608.jpg",
+        "assets/artworks/commons/Commons_79058939.jpg",
+        "assets/artworks/commons/Commons_130729326.jpg"
+      ],
+      "schedule_at": "2026-11-24T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261112-group-33",
+        "run_id": "window-20261112",
+        "reserved_at": "2026-11-12T11:45:08.208928+08:00",
+        "planned_schedule_at": "2026-11-24T20:00:00+08:00"
+      }
     }
   ]
 }

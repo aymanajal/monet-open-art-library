@@ -11,10 +11,10 @@
     "downloaded": 1307
   },
   "new_status_counts": {
-    "candidate_ready": 826,
+    "candidate_ready": 799,
     "review_version": 91,
-    "approved": 20,
-    "review_near_duplicate": 118,
+    "approved": 45,
+    "review_near_duplicate": 120,
     "review_low_resolution": 79,
     "review_metadata": 19,
     "review_license": 154

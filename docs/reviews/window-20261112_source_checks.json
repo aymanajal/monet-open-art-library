@@ -1,0 +1,836 @@
+{
+  "checked_at": "2026-11-12T11:45:08.208928+08:00",
+  "run_id": "window-20261112",
+  "historical_file_count": 140,
+  "scope": "25 selected image versions, source creator/license and work/version checks; no current-museum location guarantee",
+  "images": [
+    {
+      "id": "Commons_5397786",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chrysanthemums_(Monet).JPG",
+      "source_revision_id": 1124518069,
+      "source_revision_timestamp": "2025-12-02T15:17:13Z",
+      "source_title": "Chrysanthemums",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "29.100.106",
+        "institution": "{{institution:Metropolitan Museum of Art}}",
+        "artist": "{{creator:Claude Monet}}",
+        "title": "{{en|1=Chrysanthemums}}"
+      },
+      "inventory_numbers": [
+        "29.100.106"
+      ],
+      "wikidata_ids": [
+        "Q19906243"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_155848",
+          "distance": 20
+        },
+        {
+          "id": "Commons_90512468",
+          "distance": 22
+        },
+        {
+          "id": "NGA_45872",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21990471",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_(French_-_Still_Life_with_Flowers_and_Fruit_-_Google_Art_Project.jpg",
+      "source_revision_id": 1256843412,
+      "source_revision_timestamp": "2026-08-05T07:29:09Z",
+      "source_title": "Still Life with Flowers and Fruit",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "title": "Still Life with Flowers and Fruit"
+      },
+      "inventory_numbers": [
+        "83.PA.215"
+      ],
+      "wikidata_ids": [
+        "Q20181919"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46658",
+          "distance": 20
+        },
+        {
+          "id": "AIC_14630",
+          "distance": 22
+        },
+        {
+          "id": "AIC_15826",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_139444907",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bouquet_de_gla%C3%AFeuls,_lis_et_marguerites,_044n09930-64y75.jpg",
+      "source_revision_id": 1293219811,
+      "source_revision_timestamp": "2026-10-29T17:46:11Z",
+      "source_title": "Bouquet de glaïeuls, lis et marguerites",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{institution:private collection}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{fr|Bouquet de glaïeuls, lis et marguerites}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q123171204"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_29920532",
+          "distance": 18
+        },
+        {
+          "id": "Commons_7296068",
+          "distance": 20
+        },
+        {
+          "id": "AIC_113092",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_155884",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_052.jpg",
+      "source_revision_id": 1118908412,
+      "source_revision_timestamp": "2025-11-20T13:20:38Z",
+      "source_title": "Bouquet of Sunflowers",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{Institution:Metropolitan Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{de|1= Stilleben mit Sonnenblumen}}"
+      },
+      "inventory_numbers": [
+        "29.100.107"
+      ],
+      "wikidata_ids": [
+        "Q19905274"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46655",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46656",
+          "distance": 20
+        },
+        {
+          "id": "NGA_93067",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_64729414",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vase_of_Flowers_Claude_Monet.jpg",
+      "source_revision_id": 838477858,
+      "source_revision_timestamp": "2024-01-04T12:19:31Z",
+      "source_title": "Vase of Flowers",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{:Institution:Courtauld Institute of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{en|1= Vase of Flowers}} {{fr|1= Vase de fleurs}}"
+      },
+      "inventory_numbers": [
+        "P.1932.SC.275"
+      ],
+      "wikidata_ids": [
+        "Q50818698"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_14598",
+          "distance": 18
+        },
+        {
+          "id": "Commons_55105249",
+          "distance": 18
+        },
+        {
+          "id": "Commons_57012077",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_23879223",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Palm_Trees_at_Bordighera.jpg",
+      "source_revision_id": 1126699726,
+      "source_revision_timestamp": "2025-12-06T16:33:40Z",
+      "source_title": "Palm Trees at Bordighera \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "67.187.87",
+        "institution": "{{Institution:Metropolitan Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "67.187.87"
+      ],
+      "wikidata_ids": [
+        "Q19912382"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_14624",
+          "distance": 22
+        },
+        {
+          "id": "Commons_151580852",
+          "distance": 22
+        },
+        {
+          "id": "Commons_81751002",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_16737531",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Fort_of_Antibes.jpg",
+      "source_revision_id": 1126700541,
+      "source_revision_timestamp": "2025-12-06T16:35:54Z",
+      "source_title": "The Fort of Antibes",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{institution:Museum of Fine Arts, Boston}}",
+        "artist": "{{creator:Claude Monet}}",
+        "title": "''The Fort of Antibes''"
+      },
+      "inventory_numbers": [
+        "27.1324"
+      ],
+      "wikidata_ids": [
+        "Q20538846"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_44779061",
+          "distance": 20
+        },
+        {
+          "id": "Commons_22009559",
+          "distance": 22
+        },
+        {
+          "id": "Commons_31697395",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21880400",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg",
+      "source_revision_id": 1030772751,
+      "source_revision_timestamp": "2025-05-11T14:26:53Z",
+      "source_title": "Villas at Bordighera \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}"
+      },
+      "inventory_numbers": [
+        "RF 2000 94"
+      ],
+      "wikidata_ids": [
+        "Q17493809"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46656",
+          "distance": 20
+        },
+        {
+          "id": "CMA_136510",
+          "distance": 22
+        },
+        {
+          "id": "AIC_113092",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "id": "Commons_60125697",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jardin_%C3%A0_Bordighera,_impression_de_matin_--_Claude_Monet,_1884,_Hermitage.jpg",
+      "source_revision_id": 1117272808,
+      "source_revision_timestamp": "2025-11-17T09:11:19Z",
+      "source_title": "Garden in Bordighera \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "ГЭ-10617"
+      ],
+      "wikidata_ids": [
+        "Q19869126"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_54675310",
+          "distance": 18
+        },
+        {
+          "id": "AIC_108583",
+          "distance": 20
+        },
+        {
+          "id": "AIC_59927",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_117020559",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MB-Mon-14_Monet_Strada-Romana-in-Bordighera.jpg",
+      "source_revision_id": 1107939912,
+      "source_revision_timestamp": "2025-11-02T13:23:02Z",
+      "source_title": "Strada Romana in Bordighera",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "MB-Mon-14"
+      ],
+      "wikidata_ids": [
+        "Q108479170"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_15418936",
+          "distance": 20
+        },
+        {
+          "id": "NGA_164942",
+          "distance": 20
+        },
+        {
+          "id": "Commons_12115716",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_6860814",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gondola_in_Venice_1908_Claude_Monet.jpg",
+      "source_revision_id": 1275330244,
+      "source_revision_timestamp": "2026-09-12T03:52:45Z",
+      "source_title": "Gondola in Venice",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{Institution:Musée des Beaux-Arts de Nantes}}",
+        "artist": "{{creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "2064"
+      ],
+      "wikidata_ids": [
+        "Q17627443"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_139615640",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46655",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20701",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_22490787",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Claude_-_The_Church_of_San_Giorgio_Maggiore,_Venice_-_Google_Art_Project.jpg",
+      "source_revision_id": 1161259756,
+      "source_revision_timestamp": "2026-02-07T18:02:55Z",
+      "source_title": "The Church of San Giorgio Maggiore, Venice",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{creator:Claude Monet}}"
+      },
+      "inventory_numbers": [
+        "70.76"
+      ],
+      "wikidata_ids": [
+        "Q27895791"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_16568",
+          "distance": 18
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 18
+        },
+        {
+          "id": "Commons_81086731",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_39569723",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_Palais_Ducal.jpg",
+      "source_revision_id": 1201396733,
+      "source_revision_timestamp": "2026-04-21T21:48:01Z",
+      "source_title": "German: Der Palazzo Ducale Le Palais Ducal \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "",
+        "artist": "{{creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "MB-Mon-32"
+      ],
+      "wikidata_ids": [
+        "Q139491263",
+        "Q48976445"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46657",
+          "distance": 20
+        },
+        {
+          "id": "NGA_52185",
+          "distance": 20
+        },
+        {
+          "id": "NGA_178254",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21924670",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Doges_Palace_(Le_Palais_ducal)_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126700510,
+      "source_revision_timestamp": "2025-12-06T16:35:50Z",
+      "source_title": "French: Le Palais ducal The Doges Palace (Le Palais ducal) \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}"
+      },
+      "inventory_numbers": [
+        "20.634"
+      ],
+      "wikidata_ids": [
+        "Q28796932"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_16584",
+          "distance": 18
+        },
+        {
+          "id": "NGA_61379",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20535",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_117016153",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MB-Mon-31_Monet_Der-Palazzo-Contarini.jpg",
+      "source_revision_id": 1060401586,
+      "source_revision_timestamp": "2025-07-22T08:33:01Z",
+      "source_title": "German: Der Palazzo Contarini Le Palais Contarini \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": ""
+      },
+      "inventory_numbers": [
+        "MB-Mon-31"
+      ],
+      "wikidata_ids": [
+        "Q114436175",
+        "Q66486301"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_45872",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16568",
+          "distance": 22
+        },
+        {
+          "id": "Commons_44779061",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_157527765",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1889_Monet_Grainstack_at_Giverny_Tel_Aviv_Museum_of_Art_anagoria.jpg",
+      "source_revision_id": 1059974311,
+      "source_revision_timestamp": "2025-07-21T09:38:11Z",
+      "source_title": "Grainstack at Giverny",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{Institution:Tel Aviv Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q49446122"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_4887",
+          "distance": 20
+        },
+        {
+          "id": "NGA_72138",
+          "distance": 20
+        },
+        {
+          "id": "AIC_111318",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_29674708",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Grainstack,_Sun_in_the_Mist_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126698146,
+      "source_revision_timestamp": "2025-12-06T16:29:33Z",
+      "source_title": "Grainstack, Sun in the Mist",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "93.20"
+      ],
+      "wikidata_ids": [
+        "Q20891432"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_16584",
+          "distance": 20
+        },
+        {
+          "id": "AIC_186315",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46658",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_185239051",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg",
+      "source_revision_id": 1178699379,
+      "source_revision_timestamp": "2026-03-10T03:39:19Z",
+      "source_title": "Grainstacks, in Bright Sunlight",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "",
+        "title": ""
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q84729388"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_186316",
+          "distance": 18
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 20
+        },
+        {
+          "id": "NGA_46654",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_79004036",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Haystack_in_the_Evening_Sun_-_G%C3%B6sta_Serlachius_Fine_Arts_foundation.jpg",
+      "source_revision_id": 1121329138,
+      "source_revision_timestamp": "2025-11-25T16:37:50Z",
+      "source_title": "Haystack in the Evening Sun",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "",
+        "artist": "",
+        "title": ""
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q63876550"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_111318",
+          "distance": 18
+        },
+        {
+          "id": "SLAM_7056",
+          "distance": 18
+        },
+        {
+          "id": "SLAM_1930",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_121572893",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Haystacks,_Snow_Effect_-_NG_2283_-_National_Galleries_of_Scotland.jpg",
+      "source_revision_id": 1126698176,
+      "source_revision_timestamp": "2025-12-06T16:29:38Z",
+      "source_title": "Haystacks: Snow Effect \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "NG 2283"
+      ],
+      "wikidata_ids": [
+        "Q18683354"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_44779061",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16568",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22140927",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_36187633",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27White_Water_Lilies%27_by_Claude_Monet,_1899,_Pushkin_Museum.JPG",
+      "source_revision_id": 1209362356,
+      "source_revision_timestamp": "2026-05-06T10:56:38Z",
+      "source_title": "White Water Lilies",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "Ж-3309"
+      ],
+      "wikidata_ids": [
+        "Q3877091"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_81539",
+          "distance": 20
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 20
+        },
+        {
+          "id": "AIC_4887",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21856258",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Blue_Water_Lilies_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126697506,
+      "source_revision_timestamp": "2025-12-06T16:27:48Z",
+      "source_title": "Nymphéas bleus",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "title": "Blue Water Lilies"
+      },
+      "inventory_numbers": [
+        "RF 1981 40"
+      ],
+      "wikidata_ids": [
+        "Q17494554"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_15818",
+          "distance": 16
+        },
+        {
+          "id": "Commons_29920532",
+          "distance": 20
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21894608",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_Bassin_des_Nympheas_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126698670,
+      "source_revision_timestamp": "2025-12-06T16:31:02Z",
+      "source_title": "Le Bassin des Nympheas",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "title": "Le Bassin des Nympheas"
+      },
+      "inventory_numbers": [
+        "1935.14"
+      ],
+      "wikidata_ids": [
+        "Q28776283"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_45872",
+          "distance": 20
+        },
+        {
+          "id": "SLAM_7822",
+          "distance": 20
+        },
+        {
+          "id": "AIC_81545",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_79058939",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Nymph%C3%A9as,_effet_du_soir_W1504_-_Mus%C3%A9e_Marmottan-Monet.jpg",
+      "source_revision_id": 931826573,
+      "source_revision_timestamp": "2024-10-03T01:09:27Z",
+      "source_title": "Nympheas, effect in the evening",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "5167"
+      ],
+      "wikidata_ids": [
+        "Q63952027"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_4887",
+          "distance": 18
+        },
+        {
+          "id": "AIC_111318",
+          "distance": 22
+        },
+        {
+          "id": "AIC_81537",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_130729326",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Nymph%C3%A9as_(1908).jpg",
+      "source_revision_id": 1111030070,
+      "source_revision_timestamp": "2025-11-08T05:52:10Z",
+      "source_title": "French: Nymphéas Water Lilies",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{Institution:Tokyo Fuji Art Museum}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{title|en=Water Lilies|ja=睡蓮|fr=Nymphéas}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q79889775"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_81751002",
+          "distance": 18
+        },
+        {
+          "id": "Commons_31697395",
+          "distance": 22
+        },
+        {
+          "id": "NGA_61379",
+          "distance": 22
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "Commons_81957669",
+      "reason": "2026-11-12逐图复核：与历史第18组大运河构图高度近似；索引条目和部分来源编号不同，尚不能认定同一作品。先保留并暂停自动排期，待核对目录版本。"
+    },
+    {
+      "id": "Commons_29092338",
+      "reason": "2026-11-12逐图复核：与历史第18组大运河构图高度近似；索引条目和部分来源编号不同，尚不能认定同一作品。先保留并暂停自动排期，待核对目录版本。"
+    }
+  ]
+}

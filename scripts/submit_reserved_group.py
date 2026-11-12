@@ -57,9 +57,22 @@ p.update(status=status,verification='工具明确返回发布成功（请求含�
 p['submission_attempt'].update(finished_at=datetime.now(TZ).isoformat(),outcome=status,response_sha256=digest,evidence=reason)
 if post_id:p['post_id']=post_id
 save('posts/schedule.json',data)
-check=load('posts/platform_check.json');check.update(checked_at=datetime.now(TZ).isoformat(),login_status='logged_in',
- new_uploads_this_run=sum(x['status']=='scheduled_success' and x.get('submission_attempt',{}).get('attempt_id','').startswith('window-20261101-') for x in data['posts']))
+run_id=p['submission_attempt'].get('run_id') or p['submission_attempt']['attempt_id'].split('-group-',1)[0]
+check=load('posts/platform_check.json');check.update(checked_on=datetime.now(TZ).date().isoformat(),checked_at=datetime.now(TZ).isoformat(),login_status='logged_in',run_id=run_id,
+ new_uploads_this_run=sum(x['status']=='scheduled_success' and (x.get('submission_attempt',{}).get('run_id') or x.get('submission_attempt',{}).get('attempt_id','').split('-group-',1)[0])==run_id for x in data['posts']))
 save('posts/platform_check.json',check)
+for plan_path in (ROOT/'posts/plans').glob('*.json'):
+ plan=json.loads(plan_path.read_text())
+ if plan.get('run_id')!=run_id:continue
+ states=[]
+ for group in plan['groups']:
+  current=next(x for x in data['posts'] if x['group']==group['group'])
+  group['status']=current['status'];states.append(current['status'])
+  if current.get('submission_attempt',{}).get('finished_at'):
+   group['submission_finished_at']=current['submission_attempt']['finished_at']
+   group['response_sha256']=current['submission_attempt'].get('response_sha256')
+ plan['state']='completed_scheduled' if all(s=='scheduled_success' for s in states) else ('requires_verification' if 'submission_unknown' in states else 'submission_in_progress')
+ plan_path.write_text(json.dumps(plan,ensure_ascii=False,indent=2)+'\n')
 run(sys.executable,'scripts/build_publication_ledger.py');run(sys.executable,'scripts/verify_library.py');run('git','diff','--check')
 run('git','add','posts','catalog/inventory.json','README.md')
 run('git','commit','--quiet','-m',f"Record scheduled submission outcome for group {args.group}: {status}")

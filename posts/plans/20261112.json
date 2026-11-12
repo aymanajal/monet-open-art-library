@@ -1,0 +1,88 @@
+{
+  "run_id": "window-20261112",
+  "timezone": "Asia/Shanghai",
+  "state": "reserved_not_uploaded",
+  "groups": [
+    {
+      "group": 29,
+      "schedule_at": "2026-11-16T20:00:00+08:00",
+      "title": "莫奈的花瓶｜把花留在光里",
+      "content": "菊花、向日葵和瓶中的花束，带着不同的颜色与姿态。莫奈的静物并不安静，花瓣和背景之间，光还在轻轻流动。",
+      "asset_ids": [
+        "Commons_5397786",
+        "Commons_21990471",
+        "Commons_139444907",
+        "Commons_155884",
+        "Commons_64729414"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 30,
+      "schedule_at": "2026-11-18T20:00:00+08:00",
+      "title": "莫奈的南方｜棕榈与晴光",
+      "content": "棕榈、花园、别墅和海边的城堡，让画面换上明亮的颜色。跟着莫奈看一组地中海风景，感受南方的阳光。",
+      "asset_ids": [
+        "Commons_23879223",
+        "Commons_16737531",
+        "Commons_21880400",
+        "Commons_60125697",
+        "Commons_117020559"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 31,
+      "schedule_at": "2026-11-20T20:00:00+08:00",
+      "title": "莫奈的威尼斯｜水上的城",
+      "content": "宫殿、教堂和停泊的贡多拉，在水面上留下柔软的倒影。晨光与水色，让莫奈笔下的城市轮廓变得轻盈。",
+      "asset_ids": [
+        "Commons_6860814",
+        "Commons_22490787",
+        "Commons_39569723",
+        "Commons_21924670",
+        "Commons_117016153"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 32,
+      "schedule_at": "2026-11-22T20:00:00+08:00",
+      "title": "莫奈的麦垛｜光的五种颜色",
+      "content": "麦垛是朴素的形状，晨雾、夕阳和积雪却让它不断变换颜色。把五幅作品放在一起，看光如何改变同一种风景。",
+      "asset_ids": [
+        "Commons_157527765",
+        "Commons_29674708",
+        "Commons_185239051",
+        "Commons_79004036",
+        "Commons_121572893"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 33,
+      "schedule_at": "2026-11-24T20:00:00+08:00",
+      "title": "莫奈的池塘｜睡莲与水色",
+      "content": "睡莲浮在水上，树影和天空落进池塘。五幅不同的水景，没有固定的轮廓，只有颜色慢慢相遇。",
+      "asset_ids": [
+        "Commons_36187633",
+        "Commons_21856258",
+        "Commons_21894608",
+        "Commons_79058939",
+        "Commons_130729326"
+      ],
+      "status": "submission_in_progress"
+    }
+  ],
+  "reviewed_at": "2026-11-12T11:45:08.208928+08:00",
+  "excluded_near_compositions": [
+    {
+      "id": "Commons_81957669",
+      "reason": "2026-11-12逐图复核：与历史第18组大运河构图高度近似；索引条目和部分来源编号不同，尚不能认定同一作品。先保留并暂停自动排期，待核对目录版本。"
+    },
+    {
+      "id": "Commons_29092338",
+      "reason": "2026-11-12逐图复核：与历史第18组大运河构图高度近似；索引条目和部分来源编号不同，尚不能认定同一作品。先保留并暂停自动排期，待核对目录版本。"
+    }
+  ]
+}
