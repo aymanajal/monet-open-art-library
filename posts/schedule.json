@@ -779,13 +779,19 @@
         "assets/artworks/commons/Commons_130729326.jpg"
       ],
       "schedule_at": "2026-11-24T20:00:00+08:00",
-      "status": "submission_in_progress",
-      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "status": "scheduled_success",
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布",
       "submission_attempt": {
         "attempt_id": "window-20261112-group-33",
         "run_id": "window-20261112",
         "reserved_at": "2026-11-12T11:45:08.208928+08:00",
-        "planned_schedule_at": "2026-11-24T20:00:00+08:00"
+        "planned_schedule_at": "2026-11-24T20:00:00+08:00",
+        "called_at": "2026-11-12T11:50:38.907525+08:00",
+        "reservation_commit": "47b090660be405ca00c030f490fe738a24866855",
+        "finished_at": "2026-11-12T11:51:32.500191+08:00",
+        "outcome": "scheduled_success",
+        "response_sha256": "94f6a06a3c5bfd3234af7f9da32e7ffdac6f8ad362fa508dc4242ad5b9f092b5",
+        "evidence": "publish_content returned explicit success for scheduled request"
       }
     }
   ]
