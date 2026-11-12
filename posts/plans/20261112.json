@@ -1,7 +1,7 @@
 {
   "run_id": "window-20261112",
   "timezone": "Asia/Shanghai",
-  "state": "reserved_not_uploaded",
+  "state": "submission_in_progress",
   "groups": [
     {
       "group": 29,
@@ -15,7 +15,9 @@
         "Commons_155884",
         "Commons_64729414"
       ],
-      "status": "submission_in_progress"
+      "status": "scheduled_success",
+      "submission_finished_at": "2026-11-12T11:47:12.667347+08:00",
+      "response_sha256": "22a7bbf4db4e1988f16225c732500c1be65849c81e3b4c1a4eea1ac868d13a11"
     },
     {
       "group": 30,
