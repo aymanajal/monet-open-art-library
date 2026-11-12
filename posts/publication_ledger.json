@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-12T11:47:12.712160+08:00",
+  "as_of": "2026-11-12T11:48:20.176232+08:00",
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-12",
-    "checked_at": "2026-11-12T11:47:12.668344+08:00",
+    "checked_at": "2026-11-12T11:48:20.125667+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "run_id": "window-20261112",
     "evidence": "check_login_status returned 已登录; get_my_profile returned 44 notes; planned five titles absent from returned public profile; scheduled/private list not covered",
-    "new_uploads_this_run": 1,
+    "new_uploads_this_run": 2,
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
@@ -18,15 +18,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 29,
+    "recorded_submitted_groups": 30,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 4,
+    "submission_in_progress_groups": 3,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 26,
-    "future_submitted_groups": 3,
-    "asset_files_with_submission_record": 145,
-    "asset_files_without_submission_record": 1311,
+    "future_submitted_groups": 4,
+    "asset_files_with_submission_record": 150,
+    "asset_files_without_submission_record": 1306,
     "provisional_full_groups": 158,
     "provisional_group_images": 790,
     "pool_leftovers": 14,
@@ -706,8 +706,8 @@
       "group": 30,
       "title": "莫奈的南方｜棕榈与晴光",
       "schedule_at": "2026-11-18T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_23879223",
@@ -723,7 +723,7 @@
         "assets/artworks/commons/Commons_60125697.jpg",
         "assets/artworks/commons/Commons_117020559.jpg"
       ],
-      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传"
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布"
     },
     {
       "group": 31,
@@ -11535,7 +11535,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Palm_Trees_at_Bordighera.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         30
       ],
@@ -12444,7 +12444,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Fort_of_Antibes.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         30
       ],
@@ -13122,7 +13122,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Villas_at_Bordighera_-_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         30
       ],
@@ -15277,7 +15277,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Jardin_%C3%A0_Bordighera,_impression_de_matin_--_Claude_Monet,_1884,_Hermitage.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         30
       ],
@@ -16007,7 +16007,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:MB-Mon-14_Monet_Strada-Romana-in-Bordighera.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         30
       ],
