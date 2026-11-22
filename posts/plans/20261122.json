@@ -2,7 +2,7 @@
   "run_id": "window-20261122",
   "timezone": "Asia/Shanghai",
   "cadence": "weekdays_daily",
-  "state": "reserved_not_uploaded",
+  "state": "submission_in_progress",
   "platform_precheck_evidence": "check_login_status returned 已登录; public profile returned 48 notes; creator manager confirmed only two existing scheduled notes. Group32 was updated in place to Monday Nov23 with same post ID; group33 remains Tuesday Nov24. New eight titles are not in observed lists.",
   "groups": [
     {
@@ -17,7 +17,9 @@
         "Commons_30676817",
         "Commons_44758348"
       ],
-      "status": "submission_in_progress"
+      "status": "scheduled_success",
+      "submission_finished_at": "2026-11-22T10:40:10.815499+08:00",
+      "response_sha256": "8366dcbbbac8243e72d0da7cbd253588f0fe51085b3336f030f3356bfe8870e2"
     },
     {
       "group": 35,

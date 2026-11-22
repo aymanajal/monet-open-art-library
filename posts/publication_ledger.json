@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-22T10:38:44.990722+08:00",
+  "as_of": "2026-11-22T10:40:10.860670+08:00",
   "cadence": {
     "mode": "weekdays_daily",
     "weekdays": [
@@ -21,12 +21,12 @@
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-22",
-    "checked_at": "2026-11-22T10:38:44.102525+08:00",
+    "checked_at": "2026-11-22T10:40:10.816441+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "run_id": "window-20261122",
     "evidence": "check_login_status returned 已登录; public profile returned 48 notes; creator manager confirmed only two existing scheduled notes. Group32 was updated in place to Monday Nov23 with same post ID; group33 remains Tuesday Nov24. New eight titles are not in observed lists.",
-    "new_uploads_this_run": 0,
+    "new_uploads_this_run": 1,
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
@@ -34,15 +34,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 33,
+    "recorded_submitted_groups": 34,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 8,
+    "submission_in_progress_groups": 7,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 31,
-    "future_submitted_groups": 2,
-    "asset_files_with_submission_record": 165,
-    "asset_files_without_submission_record": 1291,
+    "future_submitted_groups": 3,
+    "asset_files_with_submission_record": 170,
+    "asset_files_without_submission_record": 1286,
     "provisional_full_groups": 150,
     "provisional_group_images": 750,
     "pool_leftovers": 14,
@@ -814,8 +814,8 @@
       "group": 34,
       "title": "莫奈的车站｜蒸汽中的巴黎",
       "schedule_at": "2026-11-25T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_3960308",
@@ -831,7 +831,7 @@
         "assets/artworks/commons/Commons_30676817.jpg",
         "assets/artworks/commons/Commons_44758348.jpg"
       ],
-      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传"
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布"
     },
     {
       "group": 35,
@@ -11977,7 +11977,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Saint-Lazare_Station,_the_Western_Region_Goods_Sheds.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         34
       ],
@@ -12459,7 +12459,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Gare_Saint-Lazare;_Arrival_of_a_Train_-_1877.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         34
       ],
@@ -12998,7 +12998,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Train_Tracks_at_the_Saint-Lazare_Station.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         34
       ],
@@ -14457,7 +14457,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Gare_St-Lazare,_1877.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         34
       ],
@@ -15444,7 +15444,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         34
       ],
