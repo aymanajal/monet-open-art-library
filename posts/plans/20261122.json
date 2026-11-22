@@ -65,7 +65,9 @@
         "Commons_107360648",
         "Commons_80381223"
       ],
-      "status": "submission_in_progress"
+      "status": "scheduled_success",
+      "submission_finished_at": "2026-11-22T10:43:14.528118+08:00",
+      "response_sha256": "a20a5e29e3de26f7009985590733f16e30042ed536938735b6754d5feea6eb4b"
     },
     {
       "group": 38,
