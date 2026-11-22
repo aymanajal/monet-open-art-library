@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-22T10:43:14.574150+08:00",
+  "as_of": "2026-11-22T10:44:16.561921+08:00",
   "cadence": {
     "mode": "weekdays_daily",
     "weekdays": [
@@ -21,12 +21,12 @@
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-22",
-    "checked_at": "2026-11-22T10:43:14.529374+08:00",
+    "checked_at": "2026-11-22T10:44:16.516956+08:00",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "run_id": "window-20261122",
     "evidence": "check_login_status returned 已登录; public profile returned 48 notes; creator manager confirmed only two existing scheduled notes. Group32 was updated in place to Monday Nov23 with same post ID; group33 remains Tuesday Nov24. New eight titles are not in observed lists.",
-    "new_uploads_this_run": 4,
+    "new_uploads_this_run": 5,
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
@@ -34,15 +34,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 37,
+    "recorded_submitted_groups": 38,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 4,
+    "submission_in_progress_groups": 3,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 31,
-    "future_submitted_groups": 6,
-    "asset_files_with_submission_record": 185,
-    "asset_files_without_submission_record": 1271,
+    "future_submitted_groups": 7,
+    "asset_files_with_submission_record": 190,
+    "asset_files_without_submission_record": 1266,
     "provisional_full_groups": 150,
     "provisional_group_images": 750,
     "pool_leftovers": 14,
@@ -906,8 +906,8 @@
       "group": 38,
       "title": "莫奈的花田｜草地上的红",
       "schedule_at": "2026-12-01T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_1868619",
@@ -923,7 +923,7 @@
         "assets/artworks/commons/Commons_12777205.jpg",
         "assets/artworks/commons/Commons_7280089.jpg"
       ],
-      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传"
+      "verification": "工具明确返回发布成功（请求含定时时间）；不等同于已核验到期发布"
     },
     {
       "group": 39,
@@ -10114,7 +10114,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_L%27%C3%A9t%C3%A9_-_Champ_de_coquelicots.JPG",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         38
       ],
@@ -11709,7 +11709,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         38
       ],
@@ -11724,7 +11724,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project_(430231).jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         38
       ],
@@ -20636,7 +20636,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Champ_d%27avoine_aux_coquelicots_(_Mus%C3%A9e_d%27art_moderne_et_contemporain,_Strasbourg_).JPG",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         38
       ],
@@ -20768,7 +20768,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Claude_-_Poppy_Field.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         38
       ],
