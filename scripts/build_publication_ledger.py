@@ -4,6 +4,7 @@ from collections import Counter,defaultdict
 from datetime import datetime,timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from schedule_cadence import next_slot,cadence_label
 
 ROOT=Path(__file__).resolve().parents[1]
 TZ=ZoneInfo('Asia/Shanghai')
@@ -24,7 +25,7 @@ def safe(s):return str(s).replace('|',' / ').replace('\n',' ')
 
 def build(as_of=None):
  now=as_of or datetime.now(TZ)
- rows=load('catalog/artworks.json');schedule=load('posts/schedule.json');posts=schedule['posts']
+ rows=load('catalog/artworks.json');schedule=load('posts/schedule.json');posts=schedule['posts'];cadence=schedule.get('cadence',{})
  byfile={e['file']:e for e in rows};used=defaultdict(list)
  for p in posts:
   for f in p['images']:used[f].append(p)
@@ -47,9 +48,9 @@ def build(as_of=None):
   if e['file'] not in used and e['status'] in ['approved','candidate_ready']:
    pool[theme(e)].append(e)
  # These dates are capacity placeholders, NEVER actual platform reservations.
- anchor=max(datetime.fromisoformat(p['schedule_at']) for p in posts)+timedelta(days=2)
+ anchor=next_slot(max(datetime.fromisoformat(p['schedule_at']) for p in posts),cadence)
  minimum=now.replace(hour=20,minute=0,second=0,microsecond=0)+timedelta(days=1)
- while anchor<minimum:anchor+=timedelta(days=2)
+ while anchor<minimum:anchor=next_slot(anchor,cadence)
  groups=[];remainders=[];slot=anchor
  for t,es in pool.items():
   es.sort(key=lambda e:(e.get('date',''),e['id']))
@@ -61,7 +62,7 @@ def build(as_of=None):
    groups.append(dict(id=ident,theme=t,provisional_at=slot.isoformat(),status='blocked_review_not_uploaded',
       title_suggestion='莫奈｜'+t,content=None,asset_ids=[e['id'] for e in batch],images=[e['file'] for e in batch],
       needs=['逐图核对作者、作品身份和来源','与全部历史组核对馆藏编号、裁切及不同版本','人工确认五张主题与视觉风格一致','完成短文案并复核署名','确认未在平台手动上传','重新计算实际可提交日期']))
-   slot+=timedelta(days=2)
+   slot=next_slot(slot,cadence)
  assets=[]
  pending_map={ident:g['id'] for g in groups for ident in g['asset_ids']}
  for e in rows:
@@ -89,7 +90,7 @@ def build(as_of=None):
    pool_leftovers=len(remainders),review_or_license_hold_images=sum(not e['recorded_groups'] and not e['provisional_group'] and e['id'] not in remainders for e in assets),
    provisional_first=groups[0]['provisional_at'] if groups else None,provisional_last=groups[-1]['provisional_at'] if groups else None)
  platform_check=load('posts/platform_check.json')
- data=dict(schema_version=1,timezone='Asia/Shanghai',as_of=now.isoformat(),
+ data=dict(schema_version=1,timezone='Asia/Shanghai',as_of=now.isoformat(),cadence=cadence,
    caveat='上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。',
    platform_check=platform_check,
    summary=summary,recorded_posts=history,provisional_batches=groups,partial_pool_ids=remainders,assets=assets)
@@ -102,7 +103,7 @@ def build(as_of=None):
   f"- 已占用待提交/提交中：{summary['submission_in_progress_groups']}组；结果不明：{summary['submission_unknown_groups']}组。两类均禁止在其他电脑重传。",
   f"- 无提交成功记录：{summary['asset_files_without_submission_record']}张（含备稿、候选和复核区）。",
   f"- 按主题预分：{len(groups)}个五图组 / {summary['provisional_group_images']}张；另{len(remainders)}张待补同主题成组，{summary['review_or_license_hold_images']}张暂缓复核。",
-  f"- 若预分组全部通过核验且连续每两天20:00发一组，占位可延续至 **{summary['provisional_last']}**；这不是平台已经排好的日期。",'',
+  f"- 当前节奏：{cadence_label(cadence)}，每组5张。若预分组全部通过核验，占位可延续至 **{summary['provisional_last']}**；这不是平台已经排好的日期。",'',
   '[换电脑操作说明](换电脑继续.md) · [逐图上传状态](逐图上传状态.md) · [机器可读总账](publication_ledger.json)','',
   '## 已有分组：提交记录与备稿','', '| 组 | 标题 | 北京时间 | 上传记录 | 五张素材 |','|---|---|---|---|---|']
  for h in history:
@@ -121,7 +122,7 @@ def build(as_of=None):
  inventory=load('catalog/inventory.json')
  inventory.update(scheduled_groups=summary['recorded_submitted_groups'],prepared_groups=summary['prepared_not_submitted_groups'],submission_in_progress_groups=summary['submission_in_progress_groups'],submission_unknown_groups=summary['submission_unknown_groups'])
  save('catalog/inventory.json',inventory)
- captions=['# 排期与发布文案','','每两天北京时间20:00，每组5张。scheduled_success只表示工具对含定时时间的提交返回成功，不表示已核验到期发布。']
+ captions=['# 排期与发布文案','',cadence_label(cadence)+'，每组5张；历史组保留当时实际计划。scheduled_success只表示提交返回成功，不表示已核验到期发布。']
  for p in posts:
   captions.extend(['',f"## 第{p['group']}组：{p['title']}",'',f"计划时间：{p['schedule_at']}；状态：{p['status']}",'',p['content'],''])
   captions.extend(f"- [{byfile[f]['id']}](../{f})" for f in p['images'])
@@ -132,6 +133,7 @@ def build(as_of=None):
 
 从[发布总表](posts/发布总表.md)继续：[逐图上传状态](posts/逐图上传状态.md) · [换电脑操作说明](posts/换电脑继续.md) · [完整总账](posts/publication_ledger.json)。
 
+- 当前发布节奏：{cadence_label(cadence)}，每组5张；以schedule.json的cadence字段为准。
 - 平台提交成功记录：{summary['recorded_submitted_groups']}组，最近计划时间{latest}；其中{summary['historical_due_unverified_groups']}组已到期但尚未核验实际发布。
 - 未提交备稿{summary['prepared_not_submitted_groups']}组；已占用/提交中{summary['submission_in_progress_groups']}组；结果不明{summary['submission_unknown_groups']}组。禁止重传已有成功记录和结果不明的组。
 - 最近检查登录状态：{platform_check['login_status']}；本轮新增成功提交{platform_check['new_uploads_this_run']}组。提交不等于到期发布。
@@ -154,13 +156,14 @@ def build(as_of=None):
  handoff_path=ROOT/'posts/换电脑继续.md'
  handoff=handoff_path.read_text()
  final_planned=max(datetime.fromisoformat(p['schedule_at']) for p in posts)
- next_slot=(final_planned+timedelta(days=2)).isoformat()
+ next_slot_text=next_slot(final_planned,cadence).isoformat()
  block=f'''<!--CURRENT-PUBLISHING-STATUS-->
 ## 最新接续状态（{now.date()}核对）
 
 - 正式分组{len(posts)}组；明确提交成功{summary['recorded_submitted_groups']}组，最新成功记录计划时间：{latest}。
 - 备稿{summary['prepared_not_submitted_groups']}组、提交中{summary['submission_in_progress_groups']}组、结果不明{summary['submission_unknown_groups']}组。非成功组先核对，禁止盲目重传。
-- 正式计划最后时间：{final_planned.isoformat()}；之后下一空档为{next_slot}，仍须满足当时的平台窗口与素材核验要求。
+- 当前节奏：{cadence_label(cadence)}，每组5张。
+- 正式计划最后时间：{final_planned.isoformat()}；之后下一空档为{next_slot_text}，仍须满足当时的平台窗口与素材核验要求。
 - 登录快照：{platform_check['checked_on']} / {platform_check['login_status']}；换电脑必须重新确认登录。全部状态以[发布总表](发布总表.md)和schedule.json为准。
 
 <!--END-CURRENT-PUBLISHING-STATUS-->

@@ -6,6 +6,7 @@ import argparse,json
 from datetime import datetime,timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from schedule_cadence import next_slot
 
 ROOT=Path(__file__).resolve().parents[1]
 parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--plan',required=True);parser.add_argument('--visual-review-confirmed',action='store_true');args=parser.parse_args()
@@ -22,7 +23,7 @@ previous=max(datetime.fromisoformat(p['schedule_at']) for p in posts)
 for g in plan['groups']:
  when=datetime.fromisoformat(g['schedule_at'])
  assert now+timedelta(hours=1)<=when<=now+timedelta(days=14),g['schedule_at']
- assert when-previous==timedelta(days=2) and when.hour==20 and when.minute==0
+ assert when==next_slot(previous,schedule.get('cadence',{})) and when.hour==20 and when.minute==0
  previous=when;images=[]
  assert len(g['asset_ids'])==5 and len(g['title'])<=20
  for ident in g['asset_ids']:
@@ -49,7 +50,7 @@ if run_id=='window-20261112':
 save('catalog/artworks.json',rows);save('posts/schedule.json',schedule)
 plan['state']='reserved_not_uploaded';plan['reviewed_at']=stamp;plan['excluded_near_compositions']=excluded
 plan_path.write_text(json.dumps(plan,ensure_ascii=False,indent=2)+'\n')
-save('posts/platform_check.json',dict(checked_on=str(now.date()),checked_at=stamp,timezone='Asia/Shanghai',login_status='logged_in',run_id=run_id,evidence='check_login_status returned 已登录; get_my_profile returned 44 notes; planned five titles absent from returned public profile; scheduled/private list not covered',new_uploads_this_run=0,actual_publication_checked=False,tool_version='v2.5.0',schedule_min_hours=1,schedule_max_days=14))
+save('posts/platform_check.json',dict(checked_on=str(now.date()),checked_at=stamp,timezone='Asia/Shanghai',login_status='logged_in',run_id=run_id,evidence=plan.get('platform_precheck_evidence','check_login_status returned 已登录; planned titles checked against returned public profile; scheduled/private list not covered'),new_uploads_this_run=0,actual_publication_checked=False,tool_version='v2.5.0',schedule_min_hours=1,schedule_max_days=14))
 (ROOT/'docs/reviews').mkdir(exist_ok=True)
-save('docs/reviews/'+run_id+'_source_checks.json',dict(checked_at=stamp,run_id=run_id,historical_file_count=proof['historical_file_count'],scope='25 selected image versions, source creator/license and work/version checks; no current-museum location guarantee',images=proof['images'],excluded=excluded))
+save('docs/reviews/'+run_id+'_source_checks.json',dict(checked_at=stamp,run_id=run_id,historical_file_count=proof['historical_file_count'],scope=f"{len(proof['images'])} selected image versions, source creator/license and work/version checks; no current-museum location guarantee",images=proof['images'],excluded=excluded))
 print('Reviewed and reserved',len(plan['groups']),'groups; no uploads performed. Commit/push before submitting.')

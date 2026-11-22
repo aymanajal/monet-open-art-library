@@ -1,5 +1,6 @@
 """Verify asset hashes, catalog links and schedule references using the standard library."""
 import csv,hashlib,json
+from schedule_cadence import next_slot
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -60,7 +61,8 @@ if ledger_path.exists():
         assert len(batch['images'])==5 and len(batch['asset_ids'])==5
         when=datetime.fromisoformat(batch['provisional_at'])
         assert when.hour==20 and when.minute==0 and when.utcoffset()==timedelta(hours=8)
-        if previous:assert when-previous==timedelta(days=2)
+        if ledger.get('cadence',{}).get('mode')=='weekdays_daily':assert when.weekday()<5
+        if previous:assert when==next_slot(previous,ledger.get('cadence',{}))
         previous=when
         for ident,f in zip(batch['asset_ids'],batch['images']):
             assert byid[ident]['file']==f and f not in allocated,(batch['id'],ident)
