@@ -779,7 +779,15 @@
           "operation": "edit_existing_not_reupload",
           "evidence": "Creator update page showed 更新成功; independently reopened management list showed exactly one matching card, same post ID, 定时发布 2026-11-23 20:00; pool group33 still 2026-11-24 20:00"
         }
-      ]
+      ],
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
+      }
     },
     {
       "group": 33,
@@ -811,6 +819,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "94f6a06a3c5bfd3234af7f9da32e7ffdac6f8ad362fa508dc4242ad5b9f092b5",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -843,6 +859,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "8366dcbbbac8243e72d0da7cbd253588f0fe51085b3336f030f3356bfe8870e2",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -875,6 +899,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "f7e6f0f12c952993289c4100ab134a34f944182637353355525d499319995f27",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -907,6 +939,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "d6162886ce202690b2cf01b5544103c19385e7b2ce1a95d4ab2fbab9af0741bd",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -939,6 +979,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "a20a5e29e3de26f7009985590733f16e30042ed536938735b6754d5feea6eb4b",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -971,6 +1019,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "b126e893da02f5df5019bc83da8bc2475b2fb5c96f76daa6420bff2e4fdca49b",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -1003,6 +1059,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "bdc8dbb80c5dcfb7e5684c0b0f358191a4b553e09f42c20864998e84b60be90a",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "not_marked_under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -1035,6 +1099,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "613dd489a11458c539830daadb34a3e9d5718d22a932e56af9924ecad1d855c9",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     },
     {
@@ -1067,6 +1139,14 @@
         "outcome": "scheduled_success",
         "response_sha256": "756f453380e83cbc45fb65cb2cdfff762560e79a77f68950748cf3e1e29bb06c",
         "evidence": "publish_content returned explicit success for scheduled request"
+      },
+      "platform_schedule_verification": {
+        "checked_at": "2026-11-22T02:47:33.188Z",
+        "scheduled_time_matches": true,
+        "matching_title_cards": 1,
+        "platform_review_state": "under_review",
+        "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+        "actual_publication_verified": false
       }
     }
   ],

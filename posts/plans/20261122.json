@@ -135,5 +135,21 @@
     }
   ],
   "reviewed_at": "2026-11-22T10:38:44.102525+08:00",
-  "excluded_near_compositions": []
+  "excluded_near_compositions": [],
+  "platform_list_verification": {
+    "checked_at": "2026-11-22T02:47:33.188Z",
+    "all_saved_times_match": true,
+    "groups": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json",
+    "actual_publication_verified": false
+  }
 }

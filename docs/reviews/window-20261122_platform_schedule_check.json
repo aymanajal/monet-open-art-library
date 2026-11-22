@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-11-22T02:47:33.188Z",
+  "cards_loaded": 20,
+  "checks": [
+    {
+      "group": 32,
+      "title": "莫奈的麦垛｜光的五种颜色",
+      "expected": "2026-11-23 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的麦垛｜光的五种颜色\n定时发布\n2026-11-23 20:00"
+    },
+    {
+      "group": 33,
+      "title": "莫奈的池塘｜睡莲与水色",
+      "expected": "2026-11-24 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的池塘｜睡莲与水色\n定时发布\n2026-11-24 20:00"
+    },
+    {
+      "group": 34,
+      "title": "莫奈的车站｜蒸汽中的巴黎",
+      "expected": "2026-11-25 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的车站｜蒸汽中的巴黎\n定时发布\n2026-11-25 20:00"
+    },
+    {
+      "group": 35,
+      "title": "莫奈的荷兰｜风车与水岸",
+      "expected": "2026-11-26 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的荷兰｜风车与水岸\n定时发布\n2026-11-26 20:00"
+    },
+    {
+      "group": 36,
+      "title": "莫奈的伦敦｜雾里的颜色",
+      "expected": "2026-11-27 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的伦敦｜雾里的颜色\n定时发布\n2026-11-27 20:00"
+    },
+    {
+      "group": 37,
+      "title": "莫奈的花径｜走进颜色里",
+      "expected": "2026-11-30 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的花径｜走进颜色里\n定时发布\n2026-11-30 20:00"
+    },
+    {
+      "group": 38,
+      "title": "莫奈的花田｜草地上的红",
+      "expected": "2026-12-01 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的花田｜草地上的红\n定时发布\n2026-12-01 20:00"
+    },
+    {
+      "group": 39,
+      "title": "莫奈的衣裙｜人物与光",
+      "expected": "2026-12-02 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "莫奈的衣裙｜人物与光\n定时发布\n2026-12-02 20:00"
+    },
+    {
+      "group": 40,
+      "title": "莫奈的白帆｜水上的风",
+      "expected": "2026-12-03 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "审核中\n莫奈的白帆｜水上的风\n定时发布\n2026-12-03 20:00"
+    },
+    {
+      "group": 41,
+      "title": "莫奈的岸边｜沙滩与海光",
+      "expected": "2026-12-04 20:00",
+      "matching_cards": 1,
+      "verified": true,
+      "platform_text": "审核中\n莫奈的岸边｜沙滩与海光\n定时发布\n2026-12-04 20:00"
+    }
+  ],
+  "scope": "Creator note-manager visible scheduled list; title and saved time verified; not proof of publication after due date",
+  "timezone": "Asia/Shanghai",
+  "run_id": "window-20261122",
+  "actual_publication_verified": false
+}

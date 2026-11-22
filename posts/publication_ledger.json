@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-22T10:47:20.445139+08:00",
+  "as_of": "2026-11-22T10:47:56.738461+08:00",
   "cadence": {
     "mode": "weekdays_daily",
     "weekdays": [
@@ -21,7 +21,7 @@
   "caveat": "上传状态仅基于主库记录；未联网核验实际发布，也不能排除其他客户端手动上传。预分组日期仅为容量占位，不是实际排期承诺。",
   "platform_check": {
     "checked_on": "2026-11-22",
-    "checked_at": "2026-11-22T10:47:20.398900+08:00",
+    "checked_at": "2026-11-22T02:47:33.188Z",
     "timezone": "Asia/Shanghai",
     "login_status": "logged_in",
     "run_id": "window-20261122",
@@ -30,7 +30,21 @@
     "actual_publication_checked": false,
     "tool_version": "v2.5.0",
     "schedule_min_hours": 1,
-    "schedule_max_days": 14
+    "schedule_max_days": 14,
+    "scheduled_list_checked": true,
+    "confirmed_future_groups": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "schedule_evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json"
   },
   "summary": {
     "asset_files": 1456,
