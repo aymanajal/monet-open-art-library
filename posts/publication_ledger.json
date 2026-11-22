@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "as_of": "2026-11-22T10:30:30.062775+08:00",
+  "as_of": "2026-11-22T10:33:47.896125+08:00",
   "cadence": {
     "mode": "weekdays_daily",
     "weekdays": [
@@ -34,15 +34,15 @@
   },
   "summary": {
     "asset_files": 1456,
-    "recorded_submitted_groups": 32,
+    "recorded_submitted_groups": 33,
     "publication_verified_groups": 0,
     "prepared_not_submitted_groups": 0,
-    "submission_in_progress_groups": 1,
+    "submission_in_progress_groups": 0,
     "submission_unknown_groups": 0,
     "historical_due_unverified_groups": 31,
-    "future_submitted_groups": 1,
-    "asset_files_with_submission_record": 160,
-    "asset_files_without_submission_record": 1296,
+    "future_submitted_groups": 2,
+    "asset_files_with_submission_record": 165,
+    "asset_files_without_submission_record": 1291,
     "provisional_full_groups": 158,
     "provisional_group_images": 790,
     "pool_leftovers": 14,
@@ -767,9 +767,9 @@
     {
       "group": 32,
       "title": "莫奈的麦垛｜光的五种颜色",
-      "schedule_at": "2026-11-22T20:00:00+08:00",
-      "record_status": "submission_in_progress",
-      "upload_state": "提交处理中_禁止重传",
+      "schedule_at": "2026-11-23T20:00:00+08:00",
+      "record_status": "scheduled_success",
+      "upload_state": "已提交_未来排期",
       "publication_verified": false,
       "asset_ids": [
         "Commons_157527765",
@@ -785,7 +785,7 @@
         "assets/artworks/commons/Commons_79004036.jpg",
         "assets/artworks/commons/Commons_121572893.jpg"
       ],
-      "verification": "已在主库占用改期：将周日笔记移到周一；不是重传，等待平台保存与列表复核"
+      "verification": "平台更新成功，并重新打开定时列表确认同一笔记已改至2026-11-23 20:00；不是重传，也不等于到期发布核验"
     },
     {
       "group": 33,
@@ -8073,7 +8073,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:1889_Monet_Grainstack_at_Giverny_Tel_Aviv_Museum_of_Art_anagoria.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         32
       ],
@@ -9761,7 +9761,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Grainstack,_Sun_in_the_Mist_-_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         32
       ],
@@ -9776,7 +9776,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Grainstacks_in_Bright_Sunlight_(1890)_Google_Art_Project.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         32
       ],
@@ -9804,7 +9804,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Haystack_in_the_Evening_Sun_-_G%C3%B6sta_Serlachius_Fine_Arts_foundation.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         32
       ],
@@ -9819,7 +9819,7 @@
       "rights": "Public domain",
       "review_status": "approved",
       "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Haystacks,_Snow_Effect_-_NG_2283_-_National_Galleries_of_Scotland.jpg",
-      "upload_state": "提交处理中_禁止重传",
+      "upload_state": "已提交_未来排期",
       "recorded_groups": [
         32
       ],

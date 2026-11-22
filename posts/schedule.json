@@ -746,9 +746,9 @@
         "assets/artworks/commons/Commons_79004036.jpg",
         "assets/artworks/commons/Commons_121572893.jpg"
       ],
-      "schedule_at": "2026-11-22T20:00:00+08:00",
-      "status": "submission_in_progress",
-      "verification": "已在主库占用改期：将周日笔记移到周一；不是重传，等待平台保存与列表复核",
+      "schedule_at": "2026-11-23T20:00:00+08:00",
+      "status": "scheduled_success",
+      "verification": "平台更新成功，并重新打开定时列表确认同一笔记已改至2026-11-23 20:00；不是重传，也不等于到期发布核验",
       "submission_attempt": {
         "attempt_id": "window-20261112-group-32",
         "run_id": "window-20261112",
@@ -763,12 +763,23 @@
       },
       "post_id": "6af53784000000002b03349e",
       "reschedule_attempt": {
-        "status": "in_progress",
+        "status": "scheduled_success",
         "started_at": "2026-11-22T10:30:29.920645+08:00",
         "old_schedule_at": "2026-11-22T20:00:00+08:00",
         "new_schedule_at": "2026-11-23T20:00:00+08:00",
-        "evidence": "Creator note-management DOM shows exact title, post ID and pending 2026-11-22 20:00"
-      }
+        "evidence": "Creator update page showed 更新成功; independently reopened management list showed exactly one matching card, same post ID, 定时发布 2026-11-23 20:00; pool group33 still 2026-11-24 20:00",
+        "finished_at": "2026-11-22T10:33:47.735498+08:00"
+      },
+      "reschedule_history": [
+        {
+          "old_schedule_at": "2026-11-22T20:00:00+08:00",
+          "new_schedule_at": "2026-11-23T20:00:00+08:00",
+          "checked_at": "2026-11-22T10:33:47.735498+08:00",
+          "post_id": "6af53784000000002b03349e",
+          "operation": "edit_existing_not_reupload",
+          "evidence": "Creator update page showed 更新成功; independently reopened management list showed exactly one matching card, same post ID, 定时发布 2026-11-23 20:00; pool group33 still 2026-11-24 20:00"
+        }
+      ]
     },
     {
       "group": 33,
