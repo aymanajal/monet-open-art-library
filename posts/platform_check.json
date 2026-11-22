@@ -1,11 +1,11 @@
 {
   "checked_on": "2026-11-22",
-  "checked_at": "2026-11-22T10:44:16.516956+08:00",
+  "checked_at": "2026-11-22T10:45:18.427894+08:00",
   "timezone": "Asia/Shanghai",
   "login_status": "logged_in",
   "run_id": "window-20261122",
   "evidence": "check_login_status returned 已登录; public profile returned 48 notes; creator manager confirmed only two existing scheduled notes. Group32 was updated in place to Monday Nov23 with same post ID; group33 remains Tuesday Nov24. New eight titles are not in observed lists.",
-  "new_uploads_this_run": 5,
+  "new_uploads_this_run": 6,
   "actual_publication_checked": false,
   "tool_version": "v2.5.0",
   "schedule_min_hours": 1,
