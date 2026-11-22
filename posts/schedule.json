@@ -812,6 +812,214 @@
         "response_sha256": "94f6a06a3c5bfd3234af7f9da32e7ffdac6f8ad362fa508dc4242ad5b9f092b5",
         "evidence": "publish_content returned explicit success for scheduled request"
       }
+    },
+    {
+      "group": 34,
+      "title": "莫奈的车站｜蒸汽中的巴黎",
+      "content": "铁轨、棚顶和列车，被蒸汽与光连接起来。看这五幅圣拉扎尔车站，城市的忙碌也有了流动的颜色。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_3960308.jpg",
+        "assets/artworks/commons/Commons_117416219.jpg",
+        "assets/artworks/commons/Commons_5791927.jpg",
+        "assets/artworks/commons/Commons_30676817.jpg",
+        "assets/artworks/commons/Commons_44758348.jpg"
+      ],
+      "schedule_at": "2026-11-25T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-34",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-11-25T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 35,
+      "title": "莫奈的荷兰｜风车与水岸",
+      "content": "风车、木屋和停泊的船，沿着水岸慢慢展开。莫奈笔下的荷兰小镇，藏着天空与倒影之间安静的日常。\n\n图片来源：Wikimedia Commons；公共领域及 CC0 开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_23876119.jpg",
+        "assets/artworks/commons/Commons_18843520.jpg",
+        "assets/artworks/commons/Commons_57395705.jpg",
+        "assets/artworks/commons/Commons_106018412.jpg",
+        "assets/artworks/commons/Commons_7175900.jpg"
+      ],
+      "schedule_at": "2026-11-26T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-35",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-11-26T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 36,
+      "title": "莫奈的伦敦｜雾里的颜色",
+      "content": "桥梁与远处的建筑，在雾气里失去坚硬的轮廓。蓝、紫和微暖的光，让五幅伦敦风景各有自己的情绪。\n\n图片来源：Wikimedia Commons；公共领域及 CC0 开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_44575297.jpg",
+        "assets/artworks/commons/Commons_189209657.jpg",
+        "assets/artworks/commons/Commons_68238936.jpg",
+        "assets/artworks/commons/Commons_113330414.jpg",
+        "assets/artworks/commons/Commons_105270166.jpg"
+      ],
+      "schedule_at": "2026-11-27T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-36",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-11-27T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 37,
+      "title": "莫奈的花径｜走进颜色里",
+      "content": "花丛、树影和花园深处的房屋，在光里慢慢变成一片颜色。五幅花园风景，一起沿着花径走一走。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_21897502.jpg",
+        "assets/artworks/commons/Commons_80548151.jpg",
+        "assets/artworks/commons/Commons_7170275.jpg",
+        "assets/artworks/commons/Commons_107360648.jpg",
+        "assets/artworks/commons/Commons_80381223.jpg"
+      ],
+      "schedule_at": "2026-11-30T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-37",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-11-30T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 38,
+      "title": "莫奈的花田｜草地上的红",
+      "content": "红色花点散在草地里，远处的树与天空轻轻接住它们。五幅罂粟花田，把明亮的风景留在笔触之间。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_1868619.jpg",
+        "assets/artworks/commons/Commons_21856167.jpg",
+        "assets/artworks/commons/Commons_22136032.jpg",
+        "assets/artworks/commons/Commons_12777205.jpg",
+        "assets/artworks/commons/Commons_7280089.jpg"
+      ],
+      "schedule_at": "2026-12-01T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-38",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-12-01T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 39,
+      "title": "莫奈的衣裙｜人物与光",
+      "content": "有人坐在海边，有人走进花园。衣裙、草木与天空之间，莫奈把人的身影融进了光。五幅人物画，慢慢看。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_68950889.jpg",
+        "assets/artworks/commons/Commons_2326984.jpg",
+        "assets/artworks/commons/Commons_23878728.jpg",
+        "assets/artworks/commons/Commons_148531043.jpg",
+        "assets/artworks/commons/Commons_148530226.jpg"
+      ],
+      "schedule_at": "2026-12-02T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-39",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-12-02T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 40,
+      "title": "莫奈的白帆｜水上的风",
+      "content": "白帆展开，水面把天空的颜色轻轻打散。停泊与竞渡之间，莫奈用五幅画留住了风经过的样子。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_26537734.jpg",
+        "assets/artworks/commons/Commons_21880421.jpg",
+        "assets/artworks/commons/Commons_81706967.jpg",
+        "assets/artworks/commons/Commons_30333861.jpg",
+        "assets/artworks/commons/Commons_37911822.jpg"
+      ],
+      "schedule_at": "2026-12-03T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-40",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-12-03T20:00:00+08:00"
+      }
+    },
+    {
+      "group": 41,
+      "title": "莫奈的岸边｜沙滩与海光",
+      "content": "岸边的人、停泊的船和云下的海，让风景有了生活的节奏。看这五幅海边作品，留意浪花与天空不同的蓝灰。\n\n图片来源：Wikimedia Commons；公共领域开放图像。",
+      "tags": [
+        "莫奈",
+        "印象派",
+        "艺术分享"
+      ],
+      "images": [
+        "assets/artworks/commons/Commons_37858095.jpg",
+        "assets/artworks/commons/Commons_201303862.jpg",
+        "assets/artworks/commons/Commons_68931667.jpg",
+        "assets/artworks/commons/Commons_45589856.jpg",
+        "assets/artworks/commons/Commons_130727246.jpg"
+      ],
+      "schedule_at": "2026-12-04T20:00:00+08:00",
+      "status": "submission_in_progress",
+      "verification": "已复核并在主库占用本组；尚未上传，其他电脑禁止重传",
+      "submission_attempt": {
+        "attempt_id": "window-20261122-group-41",
+        "run_id": "window-20261122",
+        "reserved_at": "2026-11-22T10:38:44.102525+08:00",
+        "planned_schedule_at": "2026-12-04T20:00:00+08:00"
+      }
     }
   ],
   "cadence": {

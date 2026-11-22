@@ -1,0 +1,1316 @@
+{
+  "checked_at": "2026-11-22T10:38:44.102525+08:00",
+  "run_id": "window-20261122",
+  "historical_file_count": 165,
+  "scope": "40 selected image versions, source creator/license and work/version checks; no current-museum location guarantee",
+  "images": [
+    {
+      "id": "Commons_3960308",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Saint-Lazare_Station,_the_Western_Region_Goods_Sheds.jpg",
+      "source_revision_id": 1126700196,
+      "source_revision_timestamp": "2025-12-06T16:34:52Z",
+      "source_title": "Saint-Lazare Station, the Western Region Goods Sheds",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{private collection}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{title|en=Saint-Lazare Station, the Western Region Goods Sheds}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q50007932"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_7377095",
+          "distance": 16
+        },
+        {
+          "id": "Commons_22009552",
+          "distance": 18
+        },
+        {
+          "id": "NGA_61378",
+          "distance": 18
+        }
+      ]
+    },
+    {
+      "id": "Commons_117416219",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Gare_Saint-Lazare;_Arrival_of_a_Train_-_1877.jpg",
+      "source_revision_id": 1126700575,
+      "source_revision_timestamp": "2025-12-06T16:35:59Z",
+      "source_title": "Claude Monet - The Gare Saint-Lazare; Arrival of a Train - 1877",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "1951.53"
+      ],
+      "wikidata_ids": [
+        "Q49985258"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_22009559",
+          "distance": 16
+        },
+        {
+          "id": "NGA_61376",
+          "distance": 18
+        },
+        {
+          "id": "AIC_16579",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_5791927",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Train_Tracks_at_the_Saint-Lazare_Station.jpg",
+      "source_revision_id": 1172843510,
+      "source_revision_timestamp": "2026-02-27T15:13:19Z",
+      "source_title": "Train Tracks at the Saint-Lazare Station",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{Institution:Pola Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{title|en=Train Tracks at the Saint-Lazare Station|fr=Les Voies à la sortie de la gare Saint-Lazare}}"
+      },
+      "inventory_numbers": [
+        "016-0036"
+      ],
+      "wikidata_ids": [
+        "Q47618043"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_84635551",
+          "distance": 16
+        },
+        {
+          "id": "Commons_22490787",
+          "distance": 18
+        },
+        {
+          "id": "Commons_21990471",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_30676817",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Gare_St-Lazare,_1877.jpg",
+      "source_revision_id": 1201107981,
+      "source_revision_timestamp": "2026-04-21T09:39:23Z",
+      "source_title": "The Gare St-Lazare",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "NG6479",
+        "institution": "{{Institution:National Gallery, London}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "The Gare St-Lazare"
+      },
+      "inventory_numbers": [
+        "NG6479"
+      ],
+      "wikidata_ids": [
+        "Q24953827"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_7169557",
+          "distance": 20
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 22
+        },
+        {
+          "id": "Commons_21864201",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_44758348",
+      "source_url": "https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
+      "source_revision_id": 983301416,
+      "source_revision_timestamp": "2025-01-14T13:02:54Z",
+      "source_title": "La Gare Saint-Lazare",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{Institution:Musée d'Orsay}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "La Gare Saint-Lazare"
+      },
+      "inventory_numbers": [
+        "RF 2775"
+      ],
+      "wikidata_ids": [
+        "Q2270028",
+        "Q49985736"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_79058939",
+          "distance": 16
+        },
+        {
+          "id": "AIC_111318",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20545",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_23876119",
+      "source_url": "https://commons.wikimedia.org/wiki/File:CLAUDE_MONET_1840_-_1926_UN_MOULIN_%C3%80_ZAANDAM.jpg",
+      "source_revision_id": 1257316418,
+      "source_revision_timestamp": "2026-08-06T08:35:10Z",
+      "source_title": "UN MOULIN À ZAANDAM",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{creator:Claude Monet}}",
+        "title": "{{fr|1= UN MOULIN À ZAANDAM}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q50766817"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_79297441",
+          "distance": 18
+        },
+        {
+          "id": "NGA_46524",
+          "distance": 20
+        },
+        {
+          "id": "NGA_52188",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_18843520",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Windmills_Near_Zaandam_-_Walters_37894.jpg",
+      "source_revision_id": 1257316412,
+      "source_revision_timestamp": "2026-08-06T08:35:08Z",
+      "source_title": "Windmills Near Zaandam",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "37.894",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "''Windmills Near Zaandam''"
+      },
+      "inventory_numbers": [
+        "37.894"
+      ],
+      "wikidata_ids": [
+        "Q18748447"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_4783",
+          "distance": 22
+        },
+        {
+          "id": "AIC_81537",
+          "distance": 22
+        },
+        {
+          "id": "Commons_141151696",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_57395705",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Houses_on_the_Achterzaan_MET_DT719.jpg",
+      "source_revision_id": 1304092788,
+      "source_revision_timestamp": "2026-11-21T04:02:58Z",
+      "source_title": "Houses on the Achterzaan",
+      "source_artist": "Claude Monet",
+      "license": "CC0",
+      "source_fields": {
+        "accession number": "1975.1.196",
+        "institution": "{{Institution:Metropolitan Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "Houses on the Achterzaan"
+      },
+      "inventory_numbers": [
+        "1975.1.196"
+      ],
+      "wikidata_ids": [
+        "Q20180920"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_186315",
+          "distance": 20
+        },
+        {
+          "id": "CMA_125234",
+          "distance": 22
+        },
+        {
+          "id": "Commons_29674708",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_106018412",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MB-Mon-01_Monet_Der-Hafen-von-Zaandam_1.jpg",
+      "source_revision_id": 1295122665,
+      "source_revision_timestamp": "2026-11-02T14:13:41Z",
+      "source_title": "German: Der Hafen von Zaandam The Port of Zaandam \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "MB-Mon-01"
+      ],
+      "wikidata_ids": [
+        "Q108479161"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_14630",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20535",
+          "distance": 20
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_7175900",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Das_blaue_Haus_in_Zaandam.jpg",
+      "source_revision_id": 1257316419,
+      "source_revision_timestamp": "2026-08-06T08:35:10Z",
+      "source_title": "The blue house in Zaandam",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{title"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q50772899"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_15800",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20545",
+          "distance": 20
+        },
+        {
+          "id": "AIC_14620",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_44575297",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1902_Monet_Die_Waterloo-Br%C3%BCcke_anagoria.JPG",
+      "source_revision_id": 1180452665,
+      "source_revision_timestamp": "2026-03-13T17:40:00Z",
+      "source_title": "Waterloo-Bridge",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{Institution:Hamburger Kunsthalle}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "HK-1305"
+      ],
+      "wikidata_ids": [
+        "Q50699803"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_46658",
+          "distance": 14
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 18
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 18
+        }
+      ]
+    },
+    {
+      "id": "Commons_189209657",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Pont_Charing_Cross_-_Charing_Cross_Bridge_-_207385.jpeg",
+      "source_revision_id": 1200646232,
+      "source_revision_timestamp": "2026-04-20T11:14:14Z",
+      "source_title": "Charing Cross Bridge",
+      "source_artist": "Claude Monet",
+      "license": "CC0",
+      "source_fields": {
+        "accession number": "NMW A 2483",
+        "institution": "{{Institution:Amgueddfa Cymru}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{title|cy=Pont Charing Cross|en=Charing Cross Bridge}}"
+      },
+      "inventory_numbers": [
+        "NMW A 2483"
+      ],
+      "wikidata_ids": [
+        "Q67197624"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_15809",
+          "distance": 20
+        },
+        {
+          "id": "Commons_22009552",
+          "distance": 20
+        },
+        {
+          "id": "Commons_130728880",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_68238936",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Charing_Cross_Bridge,_Reflections_on_the_Thames.jpg",
+      "source_revision_id": 1182536455,
+      "source_revision_timestamp": "2026-03-17T10:08:04Z",
+      "source_title": "Charing Cross Bridge, Reflections on the Thames",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{Institution:Baltimore Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "Charing Cross Bridge, Reflections on the Thames"
+      },
+      "inventory_numbers": [
+        "1945.94"
+      ],
+      "wikidata_ids": [
+        "Q67188271"
+      ],
+      "nearest_historical": [
+        {
+          "id": "CMA_130391",
+          "distance": 22
+        },
+        {
+          "id": "Commons_79327189",
+          "distance": 22
+        },
+        {
+          "id": "Commons_90512468",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_113330414",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Charing_Cross_Bridge_(W1554)_-_Marmottan-Monet.jpg",
+      "source_revision_id": 1126697840,
+      "source_revision_timestamp": "2025-12-06T16:28:43Z",
+      "source_title": "Claude Monet - Charing Cross Bridge (W1554) - Marmottan-Monet",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "",
+        "artist": "",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "5101"
+      ],
+      "wikidata_ids": [
+        "Q105099601"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_1169962",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22490787",
+          "distance": 22
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_105270166",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Houses_of_Parliament,_Seagulls_-_y1979-54_-_Princeton_University_Art_Museum.jpg",
+      "source_revision_id": 1126700592,
+      "source_revision_timestamp": "2025-12-06T16:36:01Z",
+      "source_title": "The Houses of Parliament, Seagulls \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "y1979-54"
+      ],
+      "wikidata_ids": [
+        "Q106767908"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_15803",
+          "distance": 22
+        },
+        {
+          "id": "CMA_135382",
+          "distance": 22
+        },
+        {
+          "id": "Commons_139444907",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21897502",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Peony_Garden_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126699739,
+      "source_revision_timestamp": "2025-12-06T16:33:42Z",
+      "source_title": "Peony Garden \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}"
+      },
+      "inventory_numbers": [
+        "P.1959-0153"
+      ],
+      "wikidata_ids": [
+        "Q19123690"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_16542",
+          "distance": 18
+        },
+        {
+          "id": "Commons_79327189",
+          "distance": 18
+        },
+        {
+          "id": "AIC_111318",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_80548151",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Artist%E2%80%99s_Garden_in_Giverny_-_1983.7.12_-_Yale_University_Art_Gallery.jpg",
+      "source_revision_id": 1193227313,
+      "source_revision_timestamp": "2026-04-07T13:28:29Z",
+      "source_title": "The Artist’s Garden in Giverny \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "1983.7.12"
+      ],
+      "wikidata_ids": [
+        "Q49222037"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_15809",
+          "distance": 20
+        },
+        {
+          "id": "CMA_135382",
+          "distance": 20
+        },
+        {
+          "id": "Commons_121572893",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_7170275",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Monets_Garten_in_Giverny.jpg",
+      "source_revision_id": 1057028588,
+      "source_revision_timestamp": "2025-07-13T21:12:13Z",
+      "source_title": "French: Le jardin de l'artiste à Giverny The artist's garden at Giverny",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "RF 1983 6",
+        "institution": "{{institution:Musée d'Orsay}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{Title|1=Le jardin de l'artiste à Giverny|lang=fr|de=Des Künstlers Garten in Giverny|en=The artist's garden at Giverny|es=El jardín del artista en Giverny|nl=De tuin van de kunstenaar in Giverny}}"
+      },
+      "inventory_numbers": [
+        "RF 1983 6"
+      ],
+      "wikidata_ids": [
+        "Q3794124"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_45872",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16568",
+          "distance": 22
+        },
+        {
+          "id": "AIC_81537",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "id": "Commons_107360648",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Rosenstraeucher_im_Garten_von_Montgeron.jpg",
+      "source_revision_id": 1295123249,
+      "source_revision_timestamp": "2026-11-02T14:15:05Z",
+      "source_title": "German: Die Rosensträucher im Garten von Montgeron The Rose Bushes in the Garden at Montgeron \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": ""
+      },
+      "inventory_numbers": [
+        "MB-Mon-06"
+      ],
+      "wikidata_ids": [
+        "Q106906333"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_15818",
+          "distance": 18
+        },
+        {
+          "id": "NGA_61378",
+          "distance": 18
+        },
+        {
+          "id": "AIC_15803",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_80381223",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Artist%27s_House_Seen_from_the_Rose_Garden_by_Claude_Monet_5086.JPG",
+      "source_revision_id": 1192662105,
+      "source_revision_timestamp": "2026-04-06T15:50:01Z",
+      "source_title": "The Artist's House Seen from the Rose Garden by Claude Monet 5086",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "",
+        "artist": "",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "5086"
+      ],
+      "wikidata_ids": [
+        "Q105099589"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_22140927",
+          "distance": 20
+        },
+        {
+          "id": "AIC_64818",
+          "distance": 22
+        },
+        {
+          "id": "CMA_135382",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_1868619",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_L%27%C3%A9t%C3%A9_-_Champ_de_coquelicots.JPG",
+      "source_revision_id": 1207770541,
+      "source_revision_timestamp": "2026-05-03T14:33:23Z",
+      "source_title": "L'été. Champ de coquelicots",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{fr|1=''L'été. Champ de coquelicots''}} {{de|1=''Sommer. Klatschmohnfeld''}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q50768368"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_12115716",
+          "distance": 18
+        },
+        {
+          "id": "AIC_100191",
+          "distance": 22
+        },
+        {
+          "id": "AIC_15826",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21856167",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project.jpg",
+      "source_revision_id": 1257327829,
+      "source_revision_timestamp": "2026-08-06T09:11:45Z",
+      "source_title": "Wild Poppies Near Argenteuil \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}"
+      },
+      "inventory_numbers": [
+        "RF 1676"
+      ],
+      "wikidata_ids": [
+        "Q3231771"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_59927",
+          "distance": 20
+        },
+        {
+          "id": "Commons_12115716",
+          "distance": 20
+        },
+        {
+          "id": "AIC_100191",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_22136032",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project_(430231).jpg",
+      "source_revision_id": 1126699848,
+      "source_revision_timestamp": "2025-12-06T16:34:00Z",
+      "source_title": "Champ de coquelicots",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "title": "Poppy Field"
+      },
+      "inventory_numbers": [
+        "2611 (MK)"
+      ],
+      "wikidata_ids": [
+        "Q19926059"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_79058939",
+          "distance": 20
+        },
+        {
+          "id": "Commons_12115716",
+          "distance": 22
+        },
+        {
+          "id": "Commons_55105249",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_12777205",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Champ_d%27avoine_aux_coquelicots_(_Mus%C3%A9e_d%27art_moderne_et_contemporain,_Strasbourg_).JPG",
+      "source_revision_id": 1070300078,
+      "source_revision_timestamp": "2025-08-11T17:52:13Z",
+      "source_title": "French: Champ d'avoine aux coquelicots Champ d'avoine aux coquelicots",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{Institution:Musée d'art moderne et contemporain de Strasbourg}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{title|lang=fr|1=Champ d'avoine aux coquelicots}}"
+      },
+      "inventory_numbers": [
+        "55.974.0.683"
+      ],
+      "wikidata_ids": [
+        "Q47510174"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_52186",
+          "distance": 18
+        },
+        {
+          "id": "Commons_7186206",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16554",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_7280089",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Claude_-_Poppy_Field.jpg",
+      "source_revision_id": 1275986173,
+      "source_revision_timestamp": "2026-09-13T15:52:25Z",
+      "source_title": "Poppy Field",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{en|1=Poppy Field}}"
+      },
+      "inventory_numbers": [
+        "ГЭ-9004"
+      ],
+      "wikidata_ids": [
+        "Q19869038"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_2327127",
+          "distance": 18
+        },
+        {
+          "id": "AIC_16554",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22140698",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_68950889",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Camille_assise_sur_la_plage_%C3%A0_Trouville.JPG",
+      "source_revision_id": 1111343483,
+      "source_revision_timestamp": "2025-11-08T17:40:01Z",
+      "source_title": "French: Camille assise sur la plage à Trouville",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{creator:Claude Monet}}",
+        "title": "{{title|lang=fr|1=Camille assise sur la plage à Trouville}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q135935468"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_121572893",
+          "distance": 20
+        },
+        {
+          "id": "AIC_81540",
+          "distance": 22
+        },
+        {
+          "id": "CMA_125234",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_2326984",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille.JPG",
+      "source_revision_id": 1256835524,
+      "source_revision_timestamp": "2026-08-05T07:00:44Z",
+      "source_title": "Camille \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "",
+        "artist": "",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "298-1906/1"
+      ],
+      "wikidata_ids": [
+        "Q829572"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_103139",
+          "distance": 22
+        },
+        {
+          "id": "Commons_139615640",
+          "distance": 22
+        },
+        {
+          "id": "Commons_155878",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_23878728",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille_Monet_in_the_Garden_at_Argenteuil.jpg",
+      "source_revision_id": 1216683489,
+      "source_revision_timestamp": "2026-05-19T10:28:26Z",
+      "source_title": "Camille Monet in the Garden at Argenteuil",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "2000.93.1",
+        "institution": "{{Institution:Metropolitan Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{en|1=''Camille Monet in the Garden at Argenteuil''}}"
+      },
+      "inventory_numbers": [
+        "2000.93.1"
+      ],
+      "wikidata_ids": [
+        "Q19905436"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_7169557",
+          "distance": 18
+        },
+        {
+          "id": "AIC_16542",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16554",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_148531043",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Femme_%C3%A0_l%27ombrelle_tourn%C3%A9e_vers_la_droite_-_Claude_Monnet_-_Mus%C3%A9e_d%27Orsay_RF_2620.jpg",
+      "source_revision_id": 1251095556,
+      "source_revision_timestamp": "2026-07-23T22:06:03Z",
+      "source_title": "French: Essai de figure en plein air Femme à l'ombrelle tournée vers la droite \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "RF 2620"
+      ],
+      "wikidata_ids": [
+        "Q2385427"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_79058939",
+          "distance": 20
+        },
+        {
+          "id": "Commons_155848",
+          "distance": 22
+        },
+        {
+          "id": "Commons_21864201",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_148530226",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Femme_%C3%A0_l%27ombrelle_tourn%C3%A9e_vers_la_gauche_-_Claude_Monnet_-_Mus%C3%A9e_d%27Orsay_RF_2621.jpg",
+      "source_revision_id": 1139092598,
+      "source_revision_timestamp": "2025-12-30T12:00:55Z",
+      "source_title": "French: la femme a l'ombrelle Woman with a Parasol, facing left \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "RF 2621"
+      ],
+      "wikidata_ids": [
+        "Q1451508"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_117016153",
+          "distance": 20
+        },
+        {
+          "id": "Commons_141151696",
+          "distance": 20
+        },
+        {
+          "id": "Commons_506301",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "id": "Commons_26537734",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Boats_Moored_at_Le_Petit-Gennevilliers,_1874.jpg",
+      "source_revision_id": 1269360057,
+      "source_revision_timestamp": "2026-08-29T17:04:58Z",
+      "source_title": "French: Bateaux sur la Seine à Gennevilliers Sailboats on the Seine at Petit-Gennevilliers \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "1962.23",
+        "institution": "{{Institution:Fine Arts Museums of San Francisco}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "1962.23"
+      ],
+      "wikidata_ids": [
+        "Q19868618"
+      ],
+      "nearest_historical": [
+        {
+          "id": "CMA_130391",
+          "distance": 16
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 20
+        },
+        {
+          "id": "AIC_186316",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_21880421",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
+      "source_revision_id": 1257326805,
+      "source_revision_timestamp": "2026-08-06T09:08:11Z",
+      "source_title": "Regattas at Argenteuil \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{Creator:Claude Monet}}"
+      },
+      "inventory_numbers": [
+        "RF 2778"
+      ],
+      "wikidata_ids": [
+        "Q3454959"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_61375",
+          "distance": 18
+        },
+        {
+          "id": "Commons_139615640",
+          "distance": 20
+        },
+        {
+          "id": "Commons_16737531",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_81706967",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voilier_au_Petit-Gennevilliers.jpg",
+      "source_revision_id": 1126701094,
+      "source_revision_timestamp": "2025-12-06T16:37:30Z",
+      "source_title": "sailing boat in Petit-Gennevilliers",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q66821486"
+      ],
+      "nearest_historical": [
+        {
+          "id": "CMA_95272",
+          "distance": 20
+        },
+        {
+          "id": "AIC_87088",
+          "distance": 22
+        },
+        {
+          "id": "Commons_157527765",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_30333861",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_1867,_Regatta_at_Sainte-Adresse,_Metropolitan_Museum_of_Art.jpg",
+      "source_revision_id": 1281958773,
+      "source_revision_timestamp": "2026-09-30T19:57:05Z",
+      "source_title": "Regatta at Sainte-Adresse \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "institution": "{{institution:Metropolitan Museum of Art}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "51.30.4"
+      ],
+      "wikidata_ids": [
+        "Q734082"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_16737531",
+          "distance": 22
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 24
+        },
+        {
+          "id": "CMA_130391",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "id": "Commons_37911822",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet-ArgenteuilBasinWithASingleSailboat.jpg",
+      "source_revision_id": 1147252355,
+      "source_revision_timestamp": "2026-01-13T16:10:16Z",
+      "source_title": "Argenteuil Basin with a Single Sailboat \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "NGI.852"
+      ],
+      "wikidata_ids": [
+        "Q19570879"
+      ],
+      "nearest_historical": [
+        {
+          "id": "AIC_64818",
+          "distance": 22
+        },
+        {
+          "id": "Commons_155878",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22140698",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_37858095",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_Honfleur%27_by_Claude_Monet,_LACMA.jpg",
+      "source_revision_id": 1276565585,
+      "source_revision_timestamp": "2026-09-14T18:22:29Z",
+      "source_title": "The Beach at Honfleur",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "64.4"
+      ],
+      "wikidata_ids": [
+        "Q20881340"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_7186206",
+          "distance": 20
+        },
+        {
+          "id": "NGA_61374",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16571",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_201303862",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Beach_at_Trouville.jpg",
+      "source_revision_id": 1284678480,
+      "source_revision_timestamp": "2026-10-08T17:39:41Z",
+      "source_title": "The Beach at Trouville \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {},
+      "inventory_numbers": [
+        "NG3951"
+      ],
+      "wikidata_ids": [
+        "Q24953806"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_39569723",
+          "distance": 18
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 22
+        },
+        {
+          "id": "AIC_16544",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_68931667",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bord_de_mer_%C3%A0_Sainte-Adresse.jpg",
+      "source_revision_id": 1256839973,
+      "source_revision_timestamp": "2026-08-05T07:15:37Z",
+      "source_title": "French: Bord de mer à Sainte-Adresse",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "artist": "{{creator:Claude Monet}}",
+        "title": "{{title|lang=fr|1=Bord de mer à Sainte-Adresse}}"
+      },
+      "inventory_numbers": [],
+      "wikidata_ids": [
+        "Q134436365"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_155845",
+          "distance": 20
+        },
+        {
+          "id": "Commons_36198971",
+          "distance": 20
+        },
+        {
+          "id": "AIC_15800",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_45589856",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Seashore_at_Sainte-Adresse_-_53.13_-_Minneapolis_Institute_of_Arts.jpg",
+      "source_revision_id": 1256832954,
+      "source_revision_timestamp": "2026-08-05T06:50:18Z",
+      "source_title": "The Seashore at Sainte-Adresse",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "53.13",
+        "institution": "{{Institution:Minneapolis Institute of Arts}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": "{{en|1=The Seashore at Sainte-Adresse }}"
+      },
+      "inventory_numbers": [
+        "53.13"
+      ],
+      "wikidata_ids": [
+        "Q20890806"
+      ],
+      "nearest_historical": [
+        {
+          "id": "NGA_61375",
+          "distance": 20
+        },
+        {
+          "id": "AIC_14598",
+          "distance": 22
+        },
+        {
+          "id": "Commons_141151696",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "id": "Commons_130727246",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bateau_couch%C3%A9_%C3%A0_mar%C3%A9e_basse_(1881).jpg",
+      "source_revision_id": 1080182418,
+      "source_revision_timestamp": "2025-09-03T03:26:51Z",
+      "source_title": "French: Bateau couché à marée basse Boat Lying at Low Tide \" \"",
+      "source_artist": "Claude Monet",
+      "license": "Public domain",
+      "source_fields": {
+        "accession number": "",
+        "institution": "{{Institution:Tokyo Fuji Art Museum}}",
+        "artist": "{{Creator:Claude Monet}}",
+        "title": ""
+      },
+      "inventory_numbers": [
+        "1261"
+      ],
+      "wikidata_ids": [
+        "Q79889777"
+      ],
+      "nearest_historical": [
+        {
+          "id": "Commons_117020559",
+          "distance": 20
+        },
+        {
+          "id": "Commons_29920532",
+          "distance": 20
+        },
+        {
+          "id": "Commons_7296068",
+          "distance": 20
+        }
+      ]
+    }
+  ],
+  "excluded": []
+}

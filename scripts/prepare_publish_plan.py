@@ -35,7 +35,8 @@ for g in plan['groups']:
     historical_comparison=f"SHA-256 and full/cropped pHash against {proof['historical_file_count']} historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
     nearest_historical=source['nearest_historical'],visual_theme_review='Inspected whole group; no new cropping, frames, or colour grading applied',group=g['group'])
   e['groups']=sorted(set(e.get('groups',[])+[g['group']]));used.add(e['file']);images.append(e['file'])
- content=g['content']+'\n\n图片来源：Wikimedia Commons；公共领域开放图像。'
+ rights='公共领域及 CC0 开放图像' if any(byproof[i]['license']=='CC0' for i in g['asset_ids']) else '公共领域开放图像'
+ content=g['content']+'\n\n图片来源：Wikimedia Commons；'+rights+'。'
  assert len(content)<=1000
  posts.append(dict(group=g['group'],title=g['title'],content=content,tags=['莫奈','印象派','艺术分享'],images=images,schedule_at=g['schedule_at'],status='submission_in_progress',verification='已复核并在主库占用本组；尚未上传，其他电脑禁止重传',submission_attempt=dict(attempt_id=run_id+'-group-'+str(g['group']),run_id=run_id,reserved_at=stamp,planned_schedule_at=g['schedule_at'])))
  g['status']='submission_in_progress'

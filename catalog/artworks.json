@@ -4764,8 +4764,8 @@
     "museum": "Index collections (not verified current location): Los Angeles County Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_Honfleur%27_by_Claude_Monet,_LACMA.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_37858095.jpg",
     "sha256": "f97fd2cc5c61c53d856f8e18379da53830295147971c9201f0673d0b13e341d2",
     "width": 1280,
@@ -4774,7 +4774,9 @@
     "wikidata_ids": [
       "Q20881340"
     ],
-    "groups": [],
+    "groups": [
+      41
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -4792,6 +4794,38 @@
         "Los Angeles County Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27The_Beach_at_Honfleur%27_by_Claude_Monet,_LACMA.jpg",
+      "source_revision_id": 1276565585,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q20881340"
+      ],
+      "inventory_numbers": [
+        "64.4"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_7186206",
+          "distance": 20
+        },
+        {
+          "id": "NGA_61374",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16571",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 41
     }
   },
   {
@@ -5345,8 +5379,8 @@
     "museum": "Index collections (not verified current location): Hamburger Kunsthalle",
     "source_url": "https://commons.wikimedia.org/wiki/File:1902_Monet_Die_Waterloo-Br%C3%BCcke_anagoria.JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_44575297.jpg",
     "sha256": "430b702a8f411d991c5dd11813cc8058aafd7e7d6e9be11eee798eb156c6f9b2",
     "width": 1280,
@@ -5355,7 +5389,9 @@
     "wikidata_ids": [
       "Q50699803"
     ],
-    "groups": [],
+    "groups": [
+      36
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -5373,6 +5409,38 @@
         "Hamburger Kunsthalle"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1902_Monet_Die_Waterloo-Br%C3%BCcke_anagoria.JPG",
+      "source_revision_id": 1180452665,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q50699803"
+      ],
+      "inventory_numbers": [
+        "HK-1305"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "NGA_46658",
+          "distance": 14
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 18
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 18
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 36
     }
   },
   {
@@ -5810,8 +5878,8 @@
     "museum": "Index collections (not verified current location): Amgueddfa Cymru – Museum Wales",
     "source_url": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Pont_Charing_Cross_-_Charing_Cross_Bridge_-_207385.jpeg",
     "rights": "CC0",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_189209657.jpg",
     "sha256": "5c82f18478b8090b4f025cc075e82888dde276473c7ac057f2ebc639741c0d71",
     "width": 1280,
@@ -5820,7 +5888,9 @@
     "wikidata_ids": [
       "Q67197624"
     ],
-    "groups": [],
+    "groups": [
+      36
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -5838,6 +5908,38 @@
         "Amgueddfa Cymru – Museum Wales"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Pont_Charing_Cross_-_Charing_Cross_Bridge_-_207385.jpeg",
+      "source_revision_id": 1200646232,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "CC0",
+      "wikidata_ids": [
+        "Q67197624"
+      ],
+      "inventory_numbers": [
+        "NMW A 2483"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_15809",
+          "distance": 20
+        },
+        {
+          "id": "Commons_22009552",
+          "distance": 20
+        },
+        {
+          "id": "Commons_130728880",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 36
     }
   },
   {
@@ -6441,8 +6543,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Bord_de_mer_%C3%A0_Sainte-Adresse.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_68931667.jpg",
     "sha256": "04a4a4767eec956f43f16e3a5e92ae73f1cdeb2ef6d7d327b33a2a6bf844ad32",
     "width": 1280,
@@ -6451,7 +6553,9 @@
     "wikidata_ids": [
       "Q134436365"
     ],
-    "groups": [],
+    "groups": [
+      41
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -6463,6 +6567,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bord_de_mer_%C3%A0_Sainte-Adresse.jpg",
+      "source_revision_id": 1256839973,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q134436365"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_155845",
+          "distance": 20
+        },
+        {
+          "id": "Commons_36198971",
+          "distance": 20
+        },
+        {
+          "id": "AIC_15800",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 41
     }
   },
   {
@@ -6867,8 +7001,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:CLAUDE_MONET_1840_-_1926_UN_MOULIN_%C3%80_ZAANDAM.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_23876119.jpg",
     "sha256": "ca0222d88ee54c94f4d740151e7eb763b072fa0da496dcf663cecc8b773a2681",
     "width": 1280,
@@ -6877,7 +7011,9 @@
     "wikidata_ids": [
       "Q50766817"
     ],
-    "groups": [],
+    "groups": [
+      35
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -6889,6 +7025,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:CLAUDE_MONET_1840_-_1926_UN_MOULIN_%C3%80_ZAANDAM.jpg",
+      "source_revision_id": 1257316418,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q50766817"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_79297441",
+          "distance": 18
+        },
+        {
+          "id": "NGA_46524",
+          "distance": 20
+        },
+        {
+          "id": "NGA_52188",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 35
     }
   },
   {
@@ -6935,8 +7101,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Camille_assise_sur_la_plage_%C3%A0_Trouville.JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_68950889.jpg",
     "sha256": "0349c2b93ccf020f2038dc431943e2e66bf2f33dfb0c8285b365c138b60b340b",
     "width": 413,
@@ -6945,7 +7111,9 @@
     "wikidata_ids": [
       "Q135935468"
     ],
-    "groups": [],
+    "groups": [
+      39
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -6957,6 +7125,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Camille_assise_sur_la_plage_%C3%A0_Trouville.JPG",
+      "source_revision_id": 1111343483,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q135935468"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_121572893",
+          "distance": 20
+        },
+        {
+          "id": "AIC_81540",
+          "distance": 22
+        },
+        {
+          "id": "CMA_125234",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 39
     }
   },
   {
@@ -7040,8 +7238,8 @@
     "museum": "Index collections (not verified current location): Baltimore Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Charing_Cross_Bridge,_Reflections_on_the_Thames.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_68238936.jpg",
     "sha256": "4e76b51026a66a22b992a80982e9d1860a877cca2daf9d1aa5cd6a7367813743",
     "width": 1280,
@@ -7050,7 +7248,9 @@
     "wikidata_ids": [
       "Q67188271"
     ],
-    "groups": [],
+    "groups": [
+      36
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -7068,6 +7268,38 @@
         "Baltimore Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Charing_Cross_Bridge,_Reflections_on_the_Thames.jpg",
+      "source_revision_id": 1182536455,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q67188271"
+      ],
+      "inventory_numbers": [
+        "1945.94"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "CMA_130391",
+          "distance": 22
+        },
+        {
+          "id": "Commons_79327189",
+          "distance": 22
+        },
+        {
+          "id": "Commons_90512468",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 36
     }
   },
   {
@@ -8165,8 +8397,8 @@
     "museum": "Index collections (not verified current location): Tokyo Fuji Art Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bateau_couch%C3%A9_%C3%A0_mar%C3%A9e_basse_(1881).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_130727246.jpg",
     "sha256": "92e29a83d025b976d6fccd73b4bf9a8687dc98859bcc4c8574cb58109974f736",
     "width": 1280,
@@ -8175,7 +8407,9 @@
     "wikidata_ids": [
       "Q79889777"
     ],
-    "groups": [],
+    "groups": [
+      41
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -8193,6 +8427,38 @@
         "Tokyo Fuji Art Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Bateau_couch%C3%A9_%C3%A0_mar%C3%A9e_basse_(1881).jpg",
+      "source_revision_id": 1080182418,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q79889777"
+      ],
+      "inventory_numbers": [
+        "1261"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_117020559",
+          "distance": 20
+        },
+        {
+          "id": "Commons_29920532",
+          "distance": 20
+        },
+        {
+          "id": "Commons_7296068",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 41
     }
   },
   {
@@ -8411,8 +8677,8 @@
     "museum": "Index collections (not verified current location): Fine Arts Museums of San Francisco",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Boats_Moored_at_Le_Petit-Gennevilliers,_1874.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_26537734.jpg",
     "sha256": "00063b7026af5e0ba1b374a6ae9c6550c7dd1be8df4efe007930f5fb560a206b",
     "width": 1280,
@@ -8421,7 +8687,9 @@
     "wikidata_ids": [
       "Q19868618"
     ],
-    "groups": [],
+    "groups": [
+      40
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -8439,6 +8707,38 @@
         "Fine Arts Museums of San Francisco"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Boats_Moored_at_Le_Petit-Gennevilliers,_1874.jpg",
+      "source_revision_id": 1269360057,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q19868618"
+      ],
+      "inventory_numbers": [
+        "1962.23"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "CMA_130391",
+          "distance": 16
+        },
+        {
+          "id": "NGA_142268",
+          "distance": 20
+        },
+        {
+          "id": "AIC_186316",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 40
     }
   },
   {
@@ -8962,8 +9262,8 @@
     "museum": "Index collections (not verified current location): Kunsthalle Bremen",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille.JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_2326984.jpg",
     "sha256": "82aaf291f3ee7931a049628b93a18937b8327645686f4d9842e3552be7c58002",
     "width": 1280,
@@ -8972,7 +9272,9 @@
     "wikidata_ids": [
       "Q829572"
     ],
-    "groups": [],
+    "groups": [
+      39
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -8990,6 +9292,38 @@
         "Kunsthalle Bremen"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille.JPG",
+      "source_revision_id": 1256835524,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q829572"
+      ],
+      "inventory_numbers": [
+        "298-1906/1"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_103139",
+          "distance": 22
+        },
+        {
+          "id": "Commons_139615640",
+          "distance": 22
+        },
+        {
+          "id": "Commons_155878",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 39
     }
   },
   {
@@ -8999,8 +9333,8 @@
     "museum": "Index collections (not verified current location): Metropolitan Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille_Monet_in_the_Garden_at_Argenteuil.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_23878728.jpg",
     "sha256": "25ad49dfdcdd1e3ae66c1a5af78135ba3ae9ac81e9b7b619e2cfab95a82d2f47",
     "width": 1280,
@@ -9009,7 +9343,9 @@
     "wikidata_ids": [
       "Q19905436"
     ],
-    "groups": [],
+    "groups": [
+      39
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -9027,6 +9363,38 @@
         "Metropolitan Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Camille_Monet_in_the_Garden_at_Argenteuil.jpg",
+      "source_revision_id": 1216683489,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q19905436"
+      ],
+      "inventory_numbers": [
+        "2000.93.1"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_7169557",
+          "distance": 18
+        },
+        {
+          "id": "AIC_16542",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16554",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 39
     }
   },
   {
@@ -9607,8 +9975,8 @@
     "museum": "Index collections (not verified current location): Musée Marmottan Monet",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Charing_Cross_Bridge_(W1554)_-_Marmottan-Monet.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_113330414.jpg",
     "sha256": "e80e4993481a038de217c41877385529b42666b7b18f0f5b907bff4e175b3f46",
     "width": 1280,
@@ -9617,7 +9985,9 @@
     "wikidata_ids": [
       "Q105099601"
     ],
-    "groups": [],
+    "groups": [
+      36
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -9635,6 +10005,38 @@
         "Musée Marmottan Monet"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Charing_Cross_Bridge_(W1554)_-_Marmottan-Monet.jpg",
+      "source_revision_id": 1126697840,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q105099601"
+      ],
+      "inventory_numbers": [
+        "5101"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_1169962",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22490787",
+          "distance": 22
+        },
+        {
+          "id": "Commons_49286782",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 36
     }
   },
   {
@@ -11568,8 +11970,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_L%27%C3%A9t%C3%A9_-_Champ_de_coquelicots.JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_1868619.jpg",
     "sha256": "df1f206dd8dd9a18719d07c365dda573b9524e022ef6bfb0b39710bf240e9ab9",
     "width": 1280,
@@ -11578,7 +11980,9 @@
     "wikidata_ids": [
       "Q50768368"
     ],
-    "groups": [],
+    "groups": [
+      38
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -11590,6 +11994,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_L%27%C3%A9t%C3%A9_-_Champ_de_coquelicots.JPG",
+      "source_revision_id": 1207770541,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q50768368"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_12115716",
+          "distance": 18
+        },
+        {
+          "id": "AIC_100191",
+          "distance": 22
+        },
+        {
+          "id": "AIC_15826",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 38
     }
   },
   {
@@ -15805,8 +16239,8 @@
     "museum": "Index collections (not verified current location): Matsukata Collection; National Museum of Western Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Peony_Garden_-_Google_Art_Project.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_21897502.jpg",
     "sha256": "6985c4e239efefa3f7870bf59ebaed4ca434803fbe74edfb3041969443e288e5",
     "width": 1280,
@@ -15815,7 +16249,9 @@
     "wikidata_ids": [
       "Q19123690"
     ],
-    "groups": [],
+    "groups": [
+      37
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -15835,6 +16271,38 @@
         "National Museum of Western Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Peony_Garden_-_Google_Art_Project.jpg",
+      "source_revision_id": 1126699739,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q19123690"
+      ],
+      "inventory_numbers": [
+        "P.1959-0153"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_16542",
+          "distance": 18
+        },
+        {
+          "id": "Commons_79327189",
+          "distance": 18
+        },
+        {
+          "id": "AIC_111318",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 37
     }
   },
   {
@@ -16291,8 +16759,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_21856167.jpg",
     "sha256": "9503b7b4b7147e6a7c7011858fdef54595aea3ac9c5383a961b679193a6d7ce9",
     "width": 1280,
@@ -16301,7 +16769,9 @@
     "wikidata_ids": [
       "Q3231771"
     ],
-    "groups": [],
+    "groups": [
+      38
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -16319,6 +16789,38 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project.jpg",
+      "source_revision_id": 1257327829,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3231771"
+      ],
+      "inventory_numbers": [
+        "RF 1676"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_59927",
+          "distance": 20
+        },
+        {
+          "id": "Commons_12115716",
+          "distance": 20
+        },
+        {
+          "id": "AIC_100191",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 38
     }
   },
   {
@@ -16328,8 +16830,8 @@
     "museum": "Index collections (not verified current location): Museum Boijmans Van Beuningen",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project_(430231).jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_22136032.jpg",
     "sha256": "d6bd65da875875ef7bb0314bdaa85c8d6e84ca120cad9f79cc12e1aa75d7afad",
     "width": 1280,
@@ -16338,7 +16840,9 @@
     "wikidata_ids": [
       "Q19926059"
     ],
-    "groups": [],
+    "groups": [
+      38
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -16356,6 +16860,38 @@
         "Museum Boijmans Van Beuningen"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Poppy_Field_-_Google_Art_Project_(430231).jpg",
+      "source_revision_id": 1126699848,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q19926059"
+      ],
+      "inventory_numbers": [
+        "2611 (MK)"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_79058939",
+          "distance": 20
+        },
+        {
+          "id": "Commons_12115716",
+          "distance": 22
+        },
+        {
+          "id": "Commons_55105249",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 38
     }
   },
   {
@@ -16518,8 +17054,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_21880421.jpg",
     "sha256": "3ba69f4232671375a7bde5c8987b6e88fd7815471bb2b56222236421d560bfd7",
     "width": 1280,
@@ -16528,7 +17064,9 @@
     "wikidata_ids": [
       "Q3454959"
     ],
-    "groups": [],
+    "groups": [
+      40
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -16546,6 +17084,38 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
+      "source_revision_id": 1257326805,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3454959"
+      ],
+      "inventory_numbers": [
+        "RF 2778"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "NGA_61375",
+          "distance": 18
+        },
+        {
+          "id": "Commons_139615640",
+          "distance": 20
+        },
+        {
+          "id": "Commons_16737531",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 40
     }
   },
   {
@@ -17085,8 +17655,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Saint-Lazare_Station,_the_Western_Region_Goods_Sheds.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_3960308.jpg",
     "sha256": "392244700ddf7f28ee96b9a873868e29bfee091099bbb2de2059cf92aa45d5ac",
     "width": 1065,
@@ -17095,7 +17665,9 @@
     "wikidata_ids": [
       "Q50007932"
     ],
-    "groups": [],
+    "groups": [
+      34
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -17107,6 +17679,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Saint-Lazare_Station,_the_Western_Region_Goods_Sheds.jpg",
+      "source_revision_id": 1126700196,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q50007932"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_7377095",
+          "distance": 16
+        },
+        {
+          "id": "Commons_22009552",
+          "distance": 18
+        },
+        {
+          "id": "NGA_61378",
+          "distance": 18
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 34
     }
   },
   {
@@ -18005,8 +18607,8 @@
     "museum": "Index collections (not verified current location): Yale University Art Gallery",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Artist%E2%80%99s_Garden_in_Giverny_-_1983.7.12_-_Yale_University_Art_Gallery.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_80548151.jpg",
     "sha256": "81c20a4a45b962e5c9e2c59b20214759b7a4d54d9ae0a2425a8787743f9bc075",
     "width": 1280,
@@ -18015,7 +18617,9 @@
     "wikidata_ids": [
       "Q49222037"
     ],
-    "groups": [],
+    "groups": [
+      37
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -18033,6 +18637,38 @@
         "Yale University Art Gallery"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Artist%E2%80%99s_Garden_in_Giverny_-_1983.7.12_-_Yale_University_Art_Gallery.jpg",
+      "source_revision_id": 1193227313,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q49222037"
+      ],
+      "inventory_numbers": [
+        "1983.7.12"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_15809",
+          "distance": 20
+        },
+        {
+          "id": "CMA_135382",
+          "distance": 20
+        },
+        {
+          "id": "Commons_121572893",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 37
     }
   },
   {
@@ -18120,8 +18756,8 @@
     "museum": "Index collections (not verified current location): National Gallery",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Beach_at_Trouville.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_201303862.jpg",
     "sha256": "950f8fcd5985b269c96071bb3bd406ae79fdfe80b91c9a3ee825b488f71d690d",
     "width": 1280,
@@ -18130,7 +18766,9 @@
     "wikidata_ids": [
       "Q24953806"
     ],
-    "groups": [],
+    "groups": [
+      41
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -18148,6 +18786,38 @@
         "National Gallery"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Beach_at_Trouville.jpg",
+      "source_revision_id": 1284678480,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q24953806"
+      ],
+      "inventory_numbers": [
+        "NG3951"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_39569723",
+          "distance": 18
+        },
+        {
+          "id": "AIC_103139",
+          "distance": 22
+        },
+        {
+          "id": "AIC_16544",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 41
     }
   },
   {
@@ -18567,8 +19237,8 @@
     "museum": "Index collections (not verified current location): Harvard Art Museums; Fogg Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Gare_Saint-Lazare;_Arrival_of_a_Train_-_1877.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_117416219.jpg",
     "sha256": "c06f7cf727983a99067f9b2244e5ee5ec0418c8c6ac9278906ea70f60150c25c",
     "width": 1280,
@@ -18577,7 +19247,9 @@
     "wikidata_ids": [
       "Q49985258"
     ],
-    "groups": [],
+    "groups": [
+      34
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -18597,6 +19269,38 @@
         "Fogg Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Gare_Saint-Lazare;_Arrival_of_a_Train_-_1877.jpg",
+      "source_revision_id": 1126700575,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q49985258"
+      ],
+      "inventory_numbers": [
+        "1951.53"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_22009559",
+          "distance": 16
+        },
+        {
+          "id": "NGA_61376",
+          "distance": 18
+        },
+        {
+          "id": "AIC_16579",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 34
     }
   },
   {
@@ -18606,8 +19310,8 @@
     "museum": "Index collections (not verified current location): Princeton Art Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Houses_of_Parliament,_Seagulls_-_y1979-54_-_Princeton_University_Art_Museum.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_105270166.jpg",
     "sha256": "77dc26d099601e46758d50efe1361f95b68a704e03b8590fbe8dbc759dd11158",
     "width": 1280,
@@ -18616,7 +19320,9 @@
     "wikidata_ids": [
       "Q106767908"
     ],
-    "groups": [],
+    "groups": [
+      36
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -18634,6 +19340,38 @@
         "Princeton Art Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Houses_of_Parliament,_Seagulls_-_y1979-54_-_Princeton_University_Art_Museum.jpg",
+      "source_revision_id": 1126700592,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q106767908"
+      ],
+      "inventory_numbers": [
+        "y1979-54"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_15803",
+          "distance": 22
+        },
+        {
+          "id": "CMA_135382",
+          "distance": 22
+        },
+        {
+          "id": "Commons_139444907",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 36
     }
   },
   {
@@ -19342,8 +20080,8 @@
     "museum": "Index collections (not verified current location): Minneapolis Institute of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Seashore_at_Sainte-Adresse_-_53.13_-_Minneapolis_Institute_of_Arts.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_45589856.jpg",
     "sha256": "0bdb0037fcf5248b4ddc8507b208e9e6b1a383a686bbc70a3d345bcdda04f3b7",
     "width": 1280,
@@ -19352,7 +20090,9 @@
     "wikidata_ids": [
       "Q20890806"
     ],
-    "groups": [],
+    "groups": [
+      41
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -19370,6 +20110,38 @@
         "Minneapolis Institute of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Seashore_at_Sainte-Adresse_-_53.13_-_Minneapolis_Institute_of_Arts.jpg",
+      "source_revision_id": 1256832954,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q20890806"
+      ],
+      "inventory_numbers": [
+        "53.13"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "NGA_61375",
+          "distance": 20
+        },
+        {
+          "id": "AIC_14598",
+          "distance": 22
+        },
+        {
+          "id": "Commons_141151696",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 41
     }
   },
   {
@@ -20142,8 +20914,8 @@
     "museum": "Index collections (not verified current location): Pola Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Train_Tracks_at_the_Saint-Lazare_Station.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_5791927.jpg",
     "sha256": "4b03afeaa46bc2ec8cbd78b1b56e2286b7dfe97f29d823637e5577b53c00b115",
     "width": 1280,
@@ -20152,7 +20924,9 @@
     "wikidata_ids": [
       "Q47618043"
     ],
-    "groups": [],
+    "groups": [
+      34
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -20170,6 +20944,38 @@
         "Pola Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Train_Tracks_at_the_Saint-Lazare_Station.jpg",
+      "source_revision_id": 1172843510,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q47618043"
+      ],
+      "inventory_numbers": [
+        "016-0036"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_84635551",
+          "distance": 16
+        },
+        {
+          "id": "Commons_22490787",
+          "distance": 18
+        },
+        {
+          "id": "Commons_21990471",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 34
     }
   },
   {
@@ -20636,8 +21442,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voilier_au_Petit-Gennevilliers.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_81706967.jpg",
     "sha256": "10a2893549f0b80f56423a7c9d4710bf93600000286b4a730432b97096fde0ad",
     "width": 1280,
@@ -20646,7 +21452,9 @@
     "wikidata_ids": [
       "Q66821486"
     ],
-    "groups": [],
+    "groups": [
+      40
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -20658,6 +21466,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Voilier_au_Petit-Gennevilliers.jpg",
+      "source_revision_id": 1126701094,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q66821486"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "CMA_95272",
+          "distance": 20
+        },
+        {
+          "id": "AIC_87088",
+          "distance": 22
+        },
+        {
+          "id": "Commons_157527765",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 40
     }
   },
   {
@@ -21888,8 +22726,8 @@
     "museum": "Index collections (not verified current location): Walters Art Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Windmills_Near_Zaandam_-_Walters_37894.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_18843520.jpg",
     "sha256": "82e3472bc8721dc5412dbe67a44a8ff009dfd62f0312add04b0d71381f6d16f7",
     "width": 1280,
@@ -21898,7 +22736,9 @@
     "wikidata_ids": [
       "Q18748447"
     ],
-    "groups": [],
+    "groups": [
+      35
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -21916,6 +22756,38 @@
         "Walters Art Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Windmills_Near_Zaandam_-_Walters_37894.jpg",
+      "source_revision_id": 1257316412,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q18748447"
+      ],
+      "inventory_numbers": [
+        "37.894"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_4783",
+          "distance": 22
+        },
+        {
+          "id": "AIC_81537",
+          "distance": 22
+        },
+        {
+          "id": "Commons_141151696",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 35
     }
   },
   {
@@ -23655,8 +24527,8 @@
     "museum": "Index collections (not verified current location): Metropolitan Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_1867,_Regatta_at_Sainte-Adresse,_Metropolitan_Museum_of_Art.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_30333861.jpg",
     "sha256": "877c0859ff962da8f3d90336a8b3bbe951812a9d2cca2166fac6d908637026d5",
     "width": 1280,
@@ -23665,7 +24537,9 @@
     "wikidata_ids": [
       "Q734082"
     ],
-    "groups": [],
+    "groups": [
+      40
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -23683,6 +24557,38 @@
         "Metropolitan Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_1867,_Regatta_at_Sainte-Adresse,_Metropolitan_Museum_of_Art.jpg",
+      "source_revision_id": 1281958773,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q734082"
+      ],
+      "inventory_numbers": [
+        "51.30.4"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_16737531",
+          "distance": 22
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 24
+        },
+        {
+          "id": "CMA_130391",
+          "distance": 24
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 40
     }
   },
   {
@@ -24446,8 +25352,8 @@
     "museum": "Index collections (not verified current location): National Gallery",
     "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Gare_St-Lazare,_1877.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_30676817.jpg",
     "sha256": "e35696c40e8568cb509a60362f97116b34ac1c4208e8f0d6999baab86c9cfdb1",
     "width": 1280,
@@ -24456,7 +25362,9 @@
     "wikidata_ids": [
       "Q24953827"
     ],
-    "groups": [],
+    "groups": [
+      34
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -24474,6 +25382,38 @@
         "National Gallery"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Gare_St-Lazare,_1877.jpg",
+      "source_revision_id": 1201107981,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q24953827"
+      ],
+      "inventory_numbers": [
+        "NG6479"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_7169557",
+          "distance": 20
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 22
+        },
+        {
+          "id": "Commons_21864201",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 34
     }
   },
   {
@@ -26285,8 +27225,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Femme_%C3%A0_l%27ombrelle_tourn%C3%A9e_vers_la_droite_-_Claude_Monnet_-_Mus%C3%A9e_d%27Orsay_RF_2620.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_148531043.jpg",
     "sha256": "57d020047356d90f5a72ad7b47a5a4c95650e74118b5d2058393cdac5bcd3fea",
     "width": 1280,
@@ -26295,7 +27235,9 @@
     "wikidata_ids": [
       "Q2385427"
     ],
-    "groups": [],
+    "groups": [
+      39
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -26313,6 +27255,38 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Femme_%C3%A0_l%27ombrelle_tourn%C3%A9e_vers_la_droite_-_Claude_Monnet_-_Mus%C3%A9e_d%27Orsay_RF_2620.jpg",
+      "source_revision_id": 1251095556,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q2385427"
+      ],
+      "inventory_numbers": [
+        "RF 2620"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_79058939",
+          "distance": 20
+        },
+        {
+          "id": "Commons_155848",
+          "distance": 22
+        },
+        {
+          "id": "Commons_21864201",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 39
     }
   },
   {
@@ -26322,8 +27296,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Femme_%C3%A0_l%27ombrelle_tourn%C3%A9e_vers_la_gauche_-_Claude_Monnet_-_Mus%C3%A9e_d%27Orsay_RF_2621.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_148530226.jpg",
     "sha256": "b88ef42f3a0f7eb141de45892e9d4102de04e91e02522d8e55c19f10a0d603b6",
     "width": 1280,
@@ -26332,7 +27306,9 @@
     "wikidata_ids": [
       "Q1451508"
     ],
-    "groups": [],
+    "groups": [
+      39
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -26350,6 +27326,38 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Femme_%C3%A0_l%27ombrelle_tourn%C3%A9e_vers_la_gauche_-_Claude_Monnet_-_Mus%C3%A9e_d%27Orsay_RF_2621.jpg",
+      "source_revision_id": 1139092598,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q1451508"
+      ],
+      "inventory_numbers": [
+        "RF 2621"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_117016153",
+          "distance": 20
+        },
+        {
+          "id": "Commons_141151696",
+          "distance": 20
+        },
+        {
+          "id": "Commons_506301",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 39
     }
   },
   {
@@ -26711,8 +27719,8 @@
     "museum": "Index collections (not verified current location): Metropolitan Museum of Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Houses_on_the_Achterzaan_MET_DT719.jpg",
     "rights": "CC0",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_57395705.jpg",
     "sha256": "b3b6ca3d7b4eb018b7f9dae2d3bebff7f0f39e08de276b435beb1e3e67c0131c",
     "width": 1280,
@@ -26721,7 +27729,9 @@
     "wikidata_ids": [
       "Q20180920"
     ],
-    "groups": [],
+    "groups": [
+      35
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -26739,6 +27749,38 @@
         "Metropolitan Museum of Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Houses_on_the_Achterzaan_MET_DT719.jpg",
+      "source_revision_id": 1304092788,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "CC0",
+      "wikidata_ids": [
+        "Q20180920"
+      ],
+      "inventory_numbers": [
+        "1975.1.196"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_186315",
+          "distance": 20
+        },
+        {
+          "id": "CMA_125234",
+          "distance": 22
+        },
+        {
+          "id": "Commons_29674708",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 35
     }
   },
   {
@@ -27247,8 +28289,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_44758348.jpg",
     "sha256": "84fcf6cc48504f9f8590148b998961776bbc4924b08ef5cec3307f09cbf7677b",
     "width": 1280,
@@ -27258,7 +28300,9 @@
       "Q2270028",
       "Q49985736"
     ],
-    "groups": [],
+    "groups": [
+      34
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -27276,6 +28320,39 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
+      "source_revision_id": 983301416,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q2270028",
+        "Q49985736"
+      ],
+      "inventory_numbers": [
+        "RF 2775"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_79058939",
+          "distance": 16
+        },
+        {
+          "id": "AIC_111318",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20545",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 34
     }
   },
   {
@@ -28653,8 +29730,8 @@
     "museum": "Index collections (not verified current location): Impressionism: The Hasso Plattner Collection; Museum Barberini",
     "source_url": "https://commons.wikimedia.org/wiki/File:MB-Mon-01_Monet_Der-Hafen-von-Zaandam_1.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_106018412.jpg",
     "sha256": "56a550bd6232912dee6571442b07137edd946163699c615e5412e48821afacf5",
     "width": 1280,
@@ -28663,7 +29740,9 @@
     "wikidata_ids": [
       "Q108479161"
     ],
-    "groups": [],
+    "groups": [
+      35
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -28683,6 +29762,38 @@
         "Museum Barberini"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MB-Mon-01_Monet_Der-Hafen-von-Zaandam_1.jpg",
+      "source_revision_id": 1295122665,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q108479161"
+      ],
+      "inventory_numbers": [
+        "MB-Mon-01"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_14630",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20535",
+          "distance": 20
+        },
+        {
+          "id": "AIC_97933",
+          "distance": 20
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 35
     }
   },
   {
@@ -30217,8 +31328,8 @@
     "museum": "Index collections (not verified current location): unspecified",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Das_blaue_Haus_in_Zaandam.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_7175900.jpg",
     "sha256": "0d1f0db6c33d3b652a1a3177621e12931aa3f9850b6fa338988a94fb4fcd30db",
     "width": 1060,
@@ -30227,7 +31338,9 @@
     "wikidata_ids": [
       "Q50772899"
     ],
-    "groups": [],
+    "groups": [
+      35
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [],
@@ -30239,6 +31352,36 @@
       "harvest": "20261020-global",
       "collection_names": [],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Das_blaue_Haus_in_Zaandam.jpg",
+      "source_revision_id": 1257316419,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q50772899"
+      ],
+      "inventory_numbers": [],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_15800",
+          "distance": 20
+        },
+        {
+          "id": "AIC_20545",
+          "distance": 20
+        },
+        {
+          "id": "AIC_14620",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 35
     }
   },
   {
@@ -30876,8 +32019,8 @@
     "museum": "Index collections (not verified current location): Musée d'Orsay",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Monets_Garten_in_Giverny.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_7170275.jpg",
     "sha256": "b5454afcf3653010d92bbbc249e3bc31a17577893467ec84960a14d826cd0d87",
     "width": 977,
@@ -30886,7 +32029,9 @@
     "wikidata_ids": [
       "Q3794124"
     ],
-    "groups": [],
+    "groups": [
+      37
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -30904,6 +32049,38 @@
         "Musée d'Orsay"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Monets_Garten_in_Giverny.jpg",
+      "source_revision_id": 1057028588,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q3794124"
+      ],
+      "inventory_numbers": [
+        "RF 1983 6"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "NGA_45872",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16568",
+          "distance": 22
+        },
+        {
+          "id": "AIC_81537",
+          "distance": 24
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 37
     }
   },
   {
@@ -31131,8 +32308,8 @@
     "museum": "Index collections (not verified current location): Impressionism: The Hasso Plattner Collection; Museum Barberini",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Rosenstraeucher_im_Garten_von_Montgeron.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_107360648.jpg",
     "sha256": "f7f5407bfa31697be1c55e4d9e2977cf971b090c02f15113c35b9cb468080a31",
     "width": 1280,
@@ -31141,7 +32318,9 @@
     "wikidata_ids": [
       "Q106906333"
     ],
-    "groups": [],
+    "groups": [
+      37
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -31161,6 +32340,38 @@
         "Museum Barberini"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet_-_Rosenstraeucher_im_Garten_von_Montgeron.jpg",
+      "source_revision_id": 1295123249,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q106906333"
+      ],
+      "inventory_numbers": [
+        "MB-Mon-06"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_15818",
+          "distance": 18
+        },
+        {
+          "id": "NGA_61378",
+          "distance": 18
+        },
+        {
+          "id": "AIC_15803",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 37
     }
   },
   {
@@ -41633,8 +42844,8 @@
     "museum": "Index collections (not verified current location): Strasbourg Museum of Modern and Contemporary Art",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Champ_d%27avoine_aux_coquelicots_(_Mus%C3%A9e_d%27art_moderne_et_contemporain,_Strasbourg_).JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_12777205.jpg",
     "sha256": "044b17f45500d0432afa9515df4e466fbf164e3a59dbeb688d84c4167de3894c",
     "width": 1000,
@@ -41643,7 +42854,9 @@
     "wikidata_ids": [
       "Q47510174"
     ],
-    "groups": [],
+    "groups": [
+      38
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -41661,6 +42874,38 @@
         "Strasbourg Museum of Modern and Contemporary Art"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Champ_d%27avoine_aux_coquelicots_(_Mus%C3%A9e_d%27art_moderne_et_contemporain,_Strasbourg_).JPG",
+      "source_revision_id": 1070300078,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q47510174"
+      ],
+      "inventory_numbers": [
+        "55.974.0.683"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "NGA_52186",
+          "distance": 18
+        },
+        {
+          "id": "Commons_7186206",
+          "distance": 20
+        },
+        {
+          "id": "AIC_16554",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 38
     }
   },
   {
@@ -42010,8 +43255,8 @@
     "museum": "Index collections (not verified current location): Hermitage Museum",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Claude_-_Poppy_Field.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_7280089.jpg",
     "sha256": "4f3f2a572b64c5ccd31d1cab3912944443e85424b9805fef580f964900499976",
     "width": 1280,
@@ -42020,7 +43265,9 @@
     "wikidata_ids": [
       "Q19869038"
     ],
-    "groups": [],
+    "groups": [
+      38
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -42038,6 +43285,38 @@
         "Hermitage Museum"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet,_Claude_-_Poppy_Field.jpg",
+      "source_revision_id": 1275986173,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q19869038"
+      ],
+      "inventory_numbers": [
+        "ГЭ-9004"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_2327127",
+          "distance": 18
+        },
+        {
+          "id": "AIC_16554",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22140698",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 38
     }
   },
   {
@@ -42536,8 +43815,8 @@
     "museum": "Index collections (not verified current location): National Gallery of Ireland",
     "source_url": "https://commons.wikimedia.org/wiki/File:Monet-ArgenteuilBasinWithASingleSailboat.jpg",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_37911822.jpg",
     "sha256": "d6b24bfc6c993907ae6cf8bfc306f8cea6469fd11f7c0627b16bbfc7201c9500",
     "width": 1280,
@@ -42546,7 +43825,9 @@
     "wikidata_ids": [
       "Q19570879"
     ],
-    "groups": [],
+    "groups": [
+      40
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -42564,6 +43845,38 @@
         "National Gallery of Ireland"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Monet-ArgenteuilBasinWithASingleSailboat.jpg",
+      "source_revision_id": 1147252355,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q19570879"
+      ],
+      "inventory_numbers": [
+        "NGI.852"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "AIC_64818",
+          "distance": 22
+        },
+        {
+          "id": "Commons_155878",
+          "distance": 22
+        },
+        {
+          "id": "Commons_22140698",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 40
     }
   },
   {
@@ -45459,8 +46772,8 @@
     "museum": "Index collections (not verified current location): Musée Marmottan Monet",
     "source_url": "https://commons.wikimedia.org/wiki/File:The_Artist%27s_House_Seen_from_the_Rose_Garden_by_Claude_Monet_5086.JPG",
     "rights": "Public domain",
-    "status": "candidate_ready",
-    "notes": "来源许可与图像文件通过自动初筛；题名、馆藏和作品身份未逐件人工核验",
+    "status": "approved",
+    "notes": "2026-11-22逐图复核来源许可、作品身份、主题画面及历史版本；未发现与已记录分组重复",
     "file": "assets/artworks/commons/Commons_80381223.jpg",
     "sha256": "e9f372945ef9a9a32018e8cb1ccca50e22886a88d0155121ed6682a0d501c9e6",
     "width": 1280,
@@ -45469,7 +46782,9 @@
     "wikidata_ids": [
       "Q105099589"
     ],
-    "groups": [],
+    "groups": [
+      37
+    ],
     "source_metadata": {
       "creator": "Claude Monet",
       "inventory_numbers": [
@@ -45487,6 +46802,38 @@
         "Musée Marmottan Monet"
       ],
       "collection_caveat": "Wikidata collection statements may include historical owners; not a verified present museum location."
+    },
+    "review_verification": {
+      "checked_at": "2026-11-22T10:38:44.102525+08:00",
+      "run_id": "window-20261122",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Artist%27s_House_Seen_from_the_Rose_Garden_by_Claude_Monet_5086.JPG",
+      "source_revision_id": 1192662105,
+      "creator_evidence": "Claude Monet",
+      "rights_evidence": "Public domain",
+      "wikidata_ids": [
+        "Q105099589"
+      ],
+      "inventory_numbers": [
+        "5086"
+      ],
+      "identity_check": "Compared indexed work IDs and source collection/inventory facts where available; no overlap with known IDs of recorded posts",
+      "historical_comparison": "SHA-256 and full/cropped pHash against 165 historical files; visually inspected selected image and three nearest historical matches; coherent five-image themes",
+      "nearest_historical": [
+        {
+          "id": "Commons_22140927",
+          "distance": 20
+        },
+        {
+          "id": "AIC_64818",
+          "distance": 22
+        },
+        {
+          "id": "CMA_135382",
+          "distance": 22
+        }
+      ],
+      "visual_theme_review": "Inspected whole group; no new cropping, frames, or colour grading applied",
+      "group": 37
     }
   },
   {

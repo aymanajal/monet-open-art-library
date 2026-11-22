@@ -11,9 +11,9 @@
     "downloaded": 1307
   },
   "new_status_counts": {
-    "candidate_ready": 799,
+    "candidate_ready": 759,
     "review_version": 91,
-    "approved": 45,
+    "approved": 85,
     "review_near_duplicate": 120,
     "review_low_resolution": 79,
     "review_metadata": 19,

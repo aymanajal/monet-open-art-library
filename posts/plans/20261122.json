@@ -1,0 +1,123 @@
+{
+  "run_id": "window-20261122",
+  "timezone": "Asia/Shanghai",
+  "cadence": "weekdays_daily",
+  "state": "reserved_not_uploaded",
+  "platform_precheck_evidence": "check_login_status returned 已登录; public profile returned 48 notes; creator manager confirmed only two existing scheduled notes. Group32 was updated in place to Monday Nov23 with same post ID; group33 remains Tuesday Nov24. New eight titles are not in observed lists.",
+  "groups": [
+    {
+      "group": 34,
+      "schedule_at": "2026-11-25T20:00:00+08:00",
+      "title": "莫奈的车站｜蒸汽中的巴黎",
+      "content": "铁轨、棚顶和列车，被蒸汽与光连接起来。看这五幅圣拉扎尔车站，城市的忙碌也有了流动的颜色。",
+      "asset_ids": [
+        "Commons_3960308",
+        "Commons_117416219",
+        "Commons_5791927",
+        "Commons_30676817",
+        "Commons_44758348"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 35,
+      "schedule_at": "2026-11-26T20:00:00+08:00",
+      "title": "莫奈的荷兰｜风车与水岸",
+      "content": "风车、木屋和停泊的船，沿着水岸慢慢展开。莫奈笔下的荷兰小镇，藏着天空与倒影之间安静的日常。",
+      "asset_ids": [
+        "Commons_23876119",
+        "Commons_18843520",
+        "Commons_57395705",
+        "Commons_106018412",
+        "Commons_7175900"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 36,
+      "schedule_at": "2026-11-27T20:00:00+08:00",
+      "title": "莫奈的伦敦｜雾里的颜色",
+      "content": "桥梁与远处的建筑，在雾气里失去坚硬的轮廓。蓝、紫和微暖的光，让五幅伦敦风景各有自己的情绪。",
+      "asset_ids": [
+        "Commons_44575297",
+        "Commons_189209657",
+        "Commons_68238936",
+        "Commons_113330414",
+        "Commons_105270166"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 37,
+      "schedule_at": "2026-11-30T20:00:00+08:00",
+      "title": "莫奈的花径｜走进颜色里",
+      "content": "花丛、树影和花园深处的房屋，在光里慢慢变成一片颜色。五幅花园风景，一起沿着花径走一走。",
+      "asset_ids": [
+        "Commons_21897502",
+        "Commons_80548151",
+        "Commons_7170275",
+        "Commons_107360648",
+        "Commons_80381223"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 38,
+      "schedule_at": "2026-12-01T20:00:00+08:00",
+      "title": "莫奈的花田｜草地上的红",
+      "content": "红色花点散在草地里，远处的树与天空轻轻接住它们。五幅罂粟花田，把明亮的风景留在笔触之间。",
+      "asset_ids": [
+        "Commons_1868619",
+        "Commons_21856167",
+        "Commons_22136032",
+        "Commons_12777205",
+        "Commons_7280089"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 39,
+      "schedule_at": "2026-12-02T20:00:00+08:00",
+      "title": "莫奈的衣裙｜人物与光",
+      "content": "有人坐在海边，有人走进花园。衣裙、草木与天空之间，莫奈把人的身影融进了光。五幅人物画，慢慢看。",
+      "asset_ids": [
+        "Commons_68950889",
+        "Commons_2326984",
+        "Commons_23878728",
+        "Commons_148531043",
+        "Commons_148530226"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 40,
+      "schedule_at": "2026-12-03T20:00:00+08:00",
+      "title": "莫奈的白帆｜水上的风",
+      "content": "白帆展开，水面把天空的颜色轻轻打散。停泊与竞渡之间，莫奈用五幅画留住了风经过的样子。",
+      "asset_ids": [
+        "Commons_26537734",
+        "Commons_21880421",
+        "Commons_81706967",
+        "Commons_30333861",
+        "Commons_37911822"
+      ],
+      "status": "submission_in_progress"
+    },
+    {
+      "group": 41,
+      "schedule_at": "2026-12-04T20:00:00+08:00",
+      "title": "莫奈的岸边｜沙滩与海光",
+      "content": "岸边的人、停泊的船和云下的海，让风景有了生活的节奏。看这五幅海边作品，留意浪花与天空不同的蓝灰。",
+      "asset_ids": [
+        "Commons_37858095",
+        "Commons_201303862",
+        "Commons_68931667",
+        "Commons_45589856",
+        "Commons_130727246"
+      ],
+      "status": "submission_in_progress"
+    }
+  ],
+  "reviewed_at": "2026-11-22T10:38:44.102525+08:00",
+  "excluded_near_compositions": []
+}
