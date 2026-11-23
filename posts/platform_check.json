@@ -1,11 +1,11 @@
 {
-  "checked_on": "2026-11-22",
-  "checked_at": "2026-11-22T02:47:33.188Z",
+  "checked_on": "2026-11-23",
+  "checked_at": "2026-11-23T10:03:00.448615+08:00",
   "timezone": "Asia/Shanghai",
   "login_status": "logged_in",
-  "run_id": "window-20261122",
-  "evidence": "check_login_status returned 已登录; public profile returned 48 notes; creator manager confirmed only two existing scheduled notes. Group32 was updated in place to Monday Nov23 with same post ID; group33 remains Tuesday Nov24. New eight titles are not in observed lists.",
-  "new_uploads_this_run": 8,
+  "run_id": "heartbeat-20261123",
+  "evidence": "check_login_status returned logged in; creator saved list confirmed all 10 future scheduled titles/times; no available unscheduled weekday falls within the current 14-day window",
+  "new_uploads_this_run": 0,
   "actual_publication_checked": false,
   "tool_version": "v2.5.0",
   "schedule_min_hours": 1,
@@ -23,5 +23,6 @@
     40,
     41
   ],
-  "schedule_evidence_file": "docs/reviews/window-20261122_platform_schedule_check.json"
+  "schedule_evidence_file": "docs/reviews/heartbeat-20261123_platform_schedule_check.json",
+  "next_open_slot": "2026-12-07T20:00:00+08:00"
 }
